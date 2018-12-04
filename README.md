@@ -22,6 +22,7 @@ This is a machine translation reading list maintained by the Tsinghua Natural La
     * [Visualization and Interpretability](#visualization_and_interpretability)
     * [Efficiency](#efficiency)
     * [Multi-modality](#multi_modality)
+    * [Quality Estimation](#quality_estimation)
 
 <h2 id="statistical_machine_translation">Statistical Machine Translation</h2>
 
@@ -138,3 +139,7 @@ Yong Cheng, Shiqi Shen, Zhongjun He, Wei He, Hua Wu, Maosong Sun, and Yang Liu. 
 <h3 id="multi_modality">Multi-modality</h3>
 
 * Iacer Calixto, Qun Liu, and Nick Campbell. 2017. [Doubly-Attentive Decoder for Multi-modal Neural Machine Translation](http://aclweb.org/anthology/P17-1175). In *Proceedings of ACL 2017*.
+
+<h3 id="quality_estimation">Quality Estimation</h3>
+
+* Kai Fan, Jiayi Wang, Bo Li, Fengming Zhou, Boxing Chen, and Luo Si. 2019. ["Bilingual Expert" Can Find Translation Errors](https://arxiv.org/pdf/1807.09433). In *Proceedings of AAAI 2019*.
