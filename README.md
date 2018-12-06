@@ -1,11 +1,11 @@
-# Machine Translation Reading List
+﻿# Machine Translation Reading List
 This is a machine translation reading list maintained by the Tsinghua Natural Language Processing Group.
 
 * [8 Must Reads](#8_must_reads)
 * [Statistical Machine Translation](#statistical_machine_translation)
     * [Word-based Models](#word_based_models)
     * [Phrase-based Models](#phrase_based_models)
-    * [Syntax-based Models](#phrase_based_models)
+    * [Syntax-based Models](#syntax_based_models)
     * [Discriminative Training](#discriminative_training)
     * [System Combination](#system_combination)
     * [Evaluation](#evaluation)
