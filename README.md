@@ -21,7 +21,6 @@ This is a machine translation reading list maintained by the Tsinghua Natural La
     * [Document-level Translation](#document_level_translation)
     * [Robustness](#robustness)
     * [Visualization and Interpretability](#visualization_and_interpretability)
-    * [Fairness](#fairness)    
     * [Efficiency](#efficiency)
     * [Speech Translation](#speech_translation)
     * [Multi-modality](#multi_modality)
@@ -171,7 +170,6 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Sergey Edunov, Myle Ott, Michael Auli, and David Grangier. 2018. [Understanding Back-Translation at Scale](http://aclweb.org/anthology/D18-1045). In *Proceedings of EMNLP 2018*.
 * Guillaume Lample, Myle Ott, Alexis Conneau, Ludovic Denoyer, and Marc'Aurelio Ranzato. 2018. [Phrase-Based & Neural Unsupervised Machine Translation](http://aclweb.org/anthology/D18-1549). In *Proceedings of EMNLP 2018*.
 * Xinyi Wang, Hieu Pham, Zihang Dai, and Graham Neubig. 2018. [SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation](http://aclweb.org/anthology/D18-1100). In *Proceedings of EMNLP 2018*.
-*Jiatao Gu, Yong Wang, Yun Chen, Kyunghyun Cho, and Victor O.K. Li. 2018. [Meta-Learning for Low-Resource Neural Machine Translation](http://aclweb.org/anthology/D18-1398). In *Proceedings of EMNLP 2018*.
 
 <h3 id="multiple_language_translation">Multiple Language Translation</h3>
 
@@ -216,25 +214,12 @@ Yong Cheng, Shiqi Shen, Zhongjun He, Wei He, Hua Wu, Maosong Sun, and Yang Liu. 
 
 <h3 id="robustness">Robustness</h3>
 
-*Yonatan Belinkov and Yonatan Bisk. 2018. [Synthetic and Natural Noise Both Break Neural Machine Translation](https://openreview.net/pdf?id=BJ8vJebC-). In *Proceedings of ICLR 2018*.
-*Javid Ebrahimi, Daniel Lowd, and Dejing Dou. 2018. [On Adversarial Examples for Character-Level Neural Machine Translation](http://aclweb.org/anthology/C18-1055). In *Proceedings of COLING 2018*
 * Yong Cheng, Zhaopeng Tu, Fandong Meng, Junjie Zhai, and Yang Liu. 2018. [Towards Robust Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2018_cy.pdf). In *Proceedings of ACL 2018*.
-*Marco Tulio Ribeiro, Sameer Singh, and Carlos Guestrin. 2018. [Semantically Equivalent Adversarial Rules for Debugging NLP models](http://aclweb.org/anthology/P18-1079). In *Proceedings of ACL 2018*.
 * Paul Michel and Graham Neubig. 2018. [MTNT: A Testbed for Machine Translation of Noisy Text](http://aclweb.org/anthology/D18-1050). In *Proceedings of EMNLP 2018*.
 
 <h3 id="visualization_and_interpretability">Visualization and Interpretability</h3>
 
 * Yanzhuo Ding, Yang Liu, Huanbo Luan and Maosong Sun. 2017. [Visualizing and Understanding Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_dyz.pdf). In *Proceedings of ACL 2017*.
-* Hendrik Strobelt, Sebastian Gehrmann, Michael Behrisch, Adam Perer, Hanspeter Pfister, and Alexander M. Rush. 2018. [Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models](https://arxiv.org/pdf/1804.09299.pdf). In *Proceedings of VAST 2018* and *Proceedings of EMNLP-BlackBox 2018*.
-*Alessandro Raganato and Jorg Tiedemann. 2018. [An Analysis of Encoder Representations in Transformer-Based Machine Translation](http://aclweb.org/anthology/W18-5431). In *Proceedings of EMNLP-BlackBox 2018*.
-*Felix Stahlberg, Danielle Saunders, and Bill Byrne. 2018. [An Operation Sequence Model for Explainable Neural Machine Translation](http://aclweb.org/anthology/W18-5420). In *Proceedings of EMNLP-BlackBox 2018*.
-[//]: #*Anthony Bau, Yonatan Belinkov, Hassan Sajjad, Nadir Durrani, Fahim Dalvi, James Glass. 2019. [Identifying and Controlling Important Neurons in Neural Machine Translation](https://arxiv.org/pdf/1811.01157.pdf). In *Proceedings of XXX 2019*.
-
-<h3 id="fairness">Fairness</h3>
-
-*Rico Sennrich, Barry Haddow and Alexandra Birch. 2016. [Controlling Politeness in Neural Machine Translation via Side Constraints](http://aclweb.org/anthology/N16-1005). In *Proceedings of NAACL 2016*.
-*Eva Vanmassenhove, Christian Hardmeier, and Andy Way. 2018. [Getting Gender Right in Neural Machine Translation](http://www.aclweb.org/anthology/D18-1334). In *Proceedings of EMNLP 2018*.
-[//]: #*Marcelo O. R. Prates, Pedro H. C. Avelar, and Luis Lamb. 2019. [Assessing Gender Bias in Machine Translation -- A Case Study with Google Translate](https://arxiv.org/pdf/1809.02208.pdf). In XXX.
 
 <h3 id="efficiency">Efficiency</h3>
 
