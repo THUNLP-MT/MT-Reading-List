@@ -3,6 +3,7 @@ This is a machine translation reading list maintained by the Tsinghua Natural La
 
 * [8 Must Reads](#8_must_reads)
 * [Statistical Machine Translation](#statistical_machine_translation)
+    * [Tutorials](#tutorials)
     * [Word-based Models](#word_based_models)
     * [Phrase-based Models](#phrase_based_models)
     * [Syntax-based Models](#syntax_based_models)
@@ -44,6 +45,11 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h2 id="statistical_machine_translation">Statistical Machine Translation</h2>
 
+<h3 id="tutorials">Tutorials</h3>
+
+* Philipp Koehn. 2006. [Statistical Machine Translation: the basic, the novel, and the speculative](http://homepages.inf.ed.ac.uk/pkoehn/publications/tutorial2006.pdf). EACL Tutorial.
+* Yang Liu and Liang Huang. 2010. [Tree-based and Forest-based Translation](http://nlp.csai.tsinghua.edu.cn/~ly/talks/acl-tut.pdf). ACL Tutorial.
+
 <h3 id="word_based_models">Word-based Models</h3>
 
 * Peter E. Brown, Stephen A. Della Pietra, Vincent J. Della Pietra, and Robert L. Mercer. 1993. [The Mathematics of Statistical Machine Translation: Parameter Estimation](http://aclweb.org/anthology/J93-2003). *Computational Linguistics*.
@@ -82,8 +88,9 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h3 id="tutorials">Tutorials</h3>
 
-* Thang Luong, Kyunghyun Cho, and Christopher Manning. 2016. [Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf). In *Tutorials of ACL 2016*.
-* Oriol Vinyals and Navdeep Jaitly. 2017. [Seq2Seq ICML Tutorial](https://docs.google.com/presentation/d/1quIMxEEPEf5EkRHc2USQaoJRC4QNX6_KomdZTBMBWjk/present?slide=id.p). In *Tutorials of ICML 2017*.
+* Thang Luong, Kyunghyun Cho, and Christopher Manning. 2016. [Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf). ACL Tutorial.
+* Yang Liu. 2016. [Advances in Neural Machne Translation](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt2016_ly_v3_160826.pptx) *(in Chinese)*. CWMT Invited Talk.
+* Oriol Vinyals and Navdeep Jaitly. 2017. [Seq2Seq ICML Tutorial](https://docs.google.com/presentation/d/1quIMxEEPEf5EkRHc2USQaoJRC4QNX6_KomdZTBMBWjk/present?slide=id.p). ICML Tutorial.
 
 <h3 id="model_architecture">Model Architecture</h3>
 
