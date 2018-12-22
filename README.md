@@ -10,6 +10,7 @@ This is a machine translation reading list maintained by the Tsinghua Natural La
     * [System Combination](#system_combination)
     * [Evaluation](#evaluation)
  * [Neural Machine Translation](#neural_machine_translation)
+    * [Tutorials](#tutorials) 
     * [Model Architecture](#model_architecture)
     * [Attention Mechanism](#attention_mechanism)
     * [Open Vocabulary](#open_vocabulary)
@@ -78,6 +79,11 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002. [BLEU: a Method for Automatic Evaluation of Machine Translation](http://aclweb.org/anthology/P02-1040). In *Proceedings of ACL 2002*.
 
 <h2 id="neural_machine_translation">Neural Machine Translation</h2>
+
+<h3 id="tutorials">Tutorials</h3>
+
+* Thang Luong, Kyunghyun Cho, and Christopher Manning. 2016. [Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf). In *Tutorials of ACL 2016*.
+* Oriol Vinyals and Navdeep Jaitly. 2017. [Seq2Seq ICML Tutorial](https://docs.google.com/presentation/d/1quIMxEEPEf5EkRHc2USQaoJRC4QNX6_KomdZTBMBWjk/present?slide=id.p). In *Tutorials of ICML 2017*.
 
 <h3 id="model_architecture">Model Architecture</h3>
 
