@@ -49,8 +49,8 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h3 id="tutorials">Tutorials</h3>
 
-* Philipp Koehn. 2006. [Statistical Machine Translation: the basic, the novel, and the speculative](http://homepages.inf.ed.ac.uk/pkoehn/publications/tutorial2006.pdf). EACL Tutorial.
-* Yang Liu and Liang Huang. 2010. [Tree-based and Forest-based Translation](http://nlp.csai.tsinghua.edu.cn/~ly/talks/acl-tut.pdf). ACL Tutorial.
+* Philipp Koehn. 2006. [Statistical Machine Translation: the Basic, the Novel, and the Speculative](http://homepages.inf.ed.ac.uk/pkoehn/publications/tutorial2006.pdf). EACL Tutorial.
+
 
 <h3 id="word_based_models">Word-based Models</h3>
 
@@ -93,7 +93,6 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 <h3 id="tutorials">Tutorials</h3>
 
 * Thang Luong, Kyunghyun Cho, and Christopher Manning. 2016. [Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf). ACL Tutorial.
-* Yang Liu. 2016. [Advances in Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt2016_ly_v3_160826.pptx) *(in Chinese)*. CWMT Invited Talk.
 * Oriol Vinyals and Navdeep Jaitly. 2017. [Seq2Seq ICML Tutorial](https://docs.google.com/presentation/d/1quIMxEEPEf5EkRHc2USQaoJRC4QNX6_KomdZTBMBWjk/present?slide=id.p). ICML Tutorial.
 
 <h3 id="model_architecture">Model Architecture</h3>
