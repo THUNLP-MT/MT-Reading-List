@@ -290,8 +290,11 @@ Yong Cheng, Shiqi Shen, Zhongjun He, Wei He, Hua Wu, Maosong Sun, and Yang Liu. 
 
 <h3 id="speech_translation">Speech Translation</h3>
 
+* Matt Post, Gaurav Kumar, Adam Lopez, Damianos Karakos, Chris Callison-Burch and Sanjeev Khudanpur. 2013. [Improved Speech-to-Text Translation with the Fisher and Callhome Spanish–English Speech Translation Corpus](http://www.mt-archive.info/10/IWSLT-2013-Post.pdf). In *Proceedings of IWSLT 2013*
+* Gaurav Kumar, Matt Post, Daniel Povey and Sanjeev Khudanpur. 2014. [Some insights from translating conversational telephone speech](https://ieeexplore.ieee.org/abstract/document/6854197) Acoustics, Speech and Signal Processing (ICASSP), 2014 IEEE International Conference on. IEEE, 2014.
 * Long Duong, Antonios Anastasopoulos, David Chiang, Steven Bird, and Trevor Cohn. 2016. [An Attentional Model for Speech Translation without Transcription](http://www.aclweb.org/anthology/N16-1109). In *Proceedings of NAACL 2016*.
 * Antonios Anastasopoulos, David Chiang, and Long Duong. 2016. [An Unsupervised Probability Model for Speech-to-translation Alignment of Low-resource Languages](https://aclweb.org/anthology/D16-1133). In *Proceedings of EMNLP 2016*.
+* Ron J. Weiss, Jan Chorowski, Navdeep Jaitly, Yonghui Wu and Zhifeng Chen. 2017. [Sequence-to-sequence models can directly translate foreign speech](https://arxiv.org/abs/1703.08581). *arXiv:1703.08581*.
 * Antonios Anastasopoulos and David Chiang. 2018. [Tied Multitask Learning for Neural Speech Translation](https://arxiv.org/pdf/1802.06655.pdf). In *Proceedings of NAACL 2018*.
 * Fahim Dalvi, Nadir Durrani, Hassan Sajjad, and Stephan Vogel. 2018. [Incremental Decoding and Training Methods for Simultaneous Translation in Neural Machine Translation](http://aclweb.org/anthology/N18-2079). In *Proceedings of NAACL 2018*.
 * Mingbo Ma, Liang Huang, Hao Xiong, Kaibo Liu, Chuanqiang Zhang, Zhongjun He, Hairong Liu, Xing Li, and Haifeng Wang. 2018. [STACL: Simultaneous Translation with Integrated Anticipation and Controllable Latency](https://arxiv.org/pdf/1810.08398). *arXiv:1810.08398*.
