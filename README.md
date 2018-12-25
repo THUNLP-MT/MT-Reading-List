@@ -86,13 +86,14 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h3 id="evaluation">Evaluation</h3>
 
-​                                         	***Note: Widely-used evaluation methods, as listed below, still remain the same.***
+***Note: Widely-used evaluation methods, as listed below, still remain the same.***
 
 * Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002. [BLEU: a Method for Automatic Evaluation of Machine Translation](http://aclweb.org/anthology/P02-1040). In *Proceedings of ACL 2002*.
 * Philipp Koehn. 2004. [Statistical Significance Tests for Machine Translation Evaluation](http://www.aclweb.org/anthology/W04-3250). In *Proceedings of EMNLP 2004*.
 * Satanjeev Banerjee and Alon Lavie. 2005. [METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments](http://aclweb.org/anthology/W05-0909). In *Proceedings of the ACL Workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization*.
 * Matthew Snover and Bonnie Dorr, Richard Schwartz, Linnea Micciulla, and John Makhoul. 2006. [A Study of Translation Edit Rate with Targeted Human Annotation](http://mt-archive.info/AMTA-2006-Snover.pdf). In *Proceedings of AMTA 2006*.   
-​                                         	***Kindly note that the current evaluation methods are imperfect. Refer to this paper covering discussions of their limitations:***
+
+***Kindly note that the current evaluation methods are imperfect. Refer to this paper covering discussions of their limitations:***
 * Xin Wang, Wenhu Chen, Yuan-Fang Wang, and William Yang Wang. 2018. [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](http://aclweb.org/anthology/P18-1083). In *Proceedings of ACL 2018*.
 
 
