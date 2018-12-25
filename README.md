@@ -86,7 +86,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h3 id="evaluation">Evaluation</h3>
 
-***Note: Widely-used evaluation methods, as listed below, still remain the same.***
+***Note: Widely-used evaluation methods, as listed below, still remain the same in the era of NMT.***
 
 * Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002. [BLEU: a Method for Automatic Evaluation of Machine Translation](http://aclweb.org/anthology/P02-1040). In *Proceedings of ACL 2002*.
 * Philipp Koehn. 2004. [Statistical Significance Tests for Machine Translation Evaluation](http://www.aclweb.org/anthology/W04-3250). In *Proceedings of EMNLP 2004*.
