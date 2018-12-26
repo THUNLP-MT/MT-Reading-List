@@ -25,7 +25,7 @@ This is a machine translation reading list maintained by the Tsinghua Natural La
     * [Visualization and Interpretability](#visualization_and_interpretability)
     * [Fairness and Diversity](#fairness_and_diversity)
     * [Efficiency](#efficiency)
-    * [Speech Translation](#speech_translation)
+    * [Speech Translation and Simultaneous Translation](#speech_translation_and_simultaneous_translation)
     * [Multi-modality](#multi_modality)
     * [Pre-training](#pre_training)
     * [Domain Adaptation](#domain_adaptation)
@@ -294,19 +294,7 @@ Yong Cheng, Shiqi Shen, Zhongjun He, Wei He, Hua Wu, Maosong Sun, and Yang Liu. 
 * Alec Radford, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. 2018. [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf). Technical Report, OpenAI.
 * Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2018. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805). *arXiv:1810.04805*.
 
-<h3 id="domain_adaptation">Domain Adaptation</h3>
-
-* Chenhui Chu, Raj Dabre, and Sadao Kurohashi. 2017. [An Empirical Comparison of Domain Adaptation Methods for Neural Machine Translation](http://aclweb.org/anthology/P17-2061). In *Proceedings of ACL 2017*.
-* Rui Wang, Andrew Finch, Masao Utiyama, and Eiichiro Sumita. 2017. [Sentence Embedding for Neural Machine Translation Domain Adaptation](http://aclweb.org/anthology/P17-2089). In *Proceedings of ACL 2017*.
-* Boxing Chen, Colin Cherry, George Foster, and Samuel Larkin. 2017. [Cost Weighting for Neural Machine Translation Domain Adaptation](http://aclweb.org/anthology/W17-3205). In *Proceedings of the First Workshop on Neural Machine Translation*.
-* Rui Wang, Masao Utiyama, Lemao Liu, Kehai Chen, and Eiichiro Sumita. 2017. [Instance Weighting for Neural Machine Translation Domain Adaptation](http://aclweb.org/anthology/D17-1155). In *Proceedings of EMNLP 2017*.
-* David Vilar. 2018. [Learning Hidden Unit Contribution for Adapting Neural Machine Translation Models](http://aclweb.org/anthology/N18-2080). In *Proceedings of NAACL 2018*.    
-* Shiqi Zhang and Deyi Xiong. 2018. [Sentence Weighting for Neural Machine Translation Domain Adaptation](http://aclweb.org/anthology/C18-1269). In *Proceedings of COLING 2018*.    
-* Chenhui Chu and Rui Wang. 2018. [A Survey of Domain Adaptation for Neural Machine Translation](http://aclweb.org/anthology/C18-1111). In *Proceedings of COLING 2018*.
-* Jiali Zeng, Jinsong Su, Huating Wen, Yang Liu, Jun Xie, Yongjing Yin, and Jianqiang Zhao. 2018. [Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination](http://aclweb.org/anthology/D18-1041). In *Proceedings of EMNLP 2018*.
-* Graham Neubig and Junjie Hu. 2018. [Rapid Adaptation of Neural Machine Translation to New Languages](http://aclweb.org/anthology/D18-1103). In *Proceedings of EMNLP 2018*.
-
-<h3 id="speech_translation">Speech Translation</h3>
+<h3 id="speech_translation">Speech Translation and Simultaneous Translation</h3>
 
 * Matt Post, Gaurav Kumar, Adam Lopez, Damianos Karakos, Chris Callison-Burch and Sanjeev Khudanpur. 2013. [Improved Speech-to-Text Translation with the Fisher and Callhome Spanish–English Speech Translation Corpus](http://www.mt-archive.info/10/IWSLT-2013-Post.pdf). In *Proceedings of IWSLT 2013*
 * Gaurav Kumar, Matt Post, Daniel Povey and Sanjeev Khudanpur. 2014. [Some insights from translating conversational telephone speech](https://ieeexplore.ieee.org/abstract/document/6854197) Acoustics, Speech and Signal Processing (ICASSP), 2014 IEEE International Conference on. IEEE, 2014.
@@ -321,6 +309,18 @@ Yong Cheng, Shiqi Shen, Zhongjun He, Wei He, Hua Wu, Maosong Sun, and Yang Liu. 
 
 * Iacer Calixto, Qun Liu, and Nick Campbell. 2017. [Doubly-Attentive Decoder for Multi-modal Neural Machine Translation](http://aclweb.org/anthology/P17-1175). In *Proceedings of ACL 2017*.
 * Desmond Elliott. 2018. [Adversarial Evaluation of Multimodal Machine Translation](http://aclweb.org/anthology/D18-1329). In *Proceedings of EMNLP 2018*.
+
+<h3 id="domain_adaptation">Domain Adaptation</h3>
+
+* Chenhui Chu, Raj Dabre, and Sadao Kurohashi. 2017. [An Empirical Comparison of Domain Adaptation Methods for Neural Machine Translation](http://aclweb.org/anthology/P17-2061). In *Proceedings of ACL 2017*.
+* Rui Wang, Andrew Finch, Masao Utiyama, and Eiichiro Sumita. 2017. [Sentence Embedding for Neural Machine Translation Domain Adaptation](http://aclweb.org/anthology/P17-2089). In *Proceedings of ACL 2017*.
+* Boxing Chen, Colin Cherry, George Foster, and Samuel Larkin. 2017. [Cost Weighting for Neural Machine Translation Domain Adaptation](http://aclweb.org/anthology/W17-3205). In *Proceedings of the First Workshop on Neural Machine Translation*.
+* Rui Wang, Masao Utiyama, Lemao Liu, Kehai Chen, and Eiichiro Sumita. 2017. [Instance Weighting for Neural Machine Translation Domain Adaptation](http://aclweb.org/anthology/D17-1155). In *Proceedings of EMNLP 2017*.
+* David Vilar. 2018. [Learning Hidden Unit Contribution for Adapting Neural Machine Translation Models](http://aclweb.org/anthology/N18-2080). In *Proceedings of NAACL 2018*.    
+* Shiqi Zhang and Deyi Xiong. 2018. [Sentence Weighting for Neural Machine Translation Domain Adaptation](http://aclweb.org/anthology/C18-1269). In *Proceedings of COLING 2018*.    
+* Chenhui Chu and Rui Wang. 2018. [A Survey of Domain Adaptation for Neural Machine Translation](http://aclweb.org/anthology/C18-1111). In *Proceedings of COLING 2018*.
+* Jiali Zeng, Jinsong Su, Huating Wen, Yang Liu, Jun Xie, Yongjing Yin, and Jianqiang Zhao. 2018. [Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination](http://aclweb.org/anthology/D18-1041). In *Proceedings of EMNLP 2018*.
+* Graham Neubig and Junjie Hu. 2018. [Rapid Adaptation of Neural Machine Translation to New Languages](http://aclweb.org/anthology/D18-1103). In *Proceedings of EMNLP 2018*.
 
 <h3 id="quality_estimation">Quality Estimation</h3>
 
