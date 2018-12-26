@@ -18,6 +18,13 @@ This is a machine translation reading list maintained by the Tsinghua Natural La
     * [Training](#training)
     * [Decoding](#decoding)
     * [Low-resource Language Translation](#low_resource_language_translation)
+        * [Semi-supervised Methods](#semi_supervised)
+        * [Unsupervised Methods](#unsupervised)
+        * [Pivot-based Methods](#pivot_based)
+        * [Data Augmentation Methods](#data_augmentation)
+        * [Data Selection Methods](#data_selection)
+        * [Transfer Learning & Multi-Task Learning Methods](#transfer_learning)
+        * [Meta Learning Methods](#meta_learning)
     * [Multilingual Language Translation](#multilingual_language_translation)
     * [Prior Knowledge Integration](#prior_knowledge_integration)
         * [Word/Phrase Constraints](#word_phrase_constraints)
@@ -193,25 +200,49 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h3 id="low_resource_language_translation">Low-resource Language Translation</h3>
 
+<h4 id="semi_supervised">Semi-supervised Methods</h4>
+
 * Rico Sennrich, Barry Haddow, and Alexandra Birch. 2016. [Improving Neural Machine Translation Models with Monolingual Data](https://arxiv.org/pdf/1511.06709). In *Proceedings of ACL 2016*.
 * Yong Cheng, Wei Xu, Zhongjun He, Wei He, Hua Wu, Maosong Sun, and Yang Liu. 2016. [Semi-Supervised Learning for Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2016_semi.pdf). In *Proceedings of ACL 2016*.
-* Barret Zoph, Deniz Yuret, Jonathan May, and Kevin Knight. 2016. [Transfer Learning for Low-Resource Neural Machine Translation](https://www.isi.edu/natural-language/mt/emnlp16-transfer.pdf). In *Proceedings of EMNLP 2016*.
-* Orhan Firat, Baskaran Sankaran, Yaser Al-Onaizan, Fatos T. Yarman Vural, and Kyunghyun Cho. 2016. [Zero-Resource Translation with Multi-Lingual Neural Machine Translation](http://aclweb.org/anthology/D16-1026). In *Proceedings of EMNLP 2016*.
-* Marzieh Fadaee, Arianna Bisazza and Christof Monz. 2017. [Data Augmentation for Low-Resource Neural Machine Translation](http://aclweb.org/anthology/P/P17/P17-2090.pdf). In *Proceedings of ACL 2017*.
-* Marlies van der Wees, Arianna Bisazza and Christof Monz. 2017. [Dynamic Data Selection for Neural Machine Translation](http://aclweb.org/anthology/D/D17/D17-1147.pdf). In *Proceedings of EMNLP 2017*.
-* Yun Chen, Yang Liu, Yong Cheng and Victor O.K. Li. 2017. [A Teacher-Student Framework for Zero-resource Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_cy.pdf). In *Proceedings of ACL 2017*.
-* Hao Zheng, Yong Cheng, and Yang Liu. 2017. [Maximum Expected Likelihood Estimation for Zero-resource Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/ijcai2017_zh.pdf). In *Proceedings of IJCAI 2017*.
-* Yong Cheng, Qian Yang, Yang Liu, Maosong Sun, and Wei Xu. 2017. [Joint Training for Pivot-based Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/ijcai2017_cy.pdf). In *Proceedings of IJCAI 2017*.
-* Jiatao Gu, Hany Hassan, Jacob Devlin, and Victor O.K. Li. 2018. [Universal Neural Machine Translation for Extremely Low Resource Languages](http://aclweb.org/anthology/N18-1032). In *Proceedings of NAACL 2018*.
-* Poorya Zaremoodi and Gholamreza Haffari. 2018. [Neural Machine Translation for Bilingually Scarce Scenarios: a Deep Multi-Task Learning Approach](http://aclweb.org/anthology/N18-1123). In *Proceedings of NAACL 2018*.
+* Zhirui Zhang, Shujie Liu, Mu Li, Ming Zhou, and Enhong Chen. 2018. [Joint Training for Neural Machine Translation Models with Monolingual Data](https://arxiv.org/pdf/1803.00353). In *Proceedings of AAAI 2018*.
+
+<h4 id="unsupervised">Unsupervised Methods</h4>
+
+* Mikel Artetxe, Gorka Labaka, Eneko Agirre, and Kyunghyun Cho. 2018. [Unsupervised Neural Machine Translation](https://openreview.net/pdf?id=Sy2ogebAW). In *Proceedings of ICLR 2018*.
+* Guillaume Lample, Alexis Conneau, Ludovic Denoyer, and Marc'Aurelio Ranzato. 2018. [Unsupervised Machine Translation Using Monolingual Corpora Only](https://openreview.net/pdf?id=rkYTTf-AZ). In *Proceedings of ICLR 2018*.
 * Zhen Yang, Wei Chen, Feng Wang, and Bo Xu. 2018. [Unsupervised Neural Machine Translation with Weight Sharing](http://aclweb.org/anthology/P18-1005). In *Proceedings of ACL 2018*.
-* Shuo Ren, Wenhu Chen, Shujie Liu, Mu Li, Ming Zhou, and Shuai Ma. 2018. [Triangular Architecture for Rare Language Translation](http://aclweb.org/anthology/P18-1006). In *Proceedings of ACL 2018*.
+* Guillaume Lample, Myle Ott, Alexis Conneau, Ludovic Denoyer, and Marc'Aurelio Ranzato. 2018. [Phrase-Based & Neural Unsupervised Machine Translation](http://aclweb.org/anthology/D18-1549). In *Proceedings of EMNLP 2018*.
+
+<h4 id="pivot_based">Pivot-based Methods</h4>
+
+* Orhan Firat, Baskaran Sankaran, Yaser Al-Onaizan, Fatos T. Yarman Vural, and Kyunghyun Cho. 2016. [Zero-Resource Translation with Multi-Lingual Neural Machine Translation](http://aclweb.org/anthology/D16-1026). In *Proceedings of EMNLP 2016*.
+* Hao Zheng, Yong Cheng, and Yang Liu. 2017. [Maximum Expected Likelihood Estimation for Zero-resource Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/ijcai2017_zh.pdf). In *Proceedings of IJCAI 2017*.   
+* Yun Chen, Yang Liu, Yong Cheng and Victor O.K. Li. 2017. [A Teacher-Student Framework for Zero-resource Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_cy.pdf). In *Proceedings of ACL 2017*.
+* Yong Cheng, Qian Yang, Yang Liu, Maosong Sun, and Wei Xu. 2017. [Joint Training for Pivot-based Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/ijcai2017_cy.pdf). In *Proceedings of IJCAI 2017*.   
 * Yun Chen, Yang Liu, and Victor O. K. Li. 2018. [Zero-Resource Neural Machine Translation with Multi-Agent Communication Game](https://arxiv.org/pdf/1802.03116). In *Proceedings of AAAI 2018*.
+* Shuo Ren, Wenhu Chen, Shujie Liu, Mu Li, Ming Zhou, and Shuai Ma. 2018. [Triangular Architecture for Rare Language Translation](http://aclweb.org/anthology/P18-1006). In *Proceedings of ACL 2018*.
+
+<h4 id="data_augmentation">Data Augmentation Methods</h4>
+
+* Marzieh Fadaee, Arianna Bisazza and Christof Monz. 2017. [Data Augmentation for Low-Resource Neural Machine Translation](http://aclweb.org/anthology/P/P17/P17-2090.pdf). In *Proceedings of ACL 2017*.
 * Marzieh Fadaee and Christof Monz. 2018. [Back-Translation Sampling by Targeting Difficult Words in Neural Machine Translation](https://aclanthology.coli.uni-saarland.de/events/emnlp-2018). In *Proceedings of EMNLP 2018*.
 * Sergey Edunov, Myle Ott, Michael Auli, and David Grangier. 2018. [Understanding Back-Translation at Scale](http://aclweb.org/anthology/D18-1045). In *Proceedings of EMNLP 2018*.
-* Guillaume Lample, Myle Ott, Alexis Conneau, Ludovic Denoyer, and Marc'Aurelio Ranzato. 2018. [Phrase-Based & Neural Unsupervised Machine Translation](http://aclweb.org/anthology/D18-1549). In *Proceedings of EMNLP 2018*.
-* Xinyi Wang, Hieu Pham, Zihang Dai, and Graham Neubig. 2018. [SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation](http://aclweb.org/anthology/D18-1100). In *Proceedings of EMNLP 2018*.
+* Xinyi Wang, Hieu Pham, Zihang Dai, and Graham Neubig. 2018. [SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation](http://aclweb.org/anthology/D18-1100). In *Proceedings of EMNLP 2018*.   
+
+<h4 id="data_selection">Data Selection Methods</h4>
+
+* Marlies van der Wees, Arianna Bisazza and Christof Monz. 2017. [Dynamic Data Selection for Neural Machine Translation](http://aclweb.org/anthology/D/D17/D17-1147.pdf). In *Proceedings of EMNLP 2017*.
+
+<h4 id="transfer_learning">Transfer Learning & Multi-Task Learning Methods</h4>
+
+* Barret Zoph, Deniz Yuret, Jonathan May, and Kevin Knight. 2016. [Transfer Learning for Low-Resource Neural Machine Translation](https://www.isi.edu/natural-language/mt/emnlp16-transfer.pdf). In *Proceedings of EMNLP 2016*.
+* Jiatao Gu, Hany Hassan, Jacob Devlin, and Victor O.K. Li. 2018. [Universal Neural Machine Translation for Extremely Low Resource Languages](http://aclweb.org/anthology/N18-1032). In *Proceedings of NAACL 2018*.
+* Poorya Zaremoodi and Gholamreza Haffari. 2018. [Neural Machine Translation for Bilingually Scarce Scenarios: a Deep Multi-Task Learning Approach](http://aclweb.org/anthology/N18-1123). In *Proceedings of NAACL 2018*.
+
+<h4 id="meta_learning">Meta Learning Methods</h4>
+
 * Jiatao Gu, Yong Wang, Yun Chen, Kyunghyun Cho, and Victor O.K. Li. 2018. [Meta-Learning for Low-Resource Neural Machine Translation](http://aclweb.org/anthology/D18-1398). In *Proceedings of EMNLP 2018*.    
+
 
 <h3 id="multilingual_language_translation">Multilingual Language Translation</h3>
 
@@ -324,6 +355,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Iacer Calixto, Desmond Elliott, and Stella Frank. 2016. [DCU-UvA Multimodal MT System Report](http://aclweb.org/anthology/W16-2359). In *Proceedings of the First Conference on Machine Translation: Volume 2, Shared Task Papers*.
 * Desmond Elliott, Stella Frank, Loïc Barrault, Fethi Bougares, and Lucia Specia. 2017. [Findings of the Second Shared Task on Multimodal Machine Translation and Multilingual Image Description](http://aclweb.org/anthology/W17-4718). In *Proceedings of the Second Conference on Machine Translation*.
 * Iacer Calixto, Qun Liu, and Nick Campbell. 2017. [Doubly-Attentive Decoder for Multi-modal Neural Machine Translation](http://aclweb.org/anthology/P17-1175). In *Proceedings of ACL 2017*.
+* Yun Chen, Yang Liu, and Victor O. K. Li. 2018. [Zero-Resource Neural Machine Translation with Multi-Agent Communication Game](https://arxiv.org/pdf/1802.03116). In *Proceedings of AAAI 2018*.
 * Loïc Barrault, Fethi Bougares, Lucia Specia, Chiraag Lala, Desmond Elliott, and Stella Frank. 2018. [Findings of the Third Shared Task on Multimodal Machine Translation](http://aclweb.org/anthology/W18-6402). In *Proceedings of the Third Conference on Machine Translation: Shared Task Papers*.
 * Mingyang Zhou, Runxiang Cheng, Yong Jae Lee, and Zhou Yu. 2018. [A Visual Attention Grounding Neural Model for Multimodal Machine Translation](http://aclweb.org/anthology/D18-1400). In *Proceedings of EMNLP 2018*.
 * Desmond Elliott. 2018. [Adversarial Evaluation of Multimodal Machine Translation](http://aclweb.org/anthology/D18-1329). In *Proceedings of EMNLP 2018*.
