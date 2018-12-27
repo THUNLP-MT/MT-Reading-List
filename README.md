@@ -14,7 +14,7 @@ This is a machine translation reading list maintained by the Tsinghua Natural La
     * [Tutorials](#tutorials) 
     * [Model Architecture](#model_architecture)
     * [Attention Mechanism](#attention_mechanism)
-    * [Open Vocabulary](#open_vocabulary)
+    * [Open Vocabulary and Character-based NMT](#open_vocabulary)
     * [Training](#training)
     * [Decoding](#decoding)
     * [Low-resource Language Translation](#low_resource_language_translation)
