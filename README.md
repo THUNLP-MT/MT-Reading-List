@@ -483,4 +483,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h3 id="ape">Automatic Post-Editing</h3>
 
+* Santanu Pal, Sudip Kumar Naskar, Mihaela Vela, and Josef van Genabith. 2016. [A neural network based approach to automatic post-editing](http://aclweb.org/anthology/P16-2046). In *Proceedings of ACL 2016*. 
+* Marcin Junczys-Dowmunt and Roman Grundkiewicz. 2016. [Log-linear Combinations of Monolingual and Bilingual Neural Machine Translation Models for Automatic Post-Editing](http://aclweb.org/anthology/W16-2378). In *Proceedings of the First Conference on Machine Translation: Volume 2, Shared Task Papers*.
+* Santanu Pal, Sudip Kumar Naskar, Mihaela Vela, Qun Liu, and Josef van Genabith. 2017. [Neural Automatic Post-Editing Using Prior Alignment and Reranking](http://aclweb.org/anthology/E17-2056). In *Proceedings of EACL 2017*.
 * Thuy-Trang Vu and Gholamreza Haffari. 2018. [Automatic Post-Editing of Machine Translation: A Neural Programmer-Interpreter Approach](http://aclweb.org/anthology/D18-1341). In *Proceedings of EMNLP 2018*.
