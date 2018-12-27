@@ -339,6 +339,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 * Hayahide Yamagishi, Shin Kanouchi, Takayuki Sato, and Mamoru Komachi. 2016. [Controlling the Voice of a Sentence in Japanese-to-English Neural Machine Translation](http://www.aclweb.org/anthology/W16-4620). In *Proceedings of the 3rd Workshop on Asian Translation*.          
 * Rico Sennrich, Barry Haddow and Alexandra Birch. 2016. [Controlling Politeness in Neural Machine Translation via Side Constraints](http://aclweb.org/anthology/N16-1005). In *Proceedings of NAACL 2016*.       
+* Myle Ott, Michael Auli, David Grangier, and Marc'Aurelio Ranzato. 2018. [Analyzing Uncertainty in Neural Machine Translation](https://arxiv.org/pdf/1803.00047). In *Proceedings of ICML 2018*.
 * Paul Michel and Graham Neubig. 2018. [Extreme Adaptation for Personalized Neural Machine Translation](http://www.aclweb.org/anthology/P18-2050). In *Proceedings of ACL 2018*.     
 * Philip Schulz, Wilker Aziz, and Trevor Cohn. 2018. [A Stochastic Decoder for Neural Machine Translation](http://aclweb.org/anthology/P18-1115). In *Proceedings of ACL 2018*.
 * Eva Vanmassenhove, Christian Hardmeier, and Andy Way. 2018. [Getting Gender Right in Neural Machine Translation](http://www.aclweb.org/anthology/D18-1334). In *Proceedings of EMNLP 2018*.     
