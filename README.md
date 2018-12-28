@@ -273,7 +273,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h4 id="data_selection">Data Selection Methods</h4>
 
-* Marlies van der Wees, Arianna Bisazza and Christof Monz. 2017. [Dynamic Data Selection for Neural Machine Translation](http://aclweb.org/anthology/D/D17/D17-1147.pdf). In *Proceedings of EMNLP 2017*.
+* Marlies van der Wees, Arianna Bisazza and Christof Monz. 2017. [Dynamic Data Selection for Neural Machine Translation](http://aclweb.org/anthology/D17-1147). In *Proceedings of EMNLP 2017*.
 
 <h4 id="transfer_learning">Transfer Learning & Multi-Task Learning Methods</h4>
 
