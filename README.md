@@ -199,16 +199,16 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 <h3 id="training">Training Objectives and Frameworks</h3>
 
 * Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, and Wojciech Zaremba. 2016. [Sequence Level Training with Recurrent Neural Networks](https://arxiv.org/pdf/1511.06732). In *Proceedings of ICLR 2016*.   
+* Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, and Lukasz Kaiser. 2016. [Multi-task Sequence to Sequence Learning](https://arxiv.org/pdf/1511.06114). In *Proceedings of ICLR 2016*. 
 * Shiqi Shen, Yong Cheng, Zhongjun He, Wei He, Hua Wu, Maosong Sun, and Yang Liu. 2016. [Minimum Risk Training for Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2016_mrt.pdf). In *Proceedings of ACL 2016*.   
 * Sam Wiseman and Alexander M. Rush. 2016. [Sequence-to-Sequence Learning as Beam-Search Optimization](http://aclweb.org/anthology/D16-1137). In *Proceedings of EMNLP 2016*.   
 * Di He, Yingce Xia, Tao Qin, Liwei Wang, Nenghai Yu, Tie-Yan Liu, Wei-Ying Ma. 2016. [Dual Learning for Machine Translation](https://papers.nips.cc/paper/6469-dual-learning-for-machine-translation.pdf). In *Proceedings of NIPS 2016*.
-* Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, and Lukasz Kaiser. 2016. [Multi-task Sequence to Sequence Learning](https://arxiv.org/pdf/1511.06114). In *Proceedings of ICLR 2016*. 
 * Dzmitry Bahdanau, Philemon Brakel, Kelvin Xu, Anirudh Goyal, Ryan Lowe, Joelle Pineau, Aaron Courville, and Yoshua Bengio. 2017. [An Actor-Critic Algorithm for Sequence Prediction](https://arxiv.org/pdf/1607.07086). In *Proceedings of ICLR 2017*.   
-* Di He, Hanqing Lu, Yingce Xia, Tao Qin, Liwei Wang, and Tieyan Liu. 2017. [Decoding with Value Networks for Neural Machine Translation](http://papers.nips.cc/paper/6622-decoding-with-value-networks-for-neural-machine-translation.pdf). In *Proceedings of NIPS 2017*.
 * Khanh Nguyen, Hal Daumé III, and Jordan Boyd-Graber. 2017. [Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback](http://aclweb.org/anthology/D17-1153). In *Proceedings of EMNLP 2017*.
 * Nima Pourdamghani and Kevin Knight. 2017. [Deciphering Related Languages](http://aclweb.org/anthology/D17-1266). In *Proceedings of EMNLP 2017*. 
-* Zhen Yang, Wei Chen, Feng Wang, and Bo Xu. 2018. [Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets](http://aclweb.org/anthology/N18-1122). In *Proceedings of NAACL 2018*.    
+* Di He, Hanqing Lu, Yingce Xia, Tao Qin, Liwei Wang, and Tieyan Liu. 2017. [Decoding with Value Networks for Neural Machine Translation](http://papers.nips.cc/paper/6622-decoding-with-value-networks-for-neural-machine-translation.pdf). In *Proceedings of NIPS 2017*.
 * Sergey Edunov, Myle Ott, Michael Auli, David Grangier, and Marc’Aurelio Ranzato. 2018. [Classical Structured Prediction Losses for Sequence to Sequence Learning](http://aclweb.org/anthology/N18-1033). In *Proceedings of NAACL 2018*.
+* Zhen Yang, Wei Chen, Feng Wang, and Bo Xu. 2018. [Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets](http://aclweb.org/anthology/N18-1122). In *Proceedings of NAACL 2018*.    
 * Pavel Petrushkov, Shahram Khadivi and Evgeny Matusov. 2018. [Learning from Chunk-based Feedback in Neural Machine Translation](http://aclweb.org/anthology/P18-2052). In *Proceedings of ACL 2018*.
 * Lijun Wu, Fei Tian, Tao Qin, Jianhuang Lai, and Tie-Yan Liu. 2018. [A Study of Reinforcement Learning for Neural Machine Translation](http://aclweb.org/anthology/D18-1397). In *Proceedings of EMNLP 2018*.    
 * Jiatao Gu, Yong Wang, Yun Chen, Kyunghyun Cho, and Victor O.K. Li. 2018. [Meta-Learning for Low-Resource Neural Machine Translation](http://aclweb.org/anthology/D18-1398). In *Proceedings of EMNLP 2018*.    
