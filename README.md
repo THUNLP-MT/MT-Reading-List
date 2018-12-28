@@ -41,7 +41,7 @@ This is a machine translation reading list maintained by the Tsinghua Natural La
     * [Domain Adaptation](#domain_adaptation)
     * [Quality Estimation](#quality_estimation)
     * [Automatic Post-Editing](#ape)
-    * [Word Translation](#word_translation)
+    * [Word Translation and Bilingual Lexicon Induction](#word_translation)
     * [Poetry Translation](#poetry_translation)
 
 <h2 id="10_must_reads">10 Must Reads</h2> 
