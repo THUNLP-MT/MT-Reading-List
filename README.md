@@ -282,6 +282,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Jiatao Gu, Hany Hassan, Jacob Devlin, and Victor O.K. Li. 2018. [Universal Neural Machine Translation for Extremely Low Resource Languages](http://aclweb.org/anthology/N18-1032). In *Proceedings of NAACL 2018*.
 * Poorya Zaremoodi and Gholamreza Haffari. 2018. [Neural Machine Translation for Bilingually Scarce Scenarios: a Deep Multi-Task Learning Approach](http://aclweb.org/anthology/N18-1123). In *Proceedings of NAACL 2018*.
 * Poorya Zaremoodi, Wray Buntine, and Gholamreza Haffari. 2018. [Adaptive Knowledge Sharing in Multi-Task Learning: Improving Low-Resource Neural Machine Translation](http://aclweb.org/anthology/P18-2104). In *Proceedings of ACL 2018*.
+* Tom Kocmi and Ondřej Bojar. 2018. [Trivial Transfer Learning for Low-Resource Neural Machine Translation](http://aclweb.org/anthology/W18-6325). In *Proceedings of the Third Conference on Machine Translation: Research Papers*.
 
 <h4 id="meta_learning">Meta Learning Methods</h4>
 
