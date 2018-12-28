@@ -346,17 +346,17 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Kazuma Hashimoto and Yoshimasa Tsuruoka. 2017. [Neural Machine Translation with Source-Side Latent Graph Parsing](http://aclweb.org/anthology/D17-1012). In *Proceedings of EMNLP 2017*.
 * Joost Bastings, Ivan Titov, Wilker Aziz, Diego Marcheggiani, and Khalil Simaan. 2017. [Graph Convolutional Encoders for Syntax-aware Neural Machine Translation](http://aclweb.org/anthology/D17-1209). In *Proceedings of EMNLP 2017*.
 * Kehai Chen, Rui Wang, Masao Utiyama, Lemao Liu, Akihiro Tamura, Eiichiro Sumita, and Tiejun Zhao. 2017. [Neural Machine Translation with Source Dependency Representation](http://aclweb.org/anthology/D17-1304). In *Proceedings of EMNLP 2017*. 
-* Diego Marcheggiani, Joost Bastings, and Ivan Titov. 2018. [Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks](http://aclweb.org/anthology/N18-2078). In *Proceedings of NAACL 2018*.
 * Peyman Passban, Qun Liu, and Andy Way. 2018. [Improving Character-Based Decoding Using Target-Side Morphological Information for Neural Machine Translation](http://aclweb.org/anthology/N18-1006). In *Proceedings of NAACL 2018*.
+* Diego Marcheggiani, Joost Bastings, and Ivan Titov. 2018. [Exploiting Semantics in Neural Machine Translation with Graph Convolutional Networks](http://aclweb.org/anthology/N18-2078). In *Proceedings of NAACL 2018*.
 * Chunpeng Ma, Akihiro Tamura, Masao Utiyama, Tiejun Zhao, and Eiichiro Sumita. 2018. [Forest-Based Neural Machine Translation](http://aclweb.org/anthology/P18-1116). In *Proceedings of ACL 2018*.
-* Duygu Ataman and Marcello Federico. 2018. [Compositional Representation of Morphologically-Rich Input for Neural Machine Translation](http://aclweb.org/anthology/P18-2049). In *Proceedings of ACL 2018*.
 * Shaohui Kuang, Junhui Li, António Branco, Weihua Luo, and Deyi Xiong. 2018. [Attention Focusing for Neural Machine Translation by Bridging Source and Target Embeddings](http://aclweb.org/anthology/P18-1164). In *Proceedings of ACL 2018*.
-* Poorya Zaremoodi and Gholamreza Haffari. 2018. [Incorporating Syntactic Uncertainty in Neural Machine Translation with a Forest-to-Sequence Model](http://aclweb.org/anthology/C18-1120). In *Proceedings of COLING 2018*.
+* Duygu Ataman and Marcello Federico. 2018. [Compositional Representation of Morphologically-Rich Input for Neural Machine Translation](http://aclweb.org/anthology/P18-2049). In *Proceedings of ACL 2018*.
 * Wen Zhang, Jiawei Hu, Yang Feng, and Qun Liu. 2018. [Refining Source Representations with Relation Networks for Neural Machine Translation](http://aclweb.org/anthology/C18-1110). In *Proceedings of COLING 2018*. 
+* Poorya Zaremoodi and Gholamreza Haffari. 2018. [Incorporating Syntactic Uncertainty in Neural Machine Translation with a Forest-to-Sequence Model](http://aclweb.org/anthology/C18-1120). In *Proceedings of COLING 2018*.
 * Hao Zhang, Axel Ng, and Richard Sproat. 2018. [Fast and Accurate Reordering with ITG Transition RNN](http://aclweb.org/anthology/C18-1123). In *Proceedings of COLING 2018*.  
+* Jetic Gū, Hassan S. Shavarani, and Anoop Sarkar. 2018. [Top-down Tree Structured Decoding with Syntactic Connections for Neural Machine Translation and Parsing](http://aclweb.org/anthology/D18-1037). In *Proceedings of EMNLP 2018*.
 * Anna Currey and Kenneth Heafield. 2018. [Multi-Source Syntactic Neural Machine Translation](http://aclweb.org/anthology/D18-1327). In *Proceedings of EMNLP 2018*.
 * Xinyi Wang, Hieu Pham, Pengcheng Yin, and Graham Neubig. 2018. [A Tree-based Decoder for Neural Machine Translation](http://aclweb.org/anthology/D18-1509). In *Proceedings of EMNLP 2018*.
-* Jetic Gū, Hassan S. Shavarani, and Anoop Sarkar. 2018. [Top-down Tree Structured Decoding with Syntactic Connections for Neural Machine Translation and Parsing](http://aclweb.org/anthology/D18-1037). In *Proceedings of EMNLP 2018*.
 * Eliyahu Kiperwasser and Miguel Ballesteros. 2018. [Scheduled Multi-Task Learning: From Syntax to Translation](http://aclweb.org/anthology/Q18-1017). *Transactions of the Association for Computational Linguistics*.
 
 <h4 id="coverage_constraints">Coverage Constraints</h4>
