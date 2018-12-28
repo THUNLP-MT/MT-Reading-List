@@ -525,6 +525,9 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h3 id="word_translation">Word Translation and Bilingual Lexicon Induction</h3>
 
+* Meng Zhang, Yang Liu, Huanbo Luan, Maosong Sun, Tatsuya Izuha, and Jie Hao. 2016. [Building Earth Mover's Distance on Bilingual Word Embeddings for Machine Translation](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12227/12035). In *Proceedings of AAAI 2016*.
+* Meng Zhang, Yang Liu, Huanbo Luan, Yiqun Liu, and Maosong Sun. 2016. [Inducing Bilingual Lexica From Non-Parallel Data With Earth Mover's Distance Regularization](http://aclweb.org/anthology/C16-1300). In *Proceedings of COLING 2016*.
+* Meng Zhang, Haoruo Peng, Yang Liu, Huanbo Luan, and Maosong Sun. [Bilingual Lexicon Induction from Non-Parallel Data with Minimal Supervision](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14682/14264). In *Proceedings of AAAI 2017*.
 * Ann Irvine and Chris Callison-Burch. 2017. [A Comprehensive Analysis of Bilingual Lexicon Induction](http://aclweb.org/anthology/J17-2001). *Computational Linguistics*.
 * Meng Zhang, Yang Liu, Huanbo Luan, and Maosong Sun. 2017. [Adversarial Training for Unsupervised Bilingual Lexicon Induction](http://aclweb.org/anthology/P17-1179). In *Proceedings of ACL 2017*.
 * Geert Heyman, Ivan Vulić, and Marie-Francine Moens. 2017. [Bilingual Lexicon Induction by Learning to Combine Word-Level and Character-Level Representations](http://aclweb.org/anthology/E17-1102). In *Proceedings of EACL 2017*.
