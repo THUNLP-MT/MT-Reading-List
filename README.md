@@ -247,6 +247,8 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Yong Cheng, Wei Xu, Zhongjun He, Wei He, Hua Wu, Maosong Sun, and Yang Liu. 2016. [Semi-Supervised Learning for Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2016_semi.pdf). In *Proceedings of ACL 2016*.
 * Tobias Domhan and Felix Hieber. 2017. [Using Target-side Monolingual Data for Neural Machine Translation through Multi-task Learning](http://aclweb.org/anthology/D17-1158). In *Proceedings of EMNLP 2017*.
 * Anna Currey, Antonio Valerio Miceli Barone, and Kenneth Heafield. 2017. [Copied Monolingual Data Improves Low-Resource Neural Machine Translation](http://aclweb.org/anthology/W17-4715). In *Proceedings of the Second Conference on Machine Translation*. 
+* Lierni Sestorain, Massimiliano Ciaramita, Christian Buck,and Thomas Hofmann.2018. [Zero-Shot Dual Machine Translation](https://arxiv.org/pdf/1805.10338.pdf). Preprint in *Arxiv*.
+
 
 <h4 id="unsupervised">Unsupervised Methods</h4>
 
