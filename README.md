@@ -144,7 +144,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Zi-Yi Dou, Zhaopeng Tu, Xing Wang, Shuming Shi, and Tong Zhang. 2018. [Exploiting Deep Representations for Neural Machine Translation](http://aclweb.org/anthology/D18-1457). In *Proceedings of EMNLP 2018*.
 * Biao Zhang, Deyi Xiong, Jinsong Su, Qian Lin, and Huiji Zhang. 2018. [Simplifying Neural Machine Translation with Addition-Subtraction Twin-Gated Recurrent Networks](http://aclweb.org/anthology/D18-1459). In *Proceedings of EMNLP 2018*.
 * Gongbo Tang, Mathias Müller, Annette Rios, and Rico Sennrich. 2018. [Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures](http://aclweb.org/anthology/D18-1458). In *Proceedings of EMNLP 2018*.
-* Ke Tran, Arianna Bisazza, and Christof Monz. 2018. [The Importance of Being Recurrent for Modeling Hierarchical Structure](https://aclanthology.coli.uni-saarland.de/papers/D18-1503/d18-1503). In *Proceedings of EMNLP 2018*.
+* Ke Tran, Arianna Bisazza, and Christof Monz. 2018. [The Importance of Being Recurrent for Modeling Hierarchical Structure](http://aclweb.org/anthology/D18-1503). In *Proceedings of EMNLP 2018*.
 * Parnia Bahar, Christopher Brix, and Hermann Ney. 2018. [Towards Two-Dimensional Sequence to Sequence Model in Neural Machine Translation](http://aclweb.org/anthology/D18-1335). In *Proceedings of EMNLP 2018*.
 * Tianyu He, Xu Tan, Yingce Xia, Di He, Tao Qin, Zhibo Chen, and Tie-Yan Liu. 2018. [Layer-Wise Coordination between Encoder and Decoder for Neural Machine Translation](http://papers.nips.cc/paper/8019-layer-wise-coordination-between-encoder-and-decoder-for-neural-machine-translation.pdf). In *Proceedings of NeurIPS 2018*.
 * Hany Hassan, Anthony Aue, Chang Chen, Vishal Chowdhary, Jonathan Clark, Christian Federmann, Xuedong Huang, Marcin Junczys-Dowmunt, William Lewis, Mu Li, Shujie Liu, Tie-Yan Liu, Renqian Luo, Arul Menezes, Tao Qin, Frank Seide, Xu Tan, Fei Tian, Lijun Wu, Shuangzhi Wu, Yingce Xia, Dongdong Zhang, Zhirui Zhang, and Ming Zhou. 2018. [Achieving Human Parity on Automatic Chinese to English News Translation](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/final-achieving-human.pdf). Technical report. Microsoft AI & Research.
@@ -177,7 +177,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h3 id="open_vocabulary">Open Vocabulary and Character-based NMT</h3>
 
-**Note: currently this field shares lots of similarities with the field of** ***Word/Phrase Constraints*** **below. It's recommanded to understand the problem from the two different aspects.**
+**Note: currently this field shares lots of similarities with the field of** ***Word/Phrase Constraints*** **below. It's recommended to understand the problem from the two different aspects.**
 
 * Felix Hill, Kyunghyun Cho, Sebastien Jean, Coline Devin, and Yoshua Bengio. 2015. [Embedding Word Similarity with Neural Machine Translation](https://arxiv.org/pdf/1412.6448.pdf). In *Proceedings of ICLR 2015*.
 * Thang Luong, Ilya Sutskever, Quoc Le, Oriol Vinyals, and Wojciech Zaremba. 2015. [Addressing the Rare Word Problem in Neural Machine Translation](http://aclweb.org/anthology/P15-1002). In *Proceedings of ACL 2015*.
