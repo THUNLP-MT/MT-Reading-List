@@ -226,8 +226,8 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Jiatao Gu, Kyunghyun Cho, and Victor O.K. Li. 2017. [Trainable Greedy Decoding for Neural Machine Translation](http://aclweb.org/anthology/D17-1210). In *Proceedings of EMNLP 2017*. 
 * Jiatao Gu, James Bradbury, Caiming Xiong, Victor O.K. Li, and Richard Socher. 2018. [Non-Autoregressive Neural Machine Translation](https://arxiv.org/abs/1711.02281). In *Proceedings of ICLR 2018*.
 * Xiangwen Zhang, Jinsong Su, Yue Qin, Yang Liu, Rongrong Ji, and Hongji Wang. 2018. [Asynchronous Bidirectional Decoding for Neural Machine Translation](https://arxiv.org/pdf/1801.05122). In *Proceedings of AAAI 2018*.
-* Raphael Shu and Hideki Nakayama. 2018. [Improving Beam Search by Removing Monotonic Constraint for Neural Machine Translation](http://aclweb.org/anthology/P18-2054). In *Proceedings of ACL 2018*.
 * Philip Schulz, Wilker Aziz, and Trevor Cohn. 2018. [A Stochastic Decoder for Neural Machine Translation](http://aclweb.org/anthology/P18-1115). In *Proceedings of ACL 2018*.
+* Raphael Shu and Hideki Nakayama. 2018. [Improving Beam Search by Removing Monotonic Constraint for Neural Machine Translation](http://aclweb.org/anthology/P18-2054). In *Proceedings of ACL 2018*.
 * Junyang Lin, Xu Sun, Xuancheng Ren, Shuming Ma, Jinsong Su, and Qi Su. 2018. [Deconvolution-Based Global Decoding for Neural Machine Translation](http://aclweb.org/anthology/C18-1276). In *Proceedings of COLING 2018*.
 * Chunqi Wang, Ji Zhang, and Haiqing Chen. 2018. [Semi-Autoregressive Neural Machine Translation](http://aclweb.org/anthology/D18-1044). In *Proceedings of EMNLP 2018*.
 * Xinwei Geng, Xiaocheng Feng, Bing Qin, and Ting Liu. 2018. [Adaptive Multi-pass Decoder for Neural Machine Translation](http://aclweb.org/anthology/D18-1048). In *Proceedings of EMNLP 2018*.
