@@ -422,7 +422,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Dakun Zhang, Jungi Kim, Josep Crego, and Jean Senellart. 2017. [Boosting Neural Machine Translation](http://aclweb.org/anthology/I17-2046). In *Proceedings of IJCNLP 2017*.
 * Jerry Quinn and Miguel Ballesteros. 2018. [Pieces of Eight: 8-bit Neural Machine Translation](http://aclweb.org/anthology/N18-3014). In *Proceedings of NAACL 2018*.
 * Biao Zhang, Deyi Xiong, and Jinsong Su. 2018. [Accelerating Neural Transformer via an Average Attention Network](http://aclweb.org/anthology/P18-1166). In *Proceedings of ACL 2018*.
-* Rui Wang, Masao Utiyama, and Eiichiro Sumita. 2018. [Dynamic Sentence Sampling for Efficient Training of Neural Machine Translation] In *Proceedings of ACL 2018*.
+* Rui Wang, Masao Utiyama, and Eiichiro Sumita. 2018. [Dynamic Sentence Sampling for Efficient Training of Neural Machine Translation](http://aclweb.org/anthology/P18-2048). In *Proceedings of ACL 2018*.
 * Myle Ott, Sergey Edunov, David Grangier, and Michael Auli. 2018. [Scaling Neural Machine Translation](http://aclweb.org/anthology/W18-6301). In *Proceedings of the Third Conference on Machine Translation: Research Papers*.
 * Joern Wuebker, Patrick Simianer, and John DeNero. 2018. [Compact Personalized Models for Neural Machine Translation](http://aclweb.org/anthology/D18-1104). In *Proceedings of EMNLP 2018*.
 * Wen Zhang, Liang Huang, Yang Feng, Lei Shen, and Qun Liu. 2018. [Speeding Up Neural Machine Translation Decoding by Cube Pruning](http://aclweb.org/anthology/D18-1460). In *Proceedings of EMNLP 2018*.  
