@@ -151,6 +151,9 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h3 id="attention_mechanism">Attention Mechanism</h3>
 
+***Note: Attention mechanism plays an important role in NMT and other NLP tasks. Since proposed, it's become a new (and very strong) baseline of NMT. In view of the significance of attention mechanism, we list several papers about it, covering but limited to the field of NMT. Hope that one can draw inspirations from them! ***
+
+* Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. 2015. [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473). In *Proceedings of ICLR 2015*.
 * Minh-Thang Luong, Hieu Pham, and Christopher D. Manning. 2015. [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/pdf/1508.04025). In *Proceedings of EMNLP 2015*.
 * Haitao Mi, Zhiguo Wang, and Abe Ittycheriah. 2016. [Supervised Attentions for Neural Machine Translation](http://aclweb.org/anthology/D16-1249). In *Proceedings of EMNLP 2016*.
 * Zhouhan Lin, Minwei Feng, Cicero Nogueira dos Santos, Mo Yu, Bing Xiang, Bowen Zhou, and Yoshua Bengio. 2017. [A structured self-attentive sentence embedding](https://arxiv.org/abs/1703.03130). In *Proceedings of ICLR 2017*. 
