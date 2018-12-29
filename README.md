@@ -75,11 +75,12 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Franz Josef Och and Hermann Ney. 2002. [Discriminative Training and Maximum Entropy Models for Statistical Machine Translation](http://aclweb.org/anthology/P02-1038). In *Proceedings of ACL 2002*.
 * Franz Josef Och and Hermann Ney. 2003. [A Systematic Comparison of Various Statistical Alignment Models](http://aclweb.org/anthology/J03-1002). *Computational Linguistics*.
 * Percy Liang, Ben Taskar, and Dan Klein. 2006. [Alignment by Agreement](https://cs.stanford.edu/~pliang/papers/alignment-naacl2006.pdf). In *Proceedings of NAACL 2006*.
-* Chris Dyer, Victor Chahuneau, and Noah A. Smith. 2013. [A Simple, Fast, and Effective Reparameterization of IBM Model 2]. In *Proceedings of NAACL 2013*.
+* Chris Dyer, Victor Chahuneau, and Noah A. Smith. 2013. [A Simple, Fast, and Effective Reparameterization of IBM Model 2](http://www.aclweb.org/anthology/N13-1073). In *Proceedings of NAACL 2013*.
 
 <h3 id="phrase_based_models">Phrase-based Models</h3>
 
 * Philipp Koehn, Franz J. Och, and Daniel Marcu. 2003. [Statistical Phrase-Based Translation](http://aclweb.org/anthology/N03-1017). In *Proceedings of NAACL 2003*.
+* Michel Galley and Christopher D. Manning. 2008. [A Simple and Effective Hierarchical Phrase Reordering Model](https://nlp.stanford.edu/pubs/emnlp08-lexorder.pdf). In *Proceedings of EMNLP 2008*.
 
 <h3 id="syntax_based_models">Syntax-based Models</h3>
 
