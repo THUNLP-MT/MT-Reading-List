@@ -73,6 +73,8 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Stephan Vogel, Hermann Ney, and Christoph Tillmann. 1996. [HMM-Based Word Alignment in Statistical Translation](http://aclweb.org/anthology/C96-2141). In *Proceedings of COLING 1996*.
 * Franz Josef Och and Hermann Ney. 2002. [Discriminative Training and Maximum Entropy Models for Statistical Machine Translation](http://aclweb.org/anthology/P02-1038). In *Proceedings of ACL 2002*.
 * Franz Josef Och and Hermann Ney. 2003. [A Systematic Comparison of Various Statistical Alignment Models](http://aclweb.org/anthology/J03-1002). *Computational Linguistics*.
+* Percy Liang, Ben Taskar, and Dan Klein. 2006. [Alignment by Agreement](https://cs.stanford.edu/~pliang/papers/alignment-naacl2006.pdf). In *Proceedings of NAACL 2006*.
+* Chris Dyer, Victor Chahuneau, and Noah A. Smith. 2013. [A Simple, Fast, and Effective Reparameterization of IBM Model 2]. In *Proceedings of NAACL 2013*.
 
 <h3 id="phrase_based_models">Phrase-based Models</h3>
 
@@ -83,9 +85,13 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Dekai Wu. 1997. [Stochastic Inversion Transduction Grammars and Bilingual Parsing of Parallel Corpora](http://aclweb.org/anthology/J97-3002). *Computational Linguistics*.
 * Michel Galley, Jonathan Graehl, Kevin Knight, Daniel Marcu, Steve DeNeefe, Wei Wang, and Ignacio Thayer. 2006. [Scalable Inference and Training of Context-Rich Syntactic Translation Models](http://aclweb.org/anthology/P06-1121). In *Proceedings of COLING/ACL 2006*
 * Yang Liu, Qun Liu, and Shouxun Lin. 2006. [Tree-to-String Alignment Template for Statistical Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/P06-1077.pdf). In *Proceedings of COLING/ACL 2006*.
+* Deyi Xiong, Qun Liu, and Shouxun Lin. 2006. [Maximum Entropy Based Phrase Reordering Model for Statistical Machine Translation](https://aclanthology.info/pdf/P/P06/P06-1066.pdf). In *Proceedings of COLING/ACL 2006*.
 * David Chiang. 2007. [Hierarchical Phrase-Based Translation](http://aclweb.org/anthology/J07-2003). *Computational Linguistics*.
-* Libin Shen, Jinxi Xu, and Ralph Weischedel. 2008. [A New String-to-Dependency Machine Translation Algorithm with a Target Dependency Language Model](http://aclweb.org/anthology/P08-1066). In *Proceedings of ACL 2008*.
+* Liang Huang and David Chiang. 2007. [Forest Rescoring: Faster Decoding with Integrated Language Models](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.5058&rep=rep1&type=pdf). In *Proceedings of ACL 2007*.
+* Haitao Mi, Liang Huang, and Qun Liu. 2008. [Forest-based Translation](http://aclweb.org/anthology/P08-1023). *In Proceedings of ACL 2008*.
 * Haitao Mi and Liang Huang. 2008. [Forest-based Translation Rule Extraction](http://aclweb.org/anthology/D08-1022). In *Proceedings of EMNLP 2008*.
+* Libin Shen, Jinxi Xu, and Ralph Weischedel. 2008. [A New String-to-Dependency Machine Translation Algorithm with a Target Dependency Language Model](http://aclweb.org/anthology/P08-1066). In *Proceedings of ACL 2008*.
+* Min Zhang, Hongfei Jiang, Aiti Aw, Haizhou Li, Chew Lim Tan, and Sheng Li. 2008. [A Tree Sequence Alignment-based Tree-to-Tree Translation Model](http://www.aclweb.org/anthology/P08-1064). In *Proceedings of ACL 2008*.
 * Yang Liu, Yajuan Lü, and Qun Liu. 2009. [Improving Tree-to-Tree Translation with Packed Forests](http://aclweb.org/anthology/P09-1063). In *Proceedings of ACL/IJNLP 2009*.
 
 <h3 id="discriminative_training">Discriminative Training</h3>
