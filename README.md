@@ -64,7 +64,8 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h3 id="smt_tutorials">Tutorials</h3>
 
-* Philipp Koehn. 2006. [Statistical Machine Translation: the Basic, the Novel, and the Speculative](http://homepages.inf.ed.ac.uk/pkoehn/publications/tutorial2006.pdf). EACL Tutorial.
+* Philipp Koehn. 2006. [Statistical Machine Translation: the Basic, the Novel, and the Speculative](http://homepages.inf.ed.ac.uk/pkoehn/publications/tutorial2006.pdf). EACL 2006 Tutorial.
+* Adam Lopez. 2008. [Statistical machine translation](http://delivery.acm.org/10.1145/1390000/1380586/a8-lopez.pdf?ip=101.5.129.50&id=1380586&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1546058891_981e84a24804f2dbc0549b9892a2ea1d). *ACM Computing Surveys*.
 
 
 <h3 id="word_based_models">Word-based Models</h3>
@@ -119,9 +120,9 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h3 id="nmt_tutorials">Tutorials</h3>
 
-* Thang Luong, Kyunghyun Cho, and Christopher Manning. 2016. [Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf). ACL Tutorial.
-* Graham Neubig. 2017. [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf). Tutorial (from Arxiv).
-* Oriol Vinyals and Navdeep Jaitly. 2017. [Seq2Seq ICML Tutorial](https://docs.google.com/presentation/d/1quIMxEEPEf5EkRHc2USQaoJRC4QNX6_KomdZTBMBWjk/present?slide=id.p). ICML Tutorial.
+* Thang Luong, Kyunghyun Cho, and Christopher Manning. 2016. [Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf). *ACL 2016 Tutorial*.
+* Graham Neubig. 2017. [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf). *arXiv:1703.01619*.
+* Oriol Vinyals and Navdeep Jaitly. 2017. [Seq2Seq ICML Tutorial](https://docs.google.com/presentation/d/1quIMxEEPEf5EkRHc2USQaoJRC4QNX6_KomdZTBMBWjk/present?slide=id.p). *ICML 2017 Tutorial*.
 
 <h3 id="model_architecture">Model Architecture</h3>
 
