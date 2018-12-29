@@ -91,9 +91,9 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * David Chiang. 2007. [Hierarchical Phrase-Based Translation](http://aclweb.org/anthology/J07-2003). *Computational Linguistics*.
 * Liang Huang and David Chiang. 2007. [Forest Rescoring: Faster Decoding with Integrated Language Models](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.5058&rep=rep1&type=pdf). In *Proceedings of ACL 2007*.
 * Haitao Mi, Liang Huang, and Qun Liu. 2008. [Forest-based Translation](http://aclweb.org/anthology/P08-1023). *In Proceedings of ACL 2008*.
-* Haitao Mi and Liang Huang. 2008. [Forest-based Translation Rule Extraction](http://aclweb.org/anthology/D08-1022). In *Proceedings of EMNLP 2008*.
-* Libin Shen, Jinxi Xu, and Ralph Weischedel. 2008. [A New String-to-Dependency Machine Translation Algorithm with a Target Dependency Language Model](http://aclweb.org/anthology/P08-1066). In *Proceedings of ACL 2008*.
 * Min Zhang, Hongfei Jiang, Aiti Aw, Haizhou Li, Chew Lim Tan, and Sheng Li. 2008. [A Tree Sequence Alignment-based Tree-to-Tree Translation Model](http://www.aclweb.org/anthology/P08-1064). In *Proceedings of ACL 2008*.
+* Libin Shen, Jinxi Xu, and Ralph Weischedel. 2008. [A New String-to-Dependency Machine Translation Algorithm with a Target Dependency Language Model](http://aclweb.org/anthology/P08-1066). In *Proceedings of ACL 2008*.
+* Haitao Mi and Liang Huang. 2008. [Forest-based Translation Rule Extraction](http://aclweb.org/anthology/D08-1022). In *Proceedings of EMNLP 2008*.
 * Yang Liu, Yajuan Lü, and Qun Liu. 2009. [Improving Tree-to-Tree Translation with Packed Forests](http://aclweb.org/anthology/P09-1063). In *Proceedings of ACL/IJNLP 2009*.
 
 <h3 id="discriminative_training">Discriminative Training</h3>
