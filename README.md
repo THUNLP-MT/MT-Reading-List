@@ -5,7 +5,7 @@ The past three decades have witnessed the rapid development of machine translati
 
 * [10 Must Reads](#10_must_reads)
 * [Statistical Machine Translation](#statistical_machine_translation)
-    * [Tutorials](#tutorials)
+    * [Tutorials](#smt_tutorials)
     * [Word-based Models](#word_based_models)
     * [Phrase-based Models](#phrase_based_models)
     * [Syntax-based Models](#syntax_based_models)
@@ -13,7 +13,7 @@ The past three decades have witnessed the rapid development of machine translati
     * [System Combination](#system_combination)
     * [Evaluation](#evaluation)
  * [Neural Machine Translation](#neural_machine_translation)
-    * [Tutorials](#tutorials) 
+    * [Tutorials](#nmt_tutorials) 
     * [Model Architecture](#model_architecture)
     * [Attention Mechanism](#attention_mechanism)
     * [Open Vocabulary and Character-based NMT](#open_vocabulary)
@@ -62,7 +62,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h2 id="statistical_machine_translation">Statistical Machine Translation</h2>
 
-<h3 id="tutorials">Tutorials</h3>
+<h3 id="smt_tutorials">Tutorials</h3>
 
 * Philipp Koehn. 2006. [Statistical Machine Translation: the Basic, the Novel, and the Speculative](http://homepages.inf.ed.ac.uk/pkoehn/publications/tutorial2006.pdf). EACL Tutorial.
 
@@ -111,7 +111,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h2 id="neural_machine_translation">Neural Machine Translation</h2>
 
-<h3 id="tutorials">Tutorials</h3>
+<h3 id="nmt_tutorials">Tutorials</h3>
 
 * Thang Luong, Kyunghyun Cho, and Christopher Manning. 2016. [Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf). ACL Tutorial.
 * Graham Neubig. 2017. [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf). Tutorial (from Arxiv).
