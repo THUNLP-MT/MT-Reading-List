@@ -316,6 +316,8 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h4 id="word_phrase_constraints"> Word/Phrase Constraints </h4>
 
+* Wei He, Zhongjun He, Hua Wu, and Haifeng Wang. 2016. [Improved nerual machine translation with SMT features](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12189/11577). In *Proceedings of AAAI 2016*.
+* Haitao Mi, Zhiguo Wang, and Abe Ittycheriah. 2016. [Vocabulary Manipulation for Neural Machine Translation](http://anthology.aclweb.org/P16-2021). In *Proceedings of ACL 2016*.
 * Philip Arthur, Graham Neubig, and Satoshi Nakamura. 2016. [Incorporating Discrete Translation Lexicons into Neural Machine Translation](http://aclweb.org/anthology/D16-1162). In *Proceedings of EMNLP 2016*.
 * Jiacheng Zhang, Yang Liu, Huanbo Luan, Jingfang Xu and Maosong Sun. 2017. [Prior Knowledge Integration for Neural Machine Translation using Posterior Regularization](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_zjc.pdf). In *Proceedings of ACL 2017*.
 * Chris Hokamp and Qun Liu. 2017. [Lexically Constrained Decoding for Sequence Generation Using Grid Beam Search](http://aclweb.org/anthology/P17-1141). In *Proceedings of ACL 2017*.
@@ -374,6 +376,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Haitao Mi, Baskaran Sankaran, Zhiguo Wang, and Abe Ittycheriah. 2016. [Coverage Embedding Models for Neural Machine Translation](http://aclweb.org/anthology/D16-1096). In *Proceedings of EMNLP 2016*.
 * Yanyang Li, Tong Xiao, Yinqiao Li, Qiang Wang, Changming Xu, and Jingbo Zhu. 2018. [A Simple and Effective Approach to Coverage-Aware Neural Machine Translation](http://aclweb.org/anthology/P18-2047). In *Proceedings of ACL 2018*.
 * Zaixiang Zheng, Hao Zhou, Shujian Huang, Lili Mou, Xinyu Dai, Jiajun Chen, and Zhaopeng Tu. 2018. [Modeling Past and Future for Neural Machine Translation](https://aclanthology.coli.uni-saarland.de/events/tacl-2018). *Transactions of the Association for Computational Linguistics*.
+* Xiang Kong, Zhaopeng Tu, Shuming Shi, Eduard Hovy, and Tong Zhang. [Neural Machine Translation with Adequacy-Oriented Learning](https://arxiv.org/pdf/1811.08541.pdf). In *Proceedings of AAAI 2019*.
 
 <h3 id="document_level_translation">Document-level Translation</h3>
 
@@ -446,6 +449,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Wen Zhang, Liang Huang, Yang Feng, Lei Shen, and Qun Liu. 2018. [Speeding Up Neural Machine Translation Decoding by Cube Pruning](http://aclweb.org/anthology/D18-1460). In *Proceedings of EMNLP 2018*.  
 * Zhisong Zhang, Rui Wang, Masao Utiyama, Eiichiro Sumita, and Hai Zhao. 2018. [Exploring Recombination for Efficient Decoding of Neural Machine Translation](http://aclweb.org/anthology/D18-1511). In *Proceedings of EMNLP 2018*.   
 * Nikolay Bogoychev, Kenneth Heafield, Alham Fikri Aji, and Marcin Junczys-Dowmunt. 2018. [Accelerating Asynchronous Stochastic Gradient Descent for Neural Machine Translation](http://aclweb.org/anthology/D18-1332). In *Proceedings of EMNLP 2018*.   
+* Mitchell Stern, Noam Shazeer, and Jakob Uszkoreit. 2018. [Blockwise Parallel Decoding for Deep Autoregressive Models](https://papers.nips.cc/paper/8212-blockwise-parallel-decoding-for-deep-autoregressive-models.pdf). In *Proceedings of NIPS 2018*.
 
 
 <h3 id="pre_training">Pre-Training</h3>
