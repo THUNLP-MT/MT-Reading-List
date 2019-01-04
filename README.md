@@ -15,7 +15,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
     * [System Combination](#system_combination)
     * [Evaluation](#evaluation)
  * [Neural Machine Translation](#neural_machine_translation)
-    * [Tutorials](#nmt_tutorials) 
+    * [Tutorials and Challenges](#nmt_tutorials) 
     * [Model Architecture](#model_architecture)
     * [Attention Mechanism](#attention_mechanism)
     * [Open Vocabulary and Character-based NMT](#open_vocabulary)
@@ -122,12 +122,13 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 
 <h2 id="neural_machine_translation">Neural Machine Translation</h2>
 
-<h3 id="nmt_tutorials">Tutorials</h3>
+<h3 id="nmt_tutorials">Tutorials and Challenges</h3>
 
 * Thang Luong, Kyunghyun Cho, and Christopher Manning. 2016. [Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf). *ACL 2016 Tutorial*.
 * Graham Neubig. 2017. [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf). *arXiv:1703.01619*.
 * Oriol Vinyals and Navdeep Jaitly. 2017. [Seq2Seq ICML Tutorial](https://docs.google.com/presentation/d/1quIMxEEPEf5EkRHc2USQaoJRC4QNX6_KomdZTBMBWjk/present?slide=id.p). *ICML 2017 Tutorial*.
 * Philipp Koehn. 2017. [Neural Machine Translation](https://arxiv.org/abs/1709.07809). *arxiv:1709.07809*.
+* Philipp Koehn and Rebecca Knowles. 2017. [Six Challenges for Neural Machine Translation](http://www.aclweb.org/anthology/W17-3204). In *Proceedings of the First Workshop on Neural Machine Translation*.
 
 <h3 id="model_architecture">Model Architecture</h3>
 
