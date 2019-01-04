@@ -505,7 +505,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Chenhui Chu, Raj Dabre, and Sadao Kurohashi. 2017. [An Empirical Comparison of Domain Adaptation Methods for Neural Machine Translation](http://aclweb.org/anthology/P17-2061). In *Proceedings of ACL 2017*.
 * Rui Wang, Andrew Finch, Masao Utiyama, and Eiichiro Sumita. 2017. [Sentence Embedding for Neural Machine Translation Domain Adaptation](http://aclweb.org/anthology/P17-2089). In *Proceedings of ACL 2017*.
 * Boxing Chen, Colin Cherry, George Foster, and Samuel Larkin. 2017. [Cost Weighting for Neural Machine Translation Domain Adaptation](http://aclweb.org/anthology/W17-3205). In *Proceedings of the First Workshop on Neural Machine Translation*.
-* Reid Pryzant, Denny Britz. 2017. [Effective Domain Mixing for Neural Machine Translation](http://aclweb.org/anthology/W17-4712). In *Proceedings of the Second Conference on Machine Translation*.
+* Reid Pryzant and Denny Britz. 2017. [Effective Domain Mixing for Neural Machine Translation](http://aclweb.org/anthology/W17-4712). In *Proceedings of the Second Conference on Machine Translation*.
 * Rui Wang, Masao Utiyama, Lemao Liu, Kehai Chen, and Eiichiro Sumita. 2017. [Instance Weighting for Neural Machine Translation Domain Adaptation](http://aclweb.org/anthology/D17-1155). In *Proceedings of EMNLP 2017*.
 * Antonio Valerio Miceli Barone, Barry Haddow, Ulrich Germann, and Rico Sennrich. 2017. [Regularization techniques for fine-tuning in neural machine translation](http://aclweb.org/anthology/D17-1156). In *Proceedings of EMNLP 2017*.
 * David Vilar. 2018. [Learning Hidden Unit Contribution for Adapting Neural Machine Translation Models](http://aclweb.org/anthology/N18-2080). In *Proceedings of NAACL 2018*.    
