@@ -96,6 +96,8 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Min Zhang, Hongfei Jiang, Aiti Aw, Haizhou Li, Chew Lim Tan, and Sheng Li. 2008. [A Tree Sequence Alignment-based Tree-to-Tree Translation Model](http://www.aclweb.org/anthology/P08-1064). In *Proceedings of ACL 2008*. ([Citation](https://scholar.google.com.hk/scholar?cites=4828105603038412208&as_sdt=2005&sciodt=0,5&hl=en): 124)
 * Libin Shen, Jinxi Xu, and Ralph Weischedel. 2008. [A New String-to-Dependency Machine Translation Algorithm with a Target Dependency Language Model](http://aclweb.org/anthology/P08-1066). In *Proceedings of ACL 2008*. ([Citation](https://scholar.google.com.hk/scholar?cites=15082517325172081801&as_sdt=2005&sciodt=0,5&hl=en): 278)
 * Haitao Mi and Liang Huang. 2008. [Forest-based Translation Rule Extraction](http://aclweb.org/anthology/D08-1022). In *Proceedings of EMNLP 2008*. ([Citation](https://scholar.google.com.hk/scholar?cites=11263493281241243162&as_sdt=2005&sciodt=0,5&hl=en): 239)
+* Yang Liu, Yajuan Lü, and Qun Liu. 2009. [Improving Tree-to-Tree Translation with Packed Forests](http://aclweb.org/anthology/P09-1063). In *Proceedings of ACL/IJNLP 2009*. ([Citation](https://scholar.google.com.hk/scholar?cites=3907324274083528908&as_sdt=2005&sciodt=0,5&hl=en): 93)
+* David Chiang. 2010. [Learning to Translate with Source and Target Syntax](http://aclweb.org/anthology/P10-1146). In *Proceedings of ACL 2010*. ([Citation](https://scholar.google.com.hk/scholar?cites=18270412258769590027&as_sdt=2005&sciodt=0,5&hl=en): 118)
 
 <h3 id="discriminative_training">Discriminative Training</h3>
 
