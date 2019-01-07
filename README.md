@@ -517,12 +517,12 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Reid Pryzant and Denny Britz. 2017. [Effective Domain Mixing for Neural Machine Translation](http://aclweb.org/anthology/W17-4712). In *Proceedings of the Second Conference on Machine Translation*.
 * Rui Wang, Masao Utiyama, Lemao Liu, Kehai Chen, and Eiichiro Sumita. 2017. [Instance Weighting for Neural Machine Translation Domain Adaptation](http://aclweb.org/anthology/D17-1155). In *Proceedings of EMNLP 2017*.
 * Antonio Valerio Miceli Barone, Barry Haddow, Ulrich Germann, and Rico Sennrich. 2017. [Regularization techniques for fine-tuning in neural machine translation](http://aclweb.org/anthology/D17-1156). In *Proceedings of EMNLP 2017*.
-* David Vilar. 2018. [Learning Hidden Unit Contribution for Adapting Neural Machine Translation Models](http://aclweb.org/anthology/N18-2080). In *Proceedings of NAACL 2018*.    
+* David Vilar. 2018. [Learning Hidden Unit Contribution for Adapting Neural Machine Translation Models](http://aclweb.org/anthology/N18-2080). In *Proceedings of NAACL 2018*.   
+* Paul Michel and Graham Neubig. 2018. [Extreme Adaptation for Personalized Neural Machine Translation](http://aclweb.org/anthology/P18-2050). In *Proceedings for ACL 2018*. 
 * Shiqi Zhang and Deyi Xiong. 2018. [Sentence Weighting for Neural Machine Translation Domain Adaptation](http://aclweb.org/anthology/C18-1269). In *Proceedings of COLING 2018*.    
 * Chenhui Chu and Rui Wang. 2018. [A Survey of Domain Adaptation for Neural Machine Translation](http://aclweb.org/anthology/C18-1111). In *Proceedings of COLING 2018*.
 * Jiali Zeng, Jinsong Su, Huating Wen, Yang Liu, Jun Xie, Yongjing Yin, and Jianqiang Zhao. 2018. [Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination](http://aclweb.org/anthology/D18-1041). In *Proceedings of EMNLP 2018*.
 * Graham Neubig and Junjie Hu. 2018. [Rapid Adaptation of Neural Machine Translation to New Languages](http://aclweb.org/anthology/D18-1103). In *Proceedings of EMNLP 2018*.  
-* Paul Michel and Graham Neubig. 2018. [Extreme Adaptation for Personalized Neural Machine Translation](http://aclweb.org/anthology/P18-2050). In *Proceedings for ACL 2018*.
 
 <h3 id="quality_estimation">Quality Estimation</h3>
 
