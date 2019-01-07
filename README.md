@@ -509,6 +509,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 
 * Ekaterina Garmash, and Christof Monz. 2016. [Ensemble Learning for Multi-Source Neural Machine Translation](http://aclweb.org/anthology/C16-1133). In *Proceedings of COLING 2016*. ([Citation](https://scholar.google.com/scholar?cites=10720572689338720536&as_sdt=2005&sciodt=0,5&hl=en): 18)
 * Long Zhou, Wenpeng Hu, Jiajun Zhang, and Chengqing Zong. 2017. [Neural System Combination for Machine Translation](http://aclweb.org/anthology/P17-2060). In *Proceedings of ACL 2017*. ([Citation](https://scholar.google.com/scholar?cites=2547807449547851378&as_sdt=2005&sciodt=0,5&hl=en): 21)
+* Jiaji Huang, Yi Li, Wei Ping, and Liang Huang. 2018. [Large Margin Neural Language Model](http://aclweb.org/anthology/D18-1150). In *Proceedings of EMNLP 2018*.
 
 <h3 id="domain_adaptation">Domain Adaptation</h3>
 
