@@ -443,6 +443,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Abigail See, Minh-Thang Luong, and Christopher D. Manning. 2016. [Compression of Neural Machine Translation Models via Pruning](http://aclweb.org/anthology/K16-1029). In *Proceedings of CoNLL 2016*.
 * Yusuke Oda, Philip Arthur, Graham Neubig, Koichiro Yoshino, and Satoshi Nakamura. 2017. [Neural Machine Translation via Binary Code Prediction](http://aclweb.org/anthology/P17-1079). In *Proceedings of ACL 2017*.
 * Xing Shi and Kevin Knight. 2017. [Speeding Up Neural Machine Translation Decoding by Shrinking Run-time Vocabulary](http://aclweb.org/anthology/P17-2091). In *Proceedings of ACL 2017*.
+* Ofir Press and Lior Wolf. 2017. [Using the Output Embedding to Improve Language Models](http://aclweb.org/anthology/E17-2025). In *Proceedings of EACL 2017*. ([Citation](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=3142797974561089298): 126)
 * Xiaowei Zhang, Wei Chen, Feng Wang, Shuang Xu, and Bo Xu. 2017. [Towards Compact and Fast Neural Machine Translation Using a Combined Method](http://aclweb.org/anthology/D17-1154). In *Proceedings of EMNLP 2017*. 
 * Felix Stahlberg and Bill Byrne. 2017. [Unfolding and Shrinking Neural Machine Translation Ensembles](http://aclweb.org/anthology/D17-1208). In *Proceedings of EMNLP 2017*. 
 * Jacob Devlin. 2017. [Sharp Models on Dull Hardware: Fast and Accurate Neural Machine Translation Decoding on the CPU](http://aclweb.org/anthology/D17-1300). In *Proceedings of EMNLP 2017*.  
