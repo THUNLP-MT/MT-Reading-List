@@ -13,8 +13,8 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
     * [Syntax-based Models](#syntax_based_models)
     * [Discriminative Training](#discriminative_training)
     * [System Combination](#system_combination)
-    * [Evaluation](#evaluation)
     * [Human-centered SMT](#human_centered_smt)
+    * [Evaluation](#evaluation)
  * [Neural Machine Translation](#neural_machine_translation)
     * [Tutorials](#nmt_tutorials) 
     * [Model Architecture](#model_architecture)
@@ -114,16 +114,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Antti-Veikko Rosti, Spyros Matsoukas, and Richard Schwartz. 2007. [Improved Word-Level System Combination for Machine Translation](http://aclweb.org/anthology/P07-1040). In *Proceedings of ACL 2007*. ([Citation](https://scholar.google.com.hk/scholar?cites=13310846375895519088&as_sdt=2005&sciodt=0,5&hl=en): 144)
 * Xiaodong He, Mei Yang, Jianfeng Gao, Patrick Nguyen, and Robert Moore. 2008. [Indirect-HMM-based Hypothesis Alignment for Combining Outputs from Machine Translation Systems](http://aclweb.org/anthology/D08-1011). In *Proceedings of EMNLP 2008*. ([Citation](https://scholar.google.com.hk/scholar?cites=5843300493006970528&as_sdt=2005&sciodt=0,5&hl=en): 96)
 
-<h3 id="evaluation">Evaluation</h3>
-
-* Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002. [BLEU: a Method for Automatic Evaluation of Machine Translation](http://aclweb.org/anthology/P02-1040). In *Proceedings of ACL 2002*. ([Citation](https://scholar.google.com.hk/scholar?cites=9019091454858686906&as_sdt=2005&sciodt=0,5&hl=en): 8,499)
-* Philipp Koehn. 2004. [Statistical Significance Tests for Machine Translation Evaluation](http://www.aclweb.org/anthology/W04-3250). In *Proceedings of EMNLP 2004*. ([Citation](https://scholar.google.com.hk/scholar?cites=6141850486206753388&as_sdt=2005&sciodt=0,5&hl=en): 1,015)
-* Satanjeev Banerjee and Alon Lavie. 2005. [METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments](http://aclweb.org/anthology/W05-0909). In *Proceedings of the ACL Workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization*. ([Citation](https://scholar.google.com.hk/scholar?cites=11797833340491598355&as_sdt=2005&sciodt=0,5&hl=en): 1,355)
-* Matthew Snover and Bonnie Dorr, Richard Schwartz, Linnea Micciulla, and John Makhoul. 2006. [A Study of Translation Edit Rate with Targeted Human Annotation](http://mt-archive.info/AMTA-2006-Snover.pdf). In *Proceedings of AMTA 2006*.   ([Citation](https://scholar.google.com.hk/scholar?cites=1809540661740640949&as_sdt=2005&sciodt=0,5&hl=en): 1,713) 
-* Maja Popovic. 2015. [chrF: Character n-gram F-score for Automatic MT Evaluation](http://aclweb.org/anthology/W15-3049). In *Proceedings of WMT 2015*. ([Citation](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=12169100229181212462): 58) 
-* Xin Wang, Wenhu Chen, Yuan-Fang Wang, and William Yang Wang. 2018. [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](http://aclweb.org/anthology/P18-1083). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=1809540661740640949&as_sdt=2005&sciodt=0,5&hl=en): 10) 
-
-<h3 id="humab_centered_smt">Human-centered SMT</h3>
+<h3 id="human_centered_smt">Human-centered SMT</h3>
 
 <h4 id="interactive">Interactive SMT</h4>
 
@@ -145,6 +136,15 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Antonio L. Lagarda, Daniel Ortiz-Martínez, Vicent Alabau and Francisco Casacuberta. 2015. [Translating without in-domain corpus: Machine translation post-editing with online learning techniques](https://www.sciencedirect.com/science/article/pii/S088523081400103X). In *Computer Speech & Language*. ([Citation](https://scholar.google.com/scholar?cites=6721510771212778605&as_sdt=2005&sciodt=0,5): 10)
 * Germán Sanchis-Trilles, Francisco Casacuberta. 2015. [Improving translation quality stability using Bayesian predictive adaptation](https://www.sciencedirect.com/science/article/pii/S0885230815000212). In *Computer Speech & Language*. ([Citation](https://scholar.google.com/scholar?q=Improving+translation+quality+stability+using+Bayesian+predictive+adaptation): 1)
 * Daniel Ortiz-Martínez. 2016. [Online Learning for Statistical Machine Translation](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00244). In *Computational Linguistics*. ([Citation](https://scholar.google.com/scholar?cites=4979468821667106694&as_sdt=2005&sciodt=0,5): 13)
+
+<h3 id="evaluation">Evaluation</h3>
+
+* Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002. [BLEU: a Method for Automatic Evaluation of Machine Translation](http://aclweb.org/anthology/P02-1040). In *Proceedings of ACL 2002*. ([Citation](https://scholar.google.com.hk/scholar?cites=9019091454858686906&as_sdt=2005&sciodt=0,5&hl=en): 8,499)
+* Philipp Koehn. 2004. [Statistical Significance Tests for Machine Translation Evaluation](http://www.aclweb.org/anthology/W04-3250). In *Proceedings of EMNLP 2004*. ([Citation](https://scholar.google.com.hk/scholar?cites=6141850486206753388&as_sdt=2005&sciodt=0,5&hl=en): 1,015)
+* Satanjeev Banerjee and Alon Lavie. 2005. [METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments](http://aclweb.org/anthology/W05-0909). In *Proceedings of the ACL Workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization*. ([Citation](https://scholar.google.com.hk/scholar?cites=11797833340491598355&as_sdt=2005&sciodt=0,5&hl=en): 1,355)
+* Matthew Snover and Bonnie Dorr, Richard Schwartz, Linnea Micciulla, and John Makhoul. 2006. [A Study of Translation Edit Rate with Targeted Human Annotation](http://mt-archive.info/AMTA-2006-Snover.pdf). In *Proceedings of AMTA 2006*.   ([Citation](https://scholar.google.com.hk/scholar?cites=1809540661740640949&as_sdt=2005&sciodt=0,5&hl=en): 1,713) 
+* Maja Popovic. 2015. [chrF: Character n-gram F-score for Automatic MT Evaluation](http://aclweb.org/anthology/W15-3049). In *Proceedings of WMT 2015*. ([Citation](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=12169100229181212462): 58) 
+* Xin Wang, Wenhu Chen, Yuan-Fang Wang, and William Yang Wang. 2018. [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](http://aclweb.org/anthology/P18-1083). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=1809540661740640949&as_sdt=2005&sciodt=0,5&hl=en): 10) 
 
 <h2 id="neural_machine_translation">Neural Machine Translation</h2>
 
