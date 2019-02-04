@@ -14,6 +14,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
     * [Discriminative Training](#discriminative_training)
     * [System Combination](#system_combination)
     * [Evaluation](#evaluation)
+    * [Human-centered SMT](#human_centered_smt)
  * [Neural Machine Translation](#neural_machine_translation)
     * [Tutorials](#nmt_tutorials) 
     * [Model Architecture](#model_architecture)
@@ -122,7 +123,28 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Maja Popovic. 2015. [chrF: Character n-gram F-score for Automatic MT Evaluation](http://aclweb.org/anthology/W15-3049). In *Proceedings of WMT 2015*. ([Citation](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=12169100229181212462): 58) 
 * Xin Wang, Wenhu Chen, Yuan-Fang Wang, and William Yang Wang. 2018. [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling](http://aclweb.org/anthology/P18-1083). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=1809540661740640949&as_sdt=2005&sciodt=0,5&hl=en): 10) 
 
+<h3 id="humab_centered_smt">Human-centered SMT</h3>
 
+<h4 id="interactive">Interactive SMT</h4>
+
+* George Foster, Pierre Isabelle and Pierre Plamondon. 1997. [Target-text mediated interactive machine translation](https://link.springer.com/article/10.1023/A%3A1007999327580). In *Machine Translation*. ([Citation](https://scholar.google.com/scholar?cites=17084037882064721827&as_sdt=2005&sciodt=0,5): 116)
+* Philippe Langlais, Guy Lapalme and Marie Lorange. 2002. [TransType: Development-Evaluation Cycles to Boost Translator’s Productivity]( https://link.springer.com/article/10.1023/B%3ACOAT.0000010117.98933.a0). In *Machine Translation*. ([Citation](https://scholar.google.com/scholar?cites=7892155138946158318&as_sdt=2005&sciodt=0,5): 74)
+* Jesús Tomas and Francisco Casacuberta. 2006. [Statistical phrase-based models for interactive computer-assisted translation](http://aclweb.org/anthology/P06-2107). In *Proceedings of COLING/ACL*. ([Citation](https://scholar.google.com/scholar?cites=2242179645100420046&as_sdt=2005&sciodt=0,5): 31)
+* Enrique Vidal, Francisco Casacuberta, Luis Rodríguez-Ruiz, Jorge Civera, Carlos D. Martínez-Hinarejos. 2006. [Computer-Assisted Translation Using Speech Recognition](https://ieeexplore.ieee.org/document/1621206). In *IEEE Transaction on Audio, Speech and Language Processing*. ([Citation](https://scholar.google.com/scholar?cites=32625184311110830&as_sdt=2005&sciodt=0,5): 62)
+* Shahram Khadivi and Hermann Ney. 2008. [Integration of Speech Recognition and Machine Translation in Computer-Assisted Translation](https://ieeexplore.ieee.org/document/4648933). In *IEEE Transaction on Audio, Speech and Language Processing*. ([Citation](https://scholar.google.com/scholar?cites=1690852455408892756&as_sdt=2005&sciodt=0,5): 30)
+* Sergio Barrachina, Oliver Bender, Francisco Casacuberta, Jorge Civera, Elsa Cubel, Shahram Khadivi, Antonio L. Lagarda, Hermann Ney, Jesús Tomás and Enrique Vidal. 2009. [Statistical approaches to computer-assisted translation](https://www.mitpressjournals.org/doi/abs/10.1162/coli.2008.07-055-R2-06-29). In *Computational Linguistics*. ([Citation](https://scholar.google.com/scholar?cites=17691637682117292572&as_sdt=2005&sciodt=0,5): 207)
+* Francisco Casacuberta, Jorge Civera, Elsa Cubel, Antonio L. Lagarda, Guy Lapalme, Elliott Macklovitch, Enrique Vidal. 2009. [Human interaction for high quality machine translation](https://dl.acm.org/citation.cfm?id=1562798). In *Communications of the ACM*. ([Citation](https://scholar.google.com/scholar?cites=6184654159576071790&as_sdt=2005&sciodt=0,5): 49)
+* Vicent Alabau, Alberto Sanchis and Francisco Casacuberta. 2014. [Improving on-line handwritten recognition in interactive machine translation](https://www.sciencedirect.com/science/article/pii/S003132031300410X). In *Pattern Recognition*. ([Citation](https://scholar.google.com/scholar?cites=11987123133913382404&as_sdt=2005&sciodt=0,5): 18)
+* Shanbo Cheng, Shujian Huang, Huadong Chen, Xin-Yu Dai and  Jiajun Chen. 2016. [PRIMT: A Pick-Revise Framework for Interactive Machine Translation](http://www.aclweb.org/anthology/N16-1148). In *Proceedings of NAACL 2016*. ([Citation](https://scholar.google.com/scholar?cites=3643727460542665178&as_sdt=2005&sciodt=0,5): 9)
+* Miguel Domingo, Álvaro Peris and Francisco Casacuberta. 2018. [Segment-based interactive-predictive machine translation](https://link.springer.com/article/10.1007/s10590-017-9213-3). In *Machine Translation*. ([Citation](https://scholar.google.com/scholar?cites=4148585683672959462&as_sdt=2005&sciodt=0,5): 2)
+
+<h4 id="adaptation_smt">Adaptation</h4>
+
+* Pascual Martínez-Gómez, Germán Sanchis-Trilles and Francisco Casacuberta. 2012. [Online adaptation strategies for statistical machine translation in post-editing scenarios](https://www.sciencedirect.com/science/article/pii/S0031320312000325). In *Pattern Recognition*. ([Citation](https://scholar.google.com/scholar?cites=9143628035426486873&as_sdt=2005&sciodt=0,5): 40)
+* Jesús González-Rubio and Francisco Casacuberta. 2014. [Cost-Sensitive Active Learning for Computer-Assisted Translation](https://www.sciencedirect.com/science/article/pii/S0167865513002407). In *Pattern Recognition Letters*. ([Citation](https://scholar.google.com/scholar?cites=13196627956841822823&as_sdt=2005&sciodt=0,5): 11)
+* Antonio L. Lagarda, Daniel Ortiz-Martínez, Vicent Alabau and Francisco Casacuberta. 2015. [Translating without in-domain corpus: Machine translation post-editing with online learning techniques](https://www.sciencedirect.com/science/article/pii/S088523081400103X). In *Computer Speech & Language*. ([Citation](https://scholar.google.com/scholar?cites=6721510771212778605&as_sdt=2005&sciodt=0,5): 10)
+* Germán Sanchis-Trilles, Francisco Casacuberta. 2015. [Improving translation quality stability using Bayesian predictive adaptation](https://www.sciencedirect.com/science/article/pii/S0885230815000212). In *Computer Speech & Language*. ([Citation](https://scholar.google.com/scholar?q=Improving+translation+quality+stability+using+Bayesian+predictive+adaptation): 1)
+* Daniel Ortiz-Martínez. 2016. [Online Learning for Statistical Machine Translation](https://www.mitpressjournals.org/doi/full/10.1162/COLI_a_00244). In *Computational Linguistics*. ([Citation](https://scholar.google.com/scholar?cites=4979468821667106694&as_sdt=2005&sciodt=0,5): 13)
 
 <h2 id="neural_machine_translation">Neural Machine Translation</h2>
 
