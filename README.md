@@ -36,7 +36,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
         * [Coverage Constraints](#coverage_constraints)
     * [Document-level Translation](#document_level_translation)
     * [Robustness](#robustness)
-    * [Visualization and Interpretability](#visualization_and_interpretability)
+    * [Interpretability](#interpretability)
     * [Linguistic Interpretation](#linguistic_interpretation)
     * [Fairness and Diversity](#fairness_and_diversity)
     * [Efficiency](#efficiency)
@@ -433,12 +433,13 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Javid Ebrahimi, Daniel Lowd, and Dejing Dou. 2018. [On Adversarial Examples for Character-Level Neural Machine Translation](http://aclweb.org/anthology/C18-1055). In *Proceedings of COLING 2018*.
 * Paul Michel and Graham Neubig. 2018. [MTNT: A Testbed for Machine Translation of Noisy Text](http://aclweb.org/anthology/D18-1050). In *Proceedings of EMNLP 2018*.  
 
-<h3 id="visualization_and_interpretability">Visualization and Interpretability</h3>
+<h3 id="interpretability">Interpretability</h3>
 
 * Yanzhuo Ding, Yang Liu, Huanbo Luan and Maosong Sun. 2017. [Visualizing and Understanding Neural Machine Translation](http://nlp.csai.tsinghua.edu.cn/~ly/papers/acl2017_dyz.pdf). In *Proceedings of ACL 2017*. ([Citation](https://scholar.google.com/scholar?cites=6029143337933047130&as_sdt=2005&sciodt=0,5&hl=en): 22)
 * Hendrik Strobelt, Sebastian Gehrmann, Michael Behrisch, Adam Perer, Hanspeter Pfister, and Alexander M. Rush. 2018. [Seq2Seq-Vis: A Visual Debugging Tool for Sequence-to-Sequence Models](https://arxiv.org/pdf/1804.09299.pdf). In *Proceedings of VAST 2018* and *Proceedings of EMNLP-BlackBox 2018*. ([Citation](https://scholar.google.com/scholar?cites=8924303979242528991&as_sdt=2005&sciodt=0,5&hl=en): 6)
 * Alessandro Raganato and Jorg Tiedemann. 2018. [An Analysis of Encoder Representations in Transformer-Based Machine Translation](http://aclweb.org/anthology/W18-5431). In *Proceedings of EMNLP-BlackBox 2018*.
 * Felix Stahlberg, Danielle Saunders, and Bill Byrne. 2018. [An Operation Sequence Model for Explainable Neural Machine Translation](http://aclweb.org/anthology/W18-5420). In *Proceedings of EMNLP-BlackBox 2018*.
+* Fahim Dalvi, Nadir Durrani, Hassan Sajjad, Yonatan Belinkov, D. Anthony Bau, and James Glass. 2019. [What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models](http://people.csail.mit.edu/belinkov/assets/pdf/aaai2019.pdf). In *Proceedings of AAAI 2019*. ([Citation](https://scholar.google.com/scholar?cites=9612190838970536755&as_sdt=2005&sciodt=0,5&hl=en): 2)
 * Anthony Bau, Yonatan Belinkov, Hassan Sajjad, Nadir Durrani, Fahim Dalvi, and James Glass. 2019. [Identifying and Controlling Important Neurons in Neural Machine Translation](https://openreview.net/pdf?id=H1z-PsR5KX). In *Proceedings of ICLR 2019*. ([Citation](https://scholar.google.com/scholar?cites=10670221460130643181&as_sdt=2005&sciodt=0,5&hl=en): 2)
 
 <h3 id="linguistic_interpretation">Linguistic Interpretation</h3>
@@ -451,6 +452,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Adam Poliak, Yonatan Belinkov, James Glass, and Benjamin Van Durme. 2018. [On the Evaluation of Semantic Phenomena in Neural Machine Translation Using Natural Language Inference](http://aclweb.org/anthology/N18-2082). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=9402109271974711503&as_sdt=2005&sciodt=0,5&hl=en): 5)
 * Arianna Bisazza and Clara Tump. 2018. [The Lazy Encoder: A Fine-Grained Analysis of the Role of Morphology in Neural Machine Translation](http://aclweb.org/anthology/D18-1313). In *Proceedings of EMNLP 2018*.
 * Lijun Wu, Xu Tan, Di He, Fei Tian, Tao Qin, Jianhuang Lai, and Tie-Yan Liu. 2018. [Beyond Error Propagation in Neural Machine Translation: Characteristics of Language Also Matter](http://aclweb.org/anthology/D18-1396). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=1081737155461853408&as_sdt=2005&sciodt=0,5&hl=en): 4)
+* Yonatan Belinkov, and James Glass. 2019. [Analysis Methods in Neural Language Processing: A Survey](https://arxiv.org/pdf/1812.08951.pdf). *Transactions of the Association for Computational Linguistics*.
 
 <h3 id="fairness_and_diversity">Fairness and Diversity</h3>
 
