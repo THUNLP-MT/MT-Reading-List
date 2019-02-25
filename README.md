@@ -188,6 +188,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Hany Hassan, Anthony Aue, Chang Chen, Vishal Chowdhary, Jonathan Clark, Christian Federmann, Xuedong Huang, Marcin Junczys-Dowmunt, William Lewis, Mu Li, Shujie Liu, Tie-Yan Liu, Renqian Luo, Arul Menezes, Tao Qin, Frank Seide, Xu Tan, Fei Tian, Lijun Wu, Shuangzhi Wu, Yingce Xia, Dongdong Zhang, Zhirui Zhang, and Ming Zhou. 2018. [Achieving Human Parity on Automatic Chinese to English News Translation](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/final-achieving-human.pdf). Technical report. Microsoft AI & Research. ([Citation](https://scholar.google.com/scholar?cites=3670312788898741170&as_sdt=2005&sciodt=0,5&hl=en): 41)
 * Mostafa Dehghani, Stephan Gouws, Oriol Vinyals, Jakob Uszkoreit, Lukasz Kaiser. 2019. [Universal Transformers](https://openreview.net/pdf?id=HyzdRiR9Y7). In *Proceedings of ICLR 2019*. ([Citation](https://scholar.google.com/scholar?cites=8443376534582904234&as_sdt=2005&sciodt=0,5&hl=en): 12)
 
+
 <h3 id="attention_mechanism">Attention Mechanism</h3>
 
 * Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. 2015. [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473). In *Proceedings of ICLR 2015*. ([Citation](https://scholar.google.com.sg/scholar?cites=9430221802571417838&as_sdt=2005&sciodt=0,5&hl=en): 5,596)
@@ -212,6 +213,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Ankur Bapna, Mia Chen, Orhan Firat, Yuan Cao, and Yonghui Wu. 2018. [Training Deeper Neural Machine Translation Models with Transparent Attention](http://aclweb.org/anthology/D18-1338). In *Proceedings of EMNLP 2018*. 
 * Maha Elbayad, Laurent Besacier, and Jakob Verbeek. 2018. [Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction](http://aclweb.org/anthology/K18-1010). In *Proceedings of CoNLL 2018*. ([Citation](https://scholar.google.com/scholar?cites=14016975442337015010&as_sdt=2005&sciodt=0,5&hl=en): 4)
 * Shiv Shankar and Sunita Sarawagi. 2019. [Posterior Attention Models for Sequence to Sequence Learning](https://openreview.net/pdf?id=BkltNhC9FX). In *Proceedings of ICLR 2019*.
+* Zi-Yi Dou, Zhaopeng Tu, Xing Wang, Longyue Wang, Shuming Shi, and Tong Zhang. 2019. [Dynamic Layer Aggregation for Neural Machine Translation with Routing-by-Agreement](https://arxiv.org/pdf/1902.05770.pdf). In *Proceedings of AAAI 2019*.
 
 <h3 id="open_vocabulary">Open Vocabulary</h3>
 
@@ -248,6 +250,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Lijun Wu, Fei Tian, Tao Qin, Jianhuang Lai, and Tie-Yan Liu. 2018. [A Study of Reinforcement Learning for Neural Machine Translation](http://aclweb.org/anthology/D18-1397). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=9706797919793848294&as_sdt=2005&sciodt=0,5&hl=en): 2)     
 * Lijun Wu, Fei Tian, Yingce Xia, Yang Fan, Tao Qin, Jianhuang Lai, and Tie-Yan Liu. 2018. [Learning to Teach with Dynamic Loss Functions](https://papers.nips.cc/paper/7882-learning-to-teach-with-dynamic-loss-functions.pdf). In *Proceedings of NeurIPS 2018*.
 * Yiren Wang, Yingce Xia, Tianyu He, Fei Tian, Tao Qin, ChengXiang Zhai, and Tie-Yan Liu. 2019. [Multi-Agent Dual Learning](https://openreview.net/pdf?id=HyGhN2A5tm). In *Proceedings of ICLR 2019*.
+* Xiang Kong, Zhaopeng Tu, Shuming Shi, Eduard Hovy, and Tong Zhang. 2019. [Neural Machine Translation with Adequacy-Oriented Learning](https://arxiv.org/pdf/1811.08541.pdf). In *Proceedings of AAAI 2019*.
 
 <h3 id="decoding">Decoding</h3>
 
@@ -432,6 +435,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Marco Tulio Ribeiro, Sameer Singh, and Carlos Guestrin. 2018. [Semantically Equivalent Adversarial Rules for Debugging NLP models](http://aclweb.org/anthology/P18-1079). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=3200079019495885814&as_sdt=2005&sciodt=0,5&hl=en): 12)         
 * Javid Ebrahimi, Daniel Lowd, and Dejing Dou. 2018. [On Adversarial Examples for Character-Level Neural Machine Translation](http://aclweb.org/anthology/C18-1055). In *Proceedings of COLING 2018*.
 * Paul Michel and Graham Neubig. 2018. [MTNT: A Testbed for Machine Translation of Noisy Text](http://aclweb.org/anthology/D18-1050). In *Proceedings of EMNLP 2018*.  
+* Baosong Yang, Jian Li, Derek Wong, Lidia S. Chao, Xing Wang, and Zhaopeng Tu. 2019. [Context-Aware Self-Attention Networks](https://arxiv.org/pdf/1902.05766.pdf). In *Proceedings of AAAI 2019*.
 
 <h3 id="interpretability">Interpretability</h3>
 
