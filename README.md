@@ -187,7 +187,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Harshil Shah and David Barber. 2018. [Generative Neural Machine Translation](http://papers.nips.cc/paper/7409-generative-neural-machine-translation.pdf). In *Proceedings of NeurIPS 2018*. 
 * Hany Hassan, Anthony Aue, Chang Chen, Vishal Chowdhary, Jonathan Clark, Christian Federmann, Xuedong Huang, Marcin Junczys-Dowmunt, William Lewis, Mu Li, Shujie Liu, Tie-Yan Liu, Renqian Luo, Arul Menezes, Tao Qin, Frank Seide, Xu Tan, Fei Tian, Lijun Wu, Shuangzhi Wu, Yingce Xia, Dongdong Zhang, Zhirui Zhang, and Ming Zhou. 2018. [Achieving Human Parity on Automatic Chinese to English News Translation](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/final-achieving-human.pdf). Technical report. Microsoft AI & Research. ([Citation](https://scholar.google.com/scholar?cites=3670312788898741170&as_sdt=2005&sciodt=0,5&hl=en): 41)
 * Mostafa Dehghani, Stephan Gouws, Oriol Vinyals, Jakob Uszkoreit, Lukasz Kaiser. 2019. [Universal Transformers](https://openreview.net/pdf?id=HyzdRiR9Y7). In *Proceedings of ICLR 2019*. ([Citation](https://scholar.google.com/scholar?cites=8443376534582904234&as_sdt=2005&sciodt=0,5&hl=en): 12)
-
+* Baosong Yang, Jian Li, Derek Wong, Lidia S. Chao, Xing Wang, and Zhaopeng Tu. 2019. [Context-Aware Self-Attention Networks](https://arxiv.org/pdf/1902.05766.pdf). In *Proceedings of AAAI 2019*.
 
 <h3 id="attention_mechanism">Attention Mechanism</h3>
 
@@ -251,7 +251,6 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Lijun Wu, Fei Tian, Tao Qin, Jianhuang Lai, and Tie-Yan Liu. 2018. [A Study of Reinforcement Learning for Neural Machine Translation](http://aclweb.org/anthology/D18-1397). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=9706797919793848294&as_sdt=2005&sciodt=0,5&hl=en): 2)     
 * Lijun Wu, Fei Tian, Yingce Xia, Yang Fan, Tao Qin, Jianhuang Lai, and Tie-Yan Liu. 2018. [Learning to Teach with Dynamic Loss Functions](https://papers.nips.cc/paper/7882-learning-to-teach-with-dynamic-loss-functions.pdf). In *Proceedings of NeurIPS 2018*.
 * Yiren Wang, Yingce Xia, Tianyu He, Fei Tian, Tao Qin, ChengXiang Zhai, and Tie-Yan Liu. 2019. [Multi-Agent Dual Learning](https://openreview.net/pdf?id=HyGhN2A5tm). In *Proceedings of ICLR 2019*.
-* Xiang Kong, Zhaopeng Tu, Shuming Shi, Eduard Hovy, and Tong Zhang. 2019. [Neural Machine Translation with Adequacy-Oriented Learning](https://arxiv.org/pdf/1811.08541.pdf). In *Proceedings of AAAI 2019*.
 
 <h3 id="decoding">Decoding</h3>
 
@@ -436,7 +435,6 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Marco Tulio Ribeiro, Sameer Singh, and Carlos Guestrin. 2018. [Semantically Equivalent Adversarial Rules for Debugging NLP models](http://aclweb.org/anthology/P18-1079). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=3200079019495885814&as_sdt=2005&sciodt=0,5&hl=en): 12)         
 * Javid Ebrahimi, Daniel Lowd, and Dejing Dou. 2018. [On Adversarial Examples for Character-Level Neural Machine Translation](http://aclweb.org/anthology/C18-1055). In *Proceedings of COLING 2018*.
 * Paul Michel and Graham Neubig. 2018. [MTNT: A Testbed for Machine Translation of Noisy Text](http://aclweb.org/anthology/D18-1050). In *Proceedings of EMNLP 2018*.  
-* Baosong Yang, Jian Li, Derek Wong, Lidia S. Chao, Xing Wang, and Zhaopeng Tu. 2019. [Context-Aware Self-Attention Networks](https://arxiv.org/pdf/1902.05766.pdf). In *Proceedings of AAAI 2019*.
 
 <h3 id="interpretability">Interpretability</h3>
 
