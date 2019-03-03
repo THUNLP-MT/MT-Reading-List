@@ -187,7 +187,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Harshil Shah and David Barber. 2018. [Generative Neural Machine Translation](http://papers.nips.cc/paper/7409-generative-neural-machine-translation.pdf). In *Proceedings of NeurIPS 2018*. 
 * Hany Hassan, Anthony Aue, Chang Chen, Vishal Chowdhary, Jonathan Clark, Christian Federmann, Xuedong Huang, Marcin Junczys-Dowmunt, William Lewis, Mu Li, Shujie Liu, Tie-Yan Liu, Renqian Luo, Arul Menezes, Tao Qin, Frank Seide, Xu Tan, Fei Tian, Lijun Wu, Shuangzhi Wu, Yingce Xia, Dongdong Zhang, Zhirui Zhang, and Ming Zhou. 2018. [Achieving Human Parity on Automatic Chinese to English News Translation](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/final-achieving-human.pdf). Technical report. Microsoft AI & Research. ([Citation](https://scholar.google.com/scholar?cites=3670312788898741170&as_sdt=2005&sciodt=0,5&hl=en): 41)
 * Mostafa Dehghani, Stephan Gouws, Oriol Vinyals, Jakob Uszkoreit, Lukasz Kaiser. 2019. [Universal Transformers](https://openreview.net/pdf?id=HyzdRiR9Y7). In *Proceedings of ICLR 2019*. ([Citation](https://scholar.google.com/scholar?cites=8443376534582904234&as_sdt=2005&sciodt=0,5&hl=en): 12)
-* Baosong Yang, Jian Li, Derek Wong, Lidia S. Chao, Xing Wang, and Zhaopeng Tu. 2019. [Context-Aware Self-Attention Networks](https://arxiv.org/pdf/1902.05766.pdf). In *Proceedings of AAAI 2019*.
+* Zi-Yi Dou, Zhaopeng Tu, Xing Wang, Longyue Wang, Shuming Shi, and Tong Zhang. 2019. [Dynamic Layer Aggregation for Neural Machine Translation with Routing-by-Agreement](https://arxiv.org/pdf/1902.05770.pdf). In *Proceedings of AAAI 2019*.
 
 <h3 id="attention_mechanism">Attention Mechanism</h3>
 
@@ -214,7 +214,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Maha Elbayad, Laurent Besacier, and Jakob Verbeek. 2018. [Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction](http://aclweb.org/anthology/K18-1010). In *Proceedings of CoNLL 2018*. ([Citation](https://scholar.google.com/scholar?cites=14016975442337015010&as_sdt=2005&sciodt=0,5&hl=en): 4)
 * Yuntian Deng, Yoon Kim, Justin Chiu, Demi Guo, and Alexander M. Rush. 2018 [Latent Alignment and Variational Attention](https://papers.nips.cc/paper/8179-latent-alignment-and-variational-attention.pdf). In *Proceedings of NIPS 2018*. ([Citation](https://scholar.google.com/scholar?client=safari&rls=en&oe=UTF-8&um=1&ie=UTF-8&lr&cites=6335407498429393003))
 * Shiv Shankar and Sunita Sarawagi. 2019. [Posterior Attention Models for Sequence to Sequence Learning](https://openreview.net/pdf?id=BkltNhC9FX). In *Proceedings of ICLR 2019*.
-* Zi-Yi Dou, Zhaopeng Tu, Xing Wang, Longyue Wang, Shuming Shi, and Tong Zhang. 2019. [Dynamic Layer Aggregation for Neural Machine Translation with Routing-by-Agreement](https://arxiv.org/pdf/1902.05770.pdf). In *Proceedings of AAAI 2019*.
+* Baosong Yang, Jian Li, Derek Wong, Lidia S. Chao, Xing Wang, and Zhaopeng Tu. 2019. [Context-Aware Self-Attention Networks](https://arxiv.org/pdf/1902.05766.pdf). In *Proceedings of AAAI 2019*.
 
 <h3 id="open_vocabulary">Open Vocabulary</h3>
 
