@@ -261,6 +261,8 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Semih Yavuz, Chung-Cheng Chiu, Patrick Nguyen, and Yonghui Wu. 2018. [CaLcs: Continuously Approximating Longest Common Subsequence for Sequence Level Optimization](http://aclweb.org/anthology/D18-1406). In *Proceedings of EMNLP 2018*.
 * Lijun Wu, Fei Tian, Yingce Xia, Yang Fan, Tao Qin, Jianhuang Lai, and Tie-Yan Liu. 2018. [Learning to Teach with Dynamic Loss Functions](https://papers.nips.cc/paper/7882-learning-to-teach-with-dynamic-loss-functions.pdf). In *Proceedings of NeurIPS 2018*.
 * Yiren Wang, Yingce Xia, Tianyu He, Fei Tian, Tao Qin, ChengXiang Zhai, and Tie-Yan Liu. 2019. [Multi-Agent Dual Learning](https://openreview.net/pdf?id=HyGhN2A5tm). In *Proceedings of ICLR 2019*.
+* Liqun Chen, Yizhe Zhang, Ruiyi Zhang, Chenyang Tao, Zhe Gan, Haichao Zhang, Bai Li, Dinghan Shen, Changyou Chen, and Lawrence Carin. 2019. [Improving Sequence-to-Sequence Learning via Optimal Transport](https://openreview.net/pdf?id=S1xtAjR5tX). In *Proceedings of ICLR 2019*.
+* Sachin Kumar and Yulia Tsvetkov. 2019. [Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs](https://openreview.net/pdf?id=rJlDnoA5Y7). In *Proceedings of ICLR 2019*. 
 
 <h3 id="decoding">Decoding</h3>
 
