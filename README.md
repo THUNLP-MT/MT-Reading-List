@@ -49,8 +49,9 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
     * [Human-centered NMT](#human_centered)
         * [Interactive NMT](#interactive)
         * [Automatic Post-Editing](#ape)
-    * [Word Translation and Bilingual Lexicon Induction](#word_translation)
-    * [Poetry Translation](#poetry_translation)
+    * [Poetry Translation](#poetry_translation)    
+* [Word Translation (Bilingual Lexicon Induction)](#word_translation)
+
 
 <h2 id="10_must_reads">10 Must Reads</h2> 
 
@@ -601,7 +602,11 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * David Grangier and Michael Auli. 2018. [QuickEdit: Editing Text & Translations by Crossing Words Out](http://aclweb.org/anthology/N18-1025). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=9500777791162222168&as_sdt=2005&sciodt=0,5&hl=en): 1) 
 * Thuy-Trang Vu and Gholamreza Haffari. 2018. [Automatic Post-Editing of Machine Translation: A Neural Programmer-Interpreter Approach](http://aclweb.org/anthology/D18-1341). In *Proceedings of EMNLP 2018*.
 
-<h3 id="word_translation">Word Translation and Bilingual Lexicon Induction</h3>
+<h3 id="poetry_translation">Poetry Translation</h3>
+
+* Marjan Ghazvininejad, Yejin Choi, and Kevin Knight. 2018. [Neural Poetry Translation](http://aclweb.org/anthology/N18-2011). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=4597758342230970450&as_sdt=2005&sciodt=0,5&hl=en): 1)
+
+<h2 id="word_translation">Word Translation</h3>
 
 * Tomas Mikolov, Quoc V. Le, and Ilya Sutskever. 2013. [Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/pdf/1309.4168.pdf). *arxiv:1309.4168*. ([Citation](https://scholar.google.com.hk/scholar?cites=18389495985810631724&as_sdt=2005&sciodt=0,5&hl=en): 581) 
 * Chao Xing, Dong Wang, Chao Liu, and Yiye Lin. 2015. [Normalized Word Embedding and Orthogonal Transform for Bilingual Word Translation](http://aclweb.org/anthology/N15-1104). In *Proceedings of NAACL 2015*. ([Citation](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=2005&sciodt=0,5&cites=4009320309746318198&scipsc=): 89)
@@ -628,18 +633,18 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Mikel Artetxe, Gorka Labaka, and Eneko Agirre. 2018. [A Robust Self-learning Method for Fully Unsupervised Cross-lingual Mappings of Word Embeddings](http://aclweb.org/anthology/P18-1073). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=7012967033921106213&as_sdt=2005&sciodt=0,5&hl=en): 17)
 * Parker Riley and Daniel Gildea. 2018. [Orthographic Features for Bilingual Lexicon Induction](http://aclweb.org/anthology/P18-2062). In *Proceedings of ACL 2018*.
 * Amir Hazem and Emmanuel Morin. 2018. [Leveraging Meta-Embeddings for Bilingual Lexicon Extraction from Specialized Comparable Corpora](http://aclweb.org/anthology/C18-1080). In *Proceedings of COLING 2018*.
+[Multi-lingual Common Semantic Space Construction via Cluster-consistent Word Embedding](http://aclweb.org/anthology/D18-1023). In *Proceedings of EMNLP 2018*.
 * Xilun Chen and Claire Cardie. 2018. [Unsupervised Multilingual Word Embeddings](http://aclweb.org/anthology/D18-1024). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=15847135808149408064&as_sdt=2005&sciodt=0,5&hl=en): 4)
+* Ta Chung Chi and Yun-Nung Chen. 2018. [CLUSE: Cross-Lingual Unsupervised Sense Embeddings](http://aclweb.org/anthology/D18-1025). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=1931895311858153391&as_sdt=2005&sciodt=0,5&hl=en): 1)
 * Yerai Doval, Jose Camacho-Collados, Luis Espinosa Anke, and Steven Schockaert. 2018. [Improving Cross-Lingual Word Embeddings by Meeting in the Middle](http://aclweb.org/anthology/D18-1027). In *Proceedings of EMNLP 2018*. 
 * Sebastian Ruder, Ryan Cotterell, Yova Kementchedjhieva, and Anders Søgaard. 2018. [A Discriminative Latent-Variable Model for Bilingual Lexicon Induction](http://aclweb.org/anthology/D18-1042). In *Proceedings of EMNLP 2018*.
 * Yedid Hoshen and Lior Wolf. 2018. [Non-Adversarial Unsupervised Word Translation](http://aclweb.org/anthology/D18-1043). In *Proceedings of EMNLP 2018*.
 * Ndapa Nakashole. 2018. [NORMA: Neighborhood Sensitive Maps for Multilingual Word Embeddings](http://aclweb.org/anthology/D18-1047). In *Proceedings of EMNLP 2018*.
+* Mareike Hartmann, Yova Kementchedjhieva, and Anders Søgaard. 2018. [Why is unsupervised alignment of English embeddings from different algorithms so hard?](http://aclweb.org/anthology/D18-1056). In *Proceedings of EMNLP 2018*.
 * Zi-Yi Dou, Zhi-Hao Zhou, and Shujian Huang. 2018. [Unsupervised Bilingual Lexicon Induction via Latent Variable Models](http://aclweb.org/anthology/D18-1062). In *Proceedings of EMNLP 2018*.
+* Tanmoy Mukherjee, Makoto Yamada, and Timothy Hospedales. 2018. [Learning Unsupervised Word Translations Without Adversaries](http://aclweb.org/anthology/D18-1063). In *Proceedings of EMNLP 2018*.
 * David Alvarez-Melis and Tommi Jaakkola. 2018. [Gromov-Wasserstein Alignment of Word Embedding Spaces](http://aclweb.org/anthology/D18-1214). In *Proceedings of EMNLP 2018*.
 * Ruochen Xu, Yiming Yang, Naoki Otani, and Yuexin Wu. 2018. [Unsupervised Cross-lingual Transfer of Word Embedding Spaces](http://aclweb.org/anthology/D18-1268). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=15320274773511615227): 2)
 * Armand Joulin, Piotr Bojanowski, Tomas Mikolov, Hervé Jégou, and Edouard Grave. 2018. [Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion](http://aclweb.org/anthology/D18-1330). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=437763240249389525&as_sdt=2005&sciodt=0,5&hl=en): 2)
 * Sebastian Ruder, Ivan Vulić, and Anders Søgaard. 2019. [A Survey Of Cross-lingual Word Embedding Models](https://arxiv.org/pdf/1706.04902.pdf). *Journal of Artificial Intelligence Research*. ([Citation](https://scholar.google.com/scholar?cites=2174368482827457639&as_sdt=2005&sciodt=0,5&hl=en): 22)
 * Pratik Jawanpuria, Arjun Balgovind, Anoop Kunchukuttan, and Bamdev Mishra. 2019. [Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach](https://arxiv.org/pdf/1808.08773). *Transactions of the Association for Computational Linguistics*. ([Citation](https://scholar.google.com/scholar?cites=3887586742254907953&as_sdt=2005&sciodt=0,5&hl=en): 3)
-
-<h3 id="poetry_translation">Poetry Translation</h3>
-
-* Marjan Ghazvininejad, Yejin Choi, and Kevin Knight. 2018. [Neural Poetry Translation](http://aclweb.org/anthology/N18-2011). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=4597758342230970450&as_sdt=2005&sciodt=0,5&hl=en): 1)
