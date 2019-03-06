@@ -49,8 +49,9 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
     * [Human-centered NMT](#human_centered)
         * [Interactive NMT](#interactive)
         * [Automatic Post-Editing](#ape)
-    * [Word Translation and Bilingual Lexicon Induction](#word_translation)
-    * [Poetry Translation](#poetry_translation)
+    * [Poetry Translation](#poetry_translation)    
+* [Word Translation (Bilingual Lexicon Induction)](#word_translation)
+
 
 <h2 id="10_must_reads">10 Must Reads</h2> 
 
@@ -174,10 +175,13 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. 2017. [Attention is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf). In *Proceedings of NIPS 2017*. ([Citation](https://scholar.google.com/scholar?cites=2960712678066186980&as_sdt=2005&sciodt=0,5&hl=en): 1,057)
 * Lukasz Kaiser, Aidan N. Gomez, and Francois Chollet. 2018. [Depthwise Separable Convolutions for Neural Machine Translation](https://openreview.net/pdf?id=S1jBcueAb). In *Proceedings of ICLR 2018*. ([Citation](https://scholar.google.com/scholar?cites=7520360878420709403&as_sdt=2005&sciodt=0,5&hl=en): 27)
 * Yanyao Shen, Xu Tan, Di He, Tao Qin, and Tie-Yan Liu. 2018. [Dense Information Flow for Neural Machine Translation](http://aclweb.org/anthology/N18-1117). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=12417301759540220817&as_sdt=2005&sciodt=0,5&hl=en): 3)
+* Wenhu Chen, Guanlin Li, Shuo Ren, Shujie Liu, Zhirui Zhang, Mu Li, and Ming Zhou. 2018. [Generative Bridging Network for Neural Sequence Prediction](http://aclweb.org/anthology/N18-1154). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=16479416225427738693): 3)
 * Mia Xu Chen, Orhan Firat, Ankur Bapna, Melvin Johnson, Wolfgang Macherey, George Foster, Llion Jones, Mike Schuster, Noam Shazeer, Niki Parmar, Ashish Vaswani, Jakob Uszkoreit, Lukasz Kaiser, Zhifeng Chen, Yonghui Wu, and Macduff Hughes. 2018. [The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation](http://aclweb.org/anthology/P18-1008). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=1960239321427735403&as_sdt=2005&sciodt=0,5&hl=en): 22)
 * Weiyue Wang, Derui Zhu, Tamer Alkhouli, Zixuan Gan, and Hermann Ney. 2018. [Neural Hidden Markov Model for Machine Translation](http://aclweb.org/anthology/P18-2060). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=13737032050194395214&as_sdt=2005&sciodt=0,5&hl=en): 3)
+* Jingjing Gong, Xipeng Qiu, Shaojing Wang, and Xuanjing Huang. 2018. [Information Aggregation via Dynamic Routing for Sequence Encoding](http://aclweb.org/anthology/C18-1232). In *COLING 2018*.
 * Qiang Wang, Fuxue Li, Tong Xiao, Yanyang Li, Yinqiao Li, and Jingbo Zhu. 2018. [Multi-layer Representation Fusion for Neural Machine Translation](http://aclweb.org/anthology/C18-1255). In *Proceedings of COLING 2018*. 
 * Yachao Li, Junhui Li, and Min Zhang. 2018. [Adaptive Weighting for Neural Machine Translation](http://aclweb.org/anthology/C18-1257). In *Proceedings of COLING 2018*. 
+* Kaitao Song, Xu Tan, Di He, Jianfeng Lu, Tao Qin, and Tie-Yan Liu. 2018. [Double Path Networks for Sequence to Sequence Learning](http://aclweb.org/anthology/C18-1259). In *Proceedings of COLING 2018*. 
 * Zi-Yi Dou, Zhaopeng Tu, Xing Wang, Shuming Shi, and Tong Zhang. 2018. [Exploiting Deep Representations for Neural Machine Translation](http://aclweb.org/anthology/D18-1457). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=8760242283445305561&as_sdt=2005&sciodt=0,5&hl=en): 1)
 * Biao Zhang, Deyi Xiong, Jinsong Su, Qian Lin, and Huiji Zhang. 2018. [Simplifying Neural Machine Translation with Addition-Subtraction Twin-Gated Recurrent Networks](http://aclweb.org/anthology/D18-1459). In *Proceedings of EMNLP 2018*. 
 * Gongbo Tang, Mathias Müller, Annette Rios, and Rico Sennrich. 2018. [Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures](http://aclweb.org/anthology/D18-1458). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=8994080673363827758&as_sdt=2005&sciodt=0,5&hl=en): 6)
@@ -210,7 +214,9 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Wei Wu, Houfeng Wang, Tianyu Liu and Shuming Ma.  2018. [Phrase-level Self-Attention Networks for Universal Sentence Encoding](http://aclweb.org/anthology/D18-1408). In *Proceedings of EMNLP 2018*. 
 * Baosong Yang, Zhaopeng Tu, Derek F. Wong, Fandong Meng, Lidia S. Chao, and Tong Zhang. 2018. [Modeling Localness for Self-Attention Networks](https://arxiv.org/abs/1810.10182). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=16651306350908112709&as_sdt=2005&sciodt=0,5&hl=en): 2)
 * Junyang Lin, Xu Sun, Xuancheng Ren, Muyu Li, and Qi Su. 2018. [Learning When to Concentrate or Divert Attention: Self-Adaptive Attention Temperature for Neural Machine Translation](http://aclweb.org/anthology/D18-1331). In *Proceedings of EMNLP 2018*. 
+* Shiv Shankar, Siddhant Garg, and Sunita Sarawagi. 2018. [Surprisingly Easy Hard-Attention for Sequence to Sequence Learning](http://aclweb.org/anthology/D18-1065). In *Proceedings of EMNLP 2018*.
 * Ankur Bapna, Mia Chen, Orhan Firat, Yuan Cao, and Yonghui Wu. 2018. [Training Deeper Neural Machine Translation Models with Transparent Attention](http://aclweb.org/anthology/D18-1338). In *Proceedings of EMNLP 2018*. 
+* Hareesh Bahuleyan, Lili Mou, Olga Vechtomova, and Pascal Poupart. 2018. [Variational Attention for Sequence-to-Sequence Models](http://aclweb.org/anthology/C18-1142). In *Proceedings of COLING 2018*. ([Citation](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=1653411252630135531): 14)
 * Maha Elbayad, Laurent Besacier, and Jakob Verbeek. 2018. [Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction](http://aclweb.org/anthology/K18-1010). In *Proceedings of CoNLL 2018*. ([Citation](https://scholar.google.com/scholar?cites=14016975442337015010&as_sdt=2005&sciodt=0,5&hl=en): 4)
 * Yuntian Deng, Yoon Kim, Justin Chiu, Demi Guo, and Alexander M. Rush. 2018 [Latent Alignment and Variational Attention](https://papers.nips.cc/paper/8179-latent-alignment-and-variational-attention.pdf). In *Proceedings of NeurIPS 2018*. ([Citation](https://scholar.google.com/scholar?client=safari&rls=en&oe=UTF-8&um=1&ie=UTF-8&lr&cites=6335407498429393003))
 * Shiv Shankar and Sunita Sarawagi. 2019. [Posterior Attention Models for Sequence to Sequence Learning](https://openreview.net/pdf?id=BkltNhC9FX). In *Proceedings of ICLR 2019*.
@@ -247,10 +253,16 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Julia Kreutzer, Artem Sokolov, Stefan Riezler. 2017. [Bandit Structured Prediction for Neural Sequence-to-Sequence Learning](http://aclweb.org/anthology/P17-1138). In *Proceedings of ACL 2017*. ([Citation](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2303245646235792457,8131913197545815057): 11)
 * Di He, Hanqing Lu, Yingce Xia, Tao Qin, Liwei Wang, and Tieyan Liu. 2017. [Decoding with Value Networks for Neural Machine Translation](http://papers.nips.cc/paper/6622-decoding-with-value-networks-for-neural-machine-translation.pdf). In *Proceedings of NIPS 2017*. ([Citation](https://scholar.google.com.hk/scholar?cites=9924066051536654397&as_sdt=2005&sciodt=0,5&hl=en): 11)
 * Sergey Edunov, Myle Ott, Michael Auli, David Grangier, and Marc’Aurelio Ranzato. 2018. [Classical Structured Prediction Losses for Sequence to Sequence Learning](http://aclweb.org/anthology/N18-1033). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=7858632228846408271&as_sdt=2005&sciodt=0,5&hl=en): 20)
+* Zihang Dai, Qizhe Xie, and Eduard Hovy. 2018. [From Credit Assignment to Entropy Regularization: Two New Algorithms for Neural Sequence Prediction](http://aclweb.org/anthology/P18-1155). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0,5&sciodt=0,5&cites=73472736706758753&scipsc=): 1)
 * Zhen Yang, Wei Chen, Feng Wang, and Bo Xu. 2018. [Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets](http://aclweb.org/anthology/N18-1122). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=14312548252804187966&as_sdt=2005&sciodt=0,5&hl=en): 43) 
+* Kevin Clark, Minh-Thang Luong, Christopher D. Manning, and Quoc Le. 2018. [Semi-Supervised Sequence Modeling with Cross-View Training](http://aclweb.org/anthology/D18-1217). In *Proceedings of EMNLP 2018*.
 * Lijun Wu, Fei Tian, Tao Qin, Jianhuang Lai, and Tie-Yan Liu. 2018. [A Study of Reinforcement Learning for Neural Machine Translation](http://aclweb.org/anthology/D18-1397). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=9706797919793848294&as_sdt=2005&sciodt=0,5&hl=en): 2)     
+* Jason Lee, Elman Mansimov, and Kyunghyun Cho. 2018. [Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement](http://aclweb.org/anthology/D18-1149). In *Proceedings of EMNLP 2018*. 
+* Semih Yavuz, Chung-Cheng Chiu, Patrick Nguyen, and Yonghui Wu. 2018. [CaLcs: Continuously Approximating Longest Common Subsequence for Sequence Level Optimization](http://aclweb.org/anthology/D18-1406). In *Proceedings of EMNLP 2018*.
 * Lijun Wu, Fei Tian, Yingce Xia, Yang Fan, Tao Qin, Jianhuang Lai, and Tie-Yan Liu. 2018. [Learning to Teach with Dynamic Loss Functions](https://papers.nips.cc/paper/7882-learning-to-teach-with-dynamic-loss-functions.pdf). In *Proceedings of NeurIPS 2018*.
 * Yiren Wang, Yingce Xia, Tianyu He, Fei Tian, Tao Qin, ChengXiang Zhai, and Tie-Yan Liu. 2019. [Multi-Agent Dual Learning](https://openreview.net/pdf?id=HyGhN2A5tm). In *Proceedings of ICLR 2019*.
+* Liqun Chen, Yizhe Zhang, Ruiyi Zhang, Chenyang Tao, Zhe Gan, Haichao Zhang, Bai Li, Dinghan Shen, Changyou Chen, and Lawrence Carin. 2019. [Improving Sequence-to-Sequence Learning via Optimal Transport](https://openreview.net/pdf?id=S1xtAjR5tX). In *Proceedings of ICLR 2019*.
+* Sachin Kumar and Yulia Tsvetkov. 2019. [Von Mises-Fisher Loss for Training Sequence to Sequence Models with Continuous Outputs](https://openreview.net/pdf?id=rJlDnoA5Y7). In *Proceedings of ICLR 2019*. 
 
 <h3 id="decoding">Decoding</h3>
 
@@ -601,7 +613,11 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * David Grangier and Michael Auli. 2018. [QuickEdit: Editing Text & Translations by Crossing Words Out](http://aclweb.org/anthology/N18-1025). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=9500777791162222168&as_sdt=2005&sciodt=0,5&hl=en): 1) 
 * Thuy-Trang Vu and Gholamreza Haffari. 2018. [Automatic Post-Editing of Machine Translation: A Neural Programmer-Interpreter Approach](http://aclweb.org/anthology/D18-1341). In *Proceedings of EMNLP 2018*.
 
-<h3 id="word_translation">Word Translation and Bilingual Lexicon Induction</h3>
+<h3 id="poetry_translation">Poetry Translation</h3>
+
+* Marjan Ghazvininejad, Yejin Choi, and Kevin Knight. 2018. [Neural Poetry Translation](http://aclweb.org/anthology/N18-2011). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=4597758342230970450&as_sdt=2005&sciodt=0,5&hl=en): 1)
+
+<h2 id="word_translation">Word Translation</h3>
 
 * Tomas Mikolov, Quoc V. Le, and Ilya Sutskever. 2013. [Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/pdf/1309.4168.pdf). *arxiv:1309.4168*. ([Citation](https://scholar.google.com.hk/scholar?cites=18389495985810631724&as_sdt=2005&sciodt=0,5&hl=en): 581) 
 * Chao Xing, Dong Wang, Chao Liu, and Yiye Lin. 2015. [Normalized Word Embedding and Orthogonal Transform for Bilingual Word Translation](http://aclweb.org/anthology/N15-1104). In *Proceedings of NAACL 2015*. ([Citation](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=2005&sciodt=0,5&cites=4009320309746318198&scipsc=): 89)
@@ -628,18 +644,18 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Mikel Artetxe, Gorka Labaka, and Eneko Agirre. 2018. [A Robust Self-learning Method for Fully Unsupervised Cross-lingual Mappings of Word Embeddings](http://aclweb.org/anthology/P18-1073). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=7012967033921106213&as_sdt=2005&sciodt=0,5&hl=en): 17)
 * Parker Riley and Daniel Gildea. 2018. [Orthographic Features for Bilingual Lexicon Induction](http://aclweb.org/anthology/P18-2062). In *Proceedings of ACL 2018*.
 * Amir Hazem and Emmanuel Morin. 2018. [Leveraging Meta-Embeddings for Bilingual Lexicon Extraction from Specialized Comparable Corpora](http://aclweb.org/anthology/C18-1080). In *Proceedings of COLING 2018*.
+[Multi-lingual Common Semantic Space Construction via Cluster-consistent Word Embedding](http://aclweb.org/anthology/D18-1023). In *Proceedings of EMNLP 2018*.
 * Xilun Chen and Claire Cardie. 2018. [Unsupervised Multilingual Word Embeddings](http://aclweb.org/anthology/D18-1024). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=15847135808149408064&as_sdt=2005&sciodt=0,5&hl=en): 4)
+* Ta Chung Chi and Yun-Nung Chen. 2018. [CLUSE: Cross-Lingual Unsupervised Sense Embeddings](http://aclweb.org/anthology/D18-1025). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=1931895311858153391&as_sdt=2005&sciodt=0,5&hl=en): 1)
 * Yerai Doval, Jose Camacho-Collados, Luis Espinosa Anke, and Steven Schockaert. 2018. [Improving Cross-Lingual Word Embeddings by Meeting in the Middle](http://aclweb.org/anthology/D18-1027). In *Proceedings of EMNLP 2018*. 
 * Sebastian Ruder, Ryan Cotterell, Yova Kementchedjhieva, and Anders Søgaard. 2018. [A Discriminative Latent-Variable Model for Bilingual Lexicon Induction](http://aclweb.org/anthology/D18-1042). In *Proceedings of EMNLP 2018*.
 * Yedid Hoshen and Lior Wolf. 2018. [Non-Adversarial Unsupervised Word Translation](http://aclweb.org/anthology/D18-1043). In *Proceedings of EMNLP 2018*.
 * Ndapa Nakashole. 2018. [NORMA: Neighborhood Sensitive Maps for Multilingual Word Embeddings](http://aclweb.org/anthology/D18-1047). In *Proceedings of EMNLP 2018*.
+* Mareike Hartmann, Yova Kementchedjhieva, and Anders Søgaard. 2018. [Why is unsupervised alignment of English embeddings from different algorithms so hard?](http://aclweb.org/anthology/D18-1056). In *Proceedings of EMNLP 2018*.
 * Zi-Yi Dou, Zhi-Hao Zhou, and Shujian Huang. 2018. [Unsupervised Bilingual Lexicon Induction via Latent Variable Models](http://aclweb.org/anthology/D18-1062). In *Proceedings of EMNLP 2018*.
+* Tanmoy Mukherjee, Makoto Yamada, and Timothy Hospedales. 2018. [Learning Unsupervised Word Translations Without Adversaries](http://aclweb.org/anthology/D18-1063). In *Proceedings of EMNLP 2018*.
 * David Alvarez-Melis and Tommi Jaakkola. 2018. [Gromov-Wasserstein Alignment of Word Embedding Spaces](http://aclweb.org/anthology/D18-1214). In *Proceedings of EMNLP 2018*.
 * Ruochen Xu, Yiming Yang, Naoki Otani, and Yuexin Wu. 2018. [Unsupervised Cross-lingual Transfer of Word Embedding Spaces](http://aclweb.org/anthology/D18-1268). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=15320274773511615227): 2)
 * Armand Joulin, Piotr Bojanowski, Tomas Mikolov, Hervé Jégou, and Edouard Grave. 2018. [Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion](http://aclweb.org/anthology/D18-1330). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=437763240249389525&as_sdt=2005&sciodt=0,5&hl=en): 2)
 * Sebastian Ruder, Ivan Vulić, and Anders Søgaard. 2019. [A Survey Of Cross-lingual Word Embedding Models](https://arxiv.org/pdf/1706.04902.pdf). *Journal of Artificial Intelligence Research*. ([Citation](https://scholar.google.com/scholar?cites=2174368482827457639&as_sdt=2005&sciodt=0,5&hl=en): 22)
 * Pratik Jawanpuria, Arjun Balgovind, Anoop Kunchukuttan, and Bamdev Mishra. 2019. [Learning Multilingual Word Embeddings in Latent Metric Space: A Geometric Approach](https://arxiv.org/pdf/1808.08773). *Transactions of the Association for Computational Linguistics*. ([Citation](https://scholar.google.com/scholar?cites=3887586742254907953&as_sdt=2005&sciodt=0,5&hl=en): 3)
-
-<h3 id="poetry_translation">Poetry Translation</h3>
-
-* Marjan Ghazvininejad, Yejin Choi, and Kevin Knight. 2018. [Neural Poetry Translation](http://aclweb.org/anthology/N18-2011). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=4597758342230970450&as_sdt=2005&sciodt=0,5&hl=en): 1)
