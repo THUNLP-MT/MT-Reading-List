@@ -446,6 +446,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Xinyi Wang, Hieu Pham, Pengcheng Yin, and Graham Neubig. 2018. [A Tree-based Decoder for Neural Machine Translation](http://aclweb.org/anthology/D18-1509). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=9083843868999368969&as_sdt=2005&sciodt=0,5&hl=en): 1)
 * Eliyahu Kiperwasser and Miguel Ballesteros. 2018. [Scheduled Multi-Task Learning: From Syntax to Translation](http://aclweb.org/anthology/Q18-1017). *Transactions of the Association for Computational Linguistics*. ([Citation](https://scholar.google.com.hk/scholar?cites=7224616032403591303&as_sdt=2005&sciodt=0,5&hl=en): 4)
 * Rudra Murthy V, Anoop Kunchukuttan, and Pushpak Bhattacharyya. 2019. [Addressing word-order Divergence in Multilingual Neural Machine Translation for extremely Low Resource Languages](https://arxiv.org/pdf/1811.00383.pdf). In *Proceedings of NAACL 2019*.
+* Meishan Zhang, Zhenghua Li, Guohong Fu, and Min Zhang. 2019. [Syntax-Enhanced Neural Machine Translation with Syntax-Aware Word Representations](https://arxiv.org/pdf/1905.02878). In *Proceedings of NAACL 2019*.
 * Linfeng Song, Daniel Gildea, Yue Zhang, Zhiguo Wang, and Jinsong Su. 2019. [Semantic Neural Machine Translation Using AMR](https://www.aclweb.org/anthology/Q19-1002). *Transactions of the Association for Computational Linguistics*.
 
 <h4 id="coverage_constraints">Coverage Constraints</h4>
