@@ -1,7 +1,7 @@
 ﻿# Machine Translation Reading List
 This is a machine translation reading list maintained by the Tsinghua Natural Language Processing Group. 
 
-The past three decades have witnessed the rapid development of machine translation, especially for data-driven approaches such as statistical machine translation (SMT) and neural machine translation (NMT). Due to the dominance of NMT at the present time, priority is given to collecting important, up-to-date NMT papers. The list is still incomplete and the categorization might be inappropriate. We will keep adding papers and improving the list. Any suggestions are welcome!
+The past three decades have witnessed the rapid development of machine translation, especially for data-driven approaches such as statistical machine translation (SMT) and neural machine translation (NMT). Due to the dominance of NMT at the present time, priority is given to collecting important, up-to-date NMT papers; the [Edinburgh/JHU MT research survey wiki](http://www.statmt.org/survey/) has good coverage of older papers and a brief description for each sub-topic of MT. Our list is still incomplete and the categorization might be inappropriate. We will keep adding papers and improving the list. Any suggestions are welcome!
 
 
 * [10 Must Reads](#10_must_reads)
@@ -13,6 +13,8 @@ The past three decades have witnessed the rapid development of machine translati
     * [Discriminative Training](#discriminative_training)
     * [System Combination](#system_combination)
     * [Human-centered SMT](#human_centered_smt)
+        * [Interactive SMT](#interactive)
+        * [Adaptation](#adaptation_smt)
  * [Evaluation](#evaluation)
  * [Neural Machine Translation](#neural_machine_translation)
     * [Tutorials](#nmt_tutorials) 
@@ -47,11 +49,15 @@ The past three decades have witnessed the rapid development of machine translati
     * [Domain Adaptation](#domain_adaptation)
     * [Quality Estimation](#quality_estimation)
     * [Human-centered NMT](#human_centered)
-        * [Interactive NMT](#interactive)
+        * [Interactive NMT](#interactive_nmt)
         * [Automatic Post-Editing](#ape)
     * [Poetry Translation](#poetry_translation)    
 * [Word Translation (Bilingual Lexicon Induction)](#word_translation)
-
+* [WMT Winners](#wmt_winners)
+    * [WMT 2019](#wmt19)
+    * [WMT 2018](#wmt18)
+    * [WMT 2017](#wmt17)
+    * [WMT 2016](#wmt16)
 
 <h2 id="10_must_reads">10 Must Reads</h2> 
 
@@ -175,8 +181,9 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Mingxuan Wang, Zhengdong Lu, Jie Zhou, and Qun Liu. 2017. [Deep Neural Machine Translation with Linear Associative Unit](http://aclweb.org/anthology/P17-1013). In *Proceedings of ACL 2017*. ([Citation](https://scholar.google.com/scholar?cites=13710779557836853910&as_sdt=2005&sciodt=0,5&hl=en): 21)
 * Matthias Sperber, Graham Neubig, Jan Niehues, and Alex Waibel. 2017. [Neural Lattice-to-Sequence Models for Uncertain Inputs](http://aclweb.org/anthology/D17-1145). In *Proceedings of EMNLP 2017*. ([Citation](https://scholar.google.com/scholar?cites=6601112324222176825&as_sdt=2005&sciodt=0,5&hl=en): 11)
 * Denny Britz, Anna Goldie, Minh-Thang Luong, and Quoc Le. 2017. [Massive Exploration of Neural Machine Translation Architectures](http://aclweb.org/anthology/D17-1151). In *Proceedings of EMNLP 2017*. ([Citation](https://scholar.google.com/scholar?cites=17797498583666145091&as_sdt=2005&sciodt=0,5&hl=en): 114)
-* Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. 2017. [Attention is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf). In *Proceedings of NIPS 2017*. ([Citation](https://scholar.google.com/scholar?cites=2960712678066186980&as_sdt=2005&sciodt=0,5&hl=en): 1,057)
-* Zhaopeng Tu, Yang Liu, Lifeng Shang, Xiaohua Liu, and Hang Li. 2017. [Neural machine translation with reconstruction](https://arxiv.org/pdf/1611.01874). In *Proceedings of AAAI 2017*. ([Citation](https://scholar.google.com/scholar?cites=1310099558617172101&as_sdt=2005&sciodt=0,5&hl=en): 74)
+* Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. 2017. [Attention is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf). In *Proceedings of NIPS 2017*. ([Citation](https://scholar.google.com/scholar?cites=2960712678066186980&as_sdt=2005&sciodt=0,5&hl=en): 1,748)
+* Yingce Xia, Fei Tian, Lijun Wu, Jianxin Lin, Tao Qin, Nenghai Yu, and Tie-Yan Liu. 2017. [Deliberation Networks: Sequence Generation Beyond One-Pass Decoding](https://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf). In *Proceedings of NIPS 2017*. ([Citation](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=5359968740795634948): 38)
+* Zhaopeng Tu, Yang Liu, Lifeng Shang, Xiaohua Liu, and Hang Li. 2017. [Neural machine translation with reconstruction](https://arxiv.org/pdf/1611.01874). In *Proceedings of AAAI 2017*. ([Citation](https://scholar.google.com/scholar?cites=1310099558617172101&as_sdt=2005&sciodt=0,5&hl=en): 75)
 * Lukasz Kaiser, Aidan N. Gomez, and Francois Chollet. 2018. [Depthwise Separable Convolutions for Neural Machine Translation](https://openreview.net/pdf?id=S1jBcueAb). In *Proceedings of ICLR 2018*. ([Citation](https://scholar.google.com/scholar?cites=7520360878420709403&as_sdt=2005&sciodt=0,5&hl=en): 27)
 * Yanyao Shen, Xu Tan, Di He, Tao Qin, and Tie-Yan Liu. 2018. [Dense Information Flow for Neural Machine Translation](http://aclweb.org/anthology/N18-1117). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=12417301759540220817&as_sdt=2005&sciodt=0,5&hl=en): 3)
 * Wenhu Chen, Guanlin Li, Shuo Ren, Shujie Liu, Zhirui Zhang, Mu Li, and Ming Zhou. 2018. [Generative Bridging Network for Neural Sequence Prediction](http://aclweb.org/anthology/N18-1154). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=16479416225427738693): 3)
@@ -595,7 +602,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Lucia Specia, Stella Frank, Khalil Sima'an, and Desmond Elliott. 2016. [A Shared Task on Multimodal Machine Translation and Crosslingual Image Description](http://aclweb.org/anthology/W16-2346). In *Proceedings of the First Conference on Machine Translation: Volume 2, Shared Task Papers*. ([Citation](https://scholar.google.com.hk/scholar?hl=en&as_sdt=2005&sciodt=0,5&cites=10227072007263391757&scipsc=): 47)
 * Sergio Rodríguez Guasch, Marta R. Costa-jussà. 2016. [WMT 2016 Multimodal Translation System Description based on Bidirectional Recurrent Neural Networks with Double-Embeddings](http://aclweb.org/anthology/W16-2362). In *Proceedings of the First Conference on Machine Translation: Volume 2, Shared Task Papers*. ([Citation](https://scholar.google.com.hk/scholar?cites=4203794059992068345&as_sdt=2005&sciodt=0,5&hl=en): 2)
 * Po-Yao Huang, Frederick Liu, Sz-Rung Shiang, Jean Oh, and Chris Dyer. 2016. [Attention-based Multimodal Neural Machine Translation](http://aclweb.org/anthology/W16-2363). In *Proceedings of the First Conference on Machine Translation: Volume 2, Shared Task Papers*. ([Citation](https://scholar.google.com.hk/scholar?cites=3098391471855879500&as_sdt=2005&sciodt=0,5&hl=en): 34)
-* Iacer Calixto, Desmond Elliott, and Stella Frank. 2016. [DCU-UvA Multimodal MT System Report](http://aclweb.org/anthology/W16-2359). In *Proceedings of the First Conference on Machine Translation: Volume 2, Shared Task Papers*. ([Citation](https://scholar.google.com.hk/scholar?cites=13635685318707561524&as_sdt=2005&sciodt=0,5&hl=en): 11)
+* Iacer Calixto, Desmond Elliott, and Stella Frank. 2016. [DCU-UvA Multimodal MT **System report**](http://aclweb.org/anthology/W16-2359). In *Proceedings of the First Conference on Machine Translation: Volume 2, Shared Task Papers*. ([Citation](https://scholar.google.com.hk/scholar?cites=13635685318707561524&as_sdt=2005&sciodt=0,5&hl=en): 11)
 * Desmond Elliott, Stella Frank, Loïc Barrault, Fethi Bougares, and Lucia Specia. 2017. [Findings of the Second Shared Task on Multimodal Machine Translation and Multilingual Image Description](http://aclweb.org/anthology/W17-4718). In *Proceedings of the Second Conference on Machine Translation*. ([Citation](https://scholar.google.com.hk/scholar?cites=268734032292286129&as_sdt=2005&sciodt=0,5&hl=en): 24)
 * Iacer Calixto, Qun Liu, and Nick Campbell. 2017. [Doubly-Attentive Decoder for Multi-modal Neural Machine Translation](http://aclweb.org/anthology/P17-1175). In *Proceedings of ACL 2017*. ([Citation](https://scholar.google.com.hk/scholar?cites=9882133753270023054&as_sdt=2005&sciodt=0,5&hl=en): 31)
 * Jean-Benoit Delbrouck and Stéphane Dupont. 2017. [An empirical study on the effectiveness of images in Multimodal Neural Machine Translation](http://aclweb.org/anthology/D17-1095). In *Proceedings of EMNLP 2017*. ([Citation](https://scholar.google.com.hk/scholar?cites=4462543203996753904&as_sdt=2005&sciodt=0,5&hl=en): 2)
@@ -653,7 +660,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 
 <h3 id="human_centered">Human-centered NMT</h3>
 
-<h4 id="interactive">Interactive NMT</h4>
+<h4 id="interactive_nmt">Interactive NMT</h4>
 
 * Joern Wuebker, Spence Green, John DeNero, Saša Hasan and Minh-Thang Luong. 2016. [Models and Inference for Prefix-Constrained Machine Translation](http://aclweb.org/anthology/P16-1007). In *Proceedings of ACL 2016*. ([Citation](https://scholar.google.com/scholar?cites=6217828709297735294&as_sdt=2005&sciodt=0,5&hl=es): 14)
 * Rebecca Knowles and Philipp Koehn. 2017. [Neural Interactive Translation Prediction](https://www.cs.jhu.edu/~phi/publications/neural-interactive-translation.pdf). In *Proceedings of AMTA 2016*. ([Citation](https://scholar.google.es/scholar?cites=16855799109441363843&as_sdt=2005&sciodt=0,5&hl=es): 24)
@@ -680,7 +687,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 
 * Marjan Ghazvininejad, Yejin Choi, and Kevin Knight. 2018. [Neural Poetry Translation](http://aclweb.org/anthology/N18-2011). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=4597758342230970450&as_sdt=2005&sciodt=0,5&hl=en): 1)
 
-<h2 id="word_translation">Word Translation</h3>
+<h2 id="word_translation">Word Translation</h2>
 
 * Tomas Mikolov, Quoc V. Le, and Ilya Sutskever. 2013. [Exploiting Similarities among Languages for Machine Translation](https://arxiv.org/pdf/1309.4168.pdf). *arxiv:1309.4168*. ([Citation](https://scholar.google.com.hk/scholar?cites=18389495985810631724&as_sdt=2005&sciodt=0,5&hl=en): 581) 
 * Chao Xing, Dong Wang, Chao Liu, and Yiye Lin. 2015. [Normalized Word Embedding and Orthogonal Transform for Bilingual Word Translation](http://aclweb.org/anthology/N15-1104). In *Proceedings of NAACL 2015*. ([Citation](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=2005&sciodt=0,5&cites=4009320309746318198&scipsc=): 89)
@@ -727,3 +734,60 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Noa Yehezkel Lubin, Jacob Goldberger, and Yoav Goldberg. 2019. [Aligning Vector-spaces with Noisy Supervised Lexicons](https://arxiv.org/pdf/1903.10238.pdf). In *Proceedings of NAACL 2019*. 
 * Tal Schuster, Ori Ram, Regina Barzilay, and Amir Globerson. 2019. [Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing](https://arxiv.org/pdf/1902.09492.pdf). In *Proceedings of NAACL 2019*.  
 * Hanan Aldarmaki and Mona Diab. 2019. [Context-Aware Cross-Lingual Mapping](https://arxiv.org/pdf/1903.03243.pdf). In *Proceedings of NAACL 2019*.  
+
+<h2 id="wmt_winners">WMT Winners</h2>
+
+[WMT](http://www.statmt.org/wmt19/) is the most important annual international competition on machine translation. We collect the [competition results](http://matrix.statmt.org) on the news translation task since WMT 2016 (the First Conference of Machine Translation) and summarize the techniques used in the systems with the top performance. Currently, we focus on four directions: ZH-EN, EN-ZH, DE-EN, and EN-DE. The summarized algorithms might be incomplete; your suggestions are welcome!
+
+<h3 id="wmt19">WMT 2019</h3>
+
+* The winner of [ZH-EN](http://matrix.statmt.org/matrix/systems_list/1901), [DE-EN](http://matrix.statmt.org/matrix/systems_list/1902) and [EN-DE](http://matrix.statmt.org/matrix/systems_list/1909): **Microsoft**
+    * **System report**: Coming soon...
+    * **News**: [Microsoft Research Asia (MSRA) leads in 2019 WMT international machine translation competition](https://news.microsoft.com/apac/2019/05/22/microsoft-research-asia-msra-leads-in-2019-wmt-international-machine-translation-competition/)
+    * **Techniques**:
+        * Yiren Wang, Yingce Xia, Tianyu He, Fei Tian, Tao Qin, ChengXiang Zhai, and Tie-Yan Liu. 2019. [Multi-Agent Dual Learning](https://openreview.net/pdf?id=HyGhN2A5tm). In *Proceedings of ICLR 2019*.
+        * Kaitao Song, Xu Tan, Tao Qin, Jianfeng Lu, and Tie-Yan Liu. 2019. [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/pdf/1905.02450). In *Proceedings of ICML 2019*.
+        * Renqian Luo, Fei Tian, Tao Qin, Enhong Chen, and Tie-Yan Liu. 2018. [Neural Architecture Optimization](https://papers.nips.cc/paper/8007-neural-architecture-optimization.pdf). In *Proceedings of NeurIPS 2018*.
+        * Soft contextual data augmentation   
+
+* The winner of [EN-ZH](http://matrix.statmt.org/matrix/systems_list/1908): **PATECH**
+    * **System report**: Coming soon...
+    * **Techniques**: Transformer + Back-Translation + Reranking + Ensemble
+
+<h3 id="wmt18">WMT 2018</h3>
+
+* The winner of [ZH-EN](http://matrix.statmt.org/matrix/systems_list/1892): **Tencent**
+    * **System report**: Mingxuan Wang, Li Gong, Wenhuan Zhu, Jun Xie, and Chao Bian. 2018. [Tencent Neural Machine Translation Systems for WMT18](https://www.aclweb.org/anthology/W18-6429). In *Proceedings of the Third Conference on Machine Translation: Shared Task Papers*.
+    * **Techniques**: RNMT + Transformer + BPE + Rerank ensemble outputs with 48 features (including t2t R2l, t2t L2R, rnn L2R, rnn R2L etc.) + Back Translation + Joint Train with English to Chinese systems + Fine-tuning with selected data + Knowledge distillation
+    
+* The winner of [EN-ZH](http://matrix.statmt.org/matrix/systems_list/1893): **GTCOM**
+    * **System report**: Chao Bei, Hao Zong, Yiming Wang, Baoyong Fan, Shiqi Li, and Conghu Yuan. 2018. [An Empirical Study of Machine Translation for the Shared Task of WMT18](https://www.aclweb.org/anthology/W18-6404). In *Proceedings of the Third Conference on Machine Translation: Shared Task Papers*.
+    * **Techniques**: Transformer + Back-Translation + Data Filtering by rules, language models and translation models + BPE + Greedy Ensemble Decoding + Fine-Tuning with newstest2017 back translation
+    
+* The winner of [DE-EN](http://matrix.statmt.org/matrix/systems_list/1880): **RWTH Aachen University**
+    * **System report**: Julian Schamper, Jan Rosendahl, Parnia Bahar, Yunsu Kim, Arne Nix, and Hermann Ney. 2018. [The RWTH Aachen University Supervised Machine Translation Systems for WMT 2018](https://www.aclweb.org/anthology/W18-6426). In *Proceedings of the Third Conference on Machine Translation: Shared Task Papers*.
+    * **Techniques**: Ensemble of 3-strongest Transformer models + Data Selection + BPE + Fine-Tuning + Important Hyperparameters (batch size and model dimension)
+    
+* The winner of [EN-DE](http://matrix.statmt.org/matrix/systems_list/1881): **Microsoft**
+    * **System report**: Marcin Junczys-Dowmunt. 2018. [Microsoft’s Submission to the WMT2018 News Translation Task: How I Learned to Stop Worrying and Love the Data](https://www.aclweb.org/anthology/W18-6415). In *Proceedings of the Third Conference on Machine Translation: Shared Task Papers*.
+    * **Techniques**: Marian + Transformer-big + BPE + Ensemble + Data Filtering + Domain-Weighted {ParaCrawl, original data} + Decoder-time ensemble with in-domain Transformer-style language model + Reranking with Right-to-left Transformer-big models
+
+<h3 id="wmt17">WMT 2017</h3>
+
+* The winner of [ZH-EN](http://matrix.statmt.org/matrix/systems_list/1878): **Sogou**
+    * **System report**: Yuguang Wang, Shanbo Cheng, Liyang Jiang, Jiajun Yang, Wei Chen, Muze Li, Lin Shi, Yanfeng Wang, and Hongtao Yang. 2017. [Sogou Neural Machine Translation Systems for WMT17](https://www.aclweb.org/anthology/W17-4742). In *Proceedings of the Second Conference on Machine Translation: Shared Task Papers*.
+    * **Techniques**: Encoder-Decoder with Attention + BPE + Reranking (R2L, T2S, N-gram language models) + Tagging Model + Name Entity Translation + Ensemble
+
+* The winner of [EN-ZH](http://matrix.statmt.org/matrix/systems_list/1879), [DE-EN](http://matrix.statmt.org/matrix/systems_list/1868) and [EN-DE](http://matrix.statmt.org/matrix/systems_list/1869): **University of Edinburgh**  
+    * **System report**: Rico Sennrich, Alexandra Birch, Anna Currey, Ulrich Germann, Barry Haddow, Kenneth Heafield, Antonio Valerio Miceli Barone, and Philip Williams. 2017. [The University of Edinburgh’s Neural MT Systems for WMT17](https://www.aclweb.org/anthology/W17-4739). In *Proceedings of the Second Conference on Machine Translation: Shared Task Papers*. 
+    * **Techniques**: Encoder-Decoder with Attention + Deep Model + Layer Normalization + Weight Tying + Back-Translation + BPE + Reranking(L2R, R2L) + Ensemble
+
+<h3 id="wmt16">WMT 2016</h3>
+
+* The winner of [DE-EN](http://matrix.statmt.org/matrix/systems_list/1846): **University of Regensburg**
+    * **System report**: Failed to find it
+    * **Techniques**: Failed to find it
+    
+* The winner of [EN-DE](http://matrix.statmt.org/matrix/systems_list/1846): **University of Edinburgh**
+    * **System report**: [Edinburgh Neural Machine Translation Systems for WMT 16](http://www.aclweb.org/anthology/W16-2323). In *Proceedings of the First Conference on Machine Translation: Shared Task Papers*.
+    * **Techniques**: Encoder-Decoder with Attention + Back-Translation + BPE + Reranking(R2L) + Ensemble
