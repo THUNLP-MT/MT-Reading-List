@@ -215,6 +215,12 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Ben Peters, Vlad Niculae, and André F.T. Martins. 2019. [Sparse Sequence-to-Sequence Models](https://arxiv.org/pdf/1905.05702). In *Proceedings of ACL 2019*.
 * Roberto Dessì and Marco Baroni. 2019. [CNNs found to jump around more skillfully than RNNs: Compositional generalization in seq2seq convolutional networks](https://arxiv.org/pdf/1905.08527). In *Proceedings of ACL 2019*.
 * Sainbayar Sukhbaatar, Edouard Grave, Piotr Bojanowski, and Armand Joulin. 2019. [Adaptive Attention Span in Transformers](https://arxiv.org/pdf/1905.07799). In *Proceedings of ACL 2019*.
+* Yi Tay, Aston Zhang, Luu Anh Tuan, Jinfeng Rao, Shuai Zhang, Shuohang Wang, Jie Fu, and Siu Cheung Hui. 2019. [Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks](https://arxiv.org/pdf/1906.04393). In *Proceedings of ACL 2019*. 
+* Qiang Wang, Bei Li, Tong Xiao, Jingbo Zhu, Changliang Li, Derek F. Wong, and Lidia S. Chao. 2019. [Learning Deep Transformer Models for Machine Translation](https://arxiv.org/pdf/1906.01787). In *Proceedings of ACL 2019*.
+* Fengshun Xiao, Jiangtong Li, Hai Zhao, Rui Wang, and Kehai Chen. 2019. [Lattice-Based Transformer Encoder for Neural Machine Translation](https://arxiv.org/pdf/1906.01282). In *Proceedings of ACL 2019*.
+* Matthias Sperber, Graham Neubig, Ngoc-Quan Pham, and Alex Waibel. 2019. [Self-Attentional Models for Lattice Inputs](https://arxiv.org/pdf/1906.01617). In *Proceedings of ACL 2019*.
+* Xing Wang, Zhaopeng Tu, Longyue Wang, and Shuming Shi. 2019. [Exploiting Sentential Context for Neural Machine Translation](https://arxiv.org/pdf/1906.01268). In *Proceedings of ACL 2019*.
+* Kris Korrel, Dieuwke Hupkes, Verna Dankers, and Elia Bruni. 2019. [Transcoding compositionally: using attention to find more generalizable solutions](https://arxiv.org/pdf/1906.01234). In *Proceedings of ACL 2019*.
 
 <h3 id="attention_mechanism">Attention Mechanism</h3>
 
@@ -249,6 +255,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Sameen Maruf, André F. T. Martins, and Gholamreza Haffari. 2019. [Selective Attention for Context-aware Neural Machine Translation](https://arxiv.org/pdf/1903.08788.pdf). In *Proceedings of NAACL 2019*.
 * Sarthak Jain and Byron C. Wallace. 2019. [Attention is not Explanation](https://arxiv.org/pdf/1902.10186.pdf). In *Proceedings of NAACL 2019*.
 * Sainbayar Sukhbaatar, Edouard Grave, Piotr Bojanowski, and Armand Joulin. 2019. [Adaptive Attention Span in Transformers](https://arxiv.org/pdf/1905.07799). In *Proceedings of ACL 2019*.
+* Kris Korrel, Dieuwke Hupkes, Verna Dankers, and Elia Bruni. 2019. [Transcoding compositionally: using attention to find more generalizable solutions](https://arxiv.org/pdf/1906.01234). In *Proceedings of ACL 2019*.
 
 <h3 id="open_vocabulary">Open Vocabulary</h3>
 
@@ -336,6 +343,8 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 
 <h3 id="low_resource_language_translation">Low-resource Language Translation</h3>
 
+* Rico Sennrich and Biao Zhang. 2019. [Revisiting Low-Resource Neural Machine Translation: A Case Study](https://arxiv.org/pdf/1905.11901). In *Proceedings of ACL 2019*. 
+
 <h4 id="semi_supervised">Semi-supervised Learning</h4>
 
 * Rico Sennrich, Barry Haddow, and Alexandra Birch. 2016. [Improving Neural Machine Translation Models with Monolingual Data](https://arxiv.org/pdf/1511.06709). In *Proceedings of ACL 2016*. ([Citation](https://scholar.google.com.hk/scholar?cites=16647011114557315277&as_sdt=2005&sciodt=0,5&hl=en): 220)
@@ -368,6 +377,8 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Marzieh Fadaee and Christof Monz. 2018. [Back-Translation Sampling by Targeting Difficult Words in Neural Machine Translation](http://aclweb.org/anthology/D18-1040). In *Proceedings of EMNLP 2018*. 
 * Sergey Edunov, Myle Ott, Michael Auli, and David Grangier. 2018. [Understanding Back-Translation at Scale](http://aclweb.org/anthology/D18-1045). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=5388849145974890035&as_sdt=2005&sciodt=0,5&hl=en): 6)
 * Xinyi Wang, Hieu Pham, Zihang Dai, and Graham Neubig. 2018. [SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation](http://aclweb.org/anthology/D18-1100). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=3839046500027819595&as_sdt=2005&sciodt=0,5&hl=en): 4)
+* Mengzhou Xia, Xiang Kong, Antonios Anastasopoulos, and Graham Neubig. 2019. [Generalized Data Augmentation for Low-Resource Translation](https://arxiv.org/pdf/1906.03785). In *Proceedings of ACL 2019*.
+* Jinhua Zhu, Fei Gao, Lijun Wu, Yingce Xia, Tao Qin, Wengang Zhou, Xueqi Cheng, and Tie-Yan Liu. 2019. [Soft Contextual Data Augmentation for Neural Machine Translation](https://arxiv.org/pdf/1905.10523). In *Proceedings of ACL 2019*.
 
 <h4 id="data_selection">Data Selection Methods</h4>
 
@@ -438,6 +449,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Qian Cao and Deyi Xiong. 2018. [Encoding Gated Translation Memory into Neural Machine Translation](http://aclweb.org/anthology/D18-1340). In *Proceedings of EMNLP 2018*.
 * Chengyue Gong, Di He, Xu Tan, Tao Qin, Liwei Wang, and Tie-Yan Liu. 2018. [FRAGE: Frequency-Agnostic Word Representation](https://arxiv.org/pdf/1809.06858). In *Proceedings of NeurIPS 2018*. ([Citation](https://scholar.google.com/scholar?cites=899516517229807927&as_sdt=2005&sciodt=0,5&hl=en): 2)
 * Inigo Jauregi Unanue, Ehsan Zare Borzeshi, Nazanin Esmaili, and Massimo Piccardi. [ReWE: Regressing Word Embeddings for Regularization of Neural Machine Translation Systems](https://arxiv.org/pdf/1904.02461.pdf). In *Proceedings of NAACL 2019*.
+* Xuebo Liu, Derek F. Wong, Yang Liu, Lidia S. Chao, Tong Xiao, and Jingbo Zhu. 2019. [Shared-Private Bilingual Word Embeddings for Neural Machine Translation](https://arxiv.org/pdf/1906.03100). In *Proceedings of ACL 2019*.
 
 <h4 id="syntactic_semantic_constraints"> Syntactic/Semantic Constraints </h4>
 
@@ -472,6 +484,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Rudra Murthy V, Anoop Kunchukuttan, and Pushpak Bhattacharyya. 2019. [Addressing word-order Divergence in Multilingual Neural Machine Translation for extremely Low Resource Languages](https://arxiv.org/pdf/1811.00383.pdf). In *Proceedings of NAACL 2019*.
 * Meishan Zhang, Zhenghua Li, Guohong Fu, and Min Zhang. 2019. [Syntax-Enhanced Neural Machine Translation with Syntax-Aware Word Representations](https://arxiv.org/pdf/1905.02878). In *Proceedings of NAACL 2019*.
 * Linfeng Song, Daniel Gildea, Yue Zhang, Zhiguo Wang, and Jinsong Su. 2019. [Semantic Neural Machine Translation Using AMR](https://www.aclweb.org/anthology/Q19-1002). *Transactions of the Association for Computational Linguistics*.
+* Nader Akoury, Kalpesh Krishna, and Mohit Iyyer. 2019. [Syntactically Supervised Transformers for Faster Neural Machine Translation](https://arxiv.org/pdf/1906.02780). In *Proceedings of ACL 2019*.
 
 <h4 id="coverage_constraints">Coverage Constraints</h4>
 
@@ -508,6 +521,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Antonios Anastasopoulos, Alison Lui, Toan Nguyen, and David Chiang. 2019. [Neural Machine Translation of Text from Non-Native Speakers](https://arxiv.org/pdf/1808.06267.pdf). In *Proceedings of NAACL 2019*.  
 * Paul Michel, Xian Li, Graham Neubig, and Juan Miguel Pino. 2019. [On Evaluation of Adversarial Perturbations for Sequence-to-Sequence Models](https://arxiv.org/pdf/1903.06620.pdf). In *Proceedings of NAACL 2019*.   
 * Vaibhav Vaibhav, Sumeet Singh, Craig Stewart, and Graham Neubig. 2019. [Improving Robustness of Machine Translation with Synthetic Noise](https://arxiv.org/pdf/1902.09508.pdf). In *Proceedings of NAACL 2019*. 
+* Yong Cheng, Lu Jiang, and Wolfgang Macherey. 2019. [Robust Neural Machine Translation with Doubly Adversarial Inputs](https://arxiv.org/pdf/1906.02443). In *Proceedings of ACL 2019*.
 
 <h3 id="interpretability">Interpretability</h3> 
 
@@ -518,6 +532,11 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Fahim Dalvi, Nadir Durrani, Hassan Sajjad, Yonatan Belinkov, D. Anthony Bau, and James Glass. 2019. [What Is One Grain of Sand in the Desert? Analyzing Individual Neurons in Deep NLP Models](http://people.csail.mit.edu/belinkov/assets/pdf/aaai2019.pdf). In *Proceedings of AAAI 2019*. ([Citation](https://scholar.google.com/scholar?cites=9612190838970536755&as_sdt=2005&sciodt=0,5&hl=en): 2)
 * Anthony Bau, Yonatan Belinkov, Hassan Sajjad, Nadir Durrani, Fahim Dalvi, and James Glass. 2019. [Identifying and Controlling Important Neurons in Neural Machine Translation](https://openreview.net/pdf?id=H1z-PsR5KX). In *Proceedings of ICLR 2019*. ([Citation](https://scholar.google.com/scholar?cites=10670221460130643181&as_sdt=2005&sciodt=0,5&hl=en): 2)
 * Yonatan Belinkov, and James Glass. 2019. [Analysis Methods in Neural Language Processing: A Survey](https://www.aclweb.org/anthology/Q19-1004). *Transactions of the Association for Computational Linguistics*.
+* Sofia Serrano and Noah A. Smith. 2019. [Is Attention Interpretable?](https://arxiv.org/pdf/1906.03731). In *Proceedings of ACL 2019*.
+* Elena Voita, David Talbot, Fedor Moiseev, Rico Sennrich, and Ivan Titov. 2019. [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://arxiv.org/pdf/1905.09418). In *Proceedings of ACL 2019*.
+* Joris Baan, Jana Leible, Mitja Nikolaus, David Rau, Dennis Ulmer, Tim Baumgärtner, Dieuwke Hupkes, and Elia Bruni. 2019. [On the Realization of Compositionality in Neural Networks](https://arxiv.org/pdf/1906.01634). In *Proceedings of ACL 2019*.
+* Jesse Vig and Yonatan Belinkov. 2019. [Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/pdf/1906.04284). In *Proceedings of ACL 2019*.
+* Baosong Yang, Longyue Wang, Derek F. Wong, Lidia S. Chao, and Zhaopeng Tu. 2019. [Assessing the Ability of Self-Attention Networks to Learn Word Order](https://arxiv.org/pdf/1906.00592). In *Proceedings of ACL 2019*.
 
 <h3 id="linguistic_interpretation">Linguistic Interpretation</h3>
 
@@ -540,6 +559,8 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Myle Ott, Michael Auli, David Grangier, and Marc'Aurelio Ranzato. 2018. [Analyzing Uncertainty in Neural Machine Translation](https://arxiv.org/pdf/1803.00047). In *Proceedings of ICML 2018*. ([Citation](https://scholar.google.com/scholar?cites=1522001537063991105&as_sdt=2005&sciodt=0,5&hl=en): 11)    
 * Paul Michel and Graham Neubig. 2018. [Extreme Adaptation for Personalized Neural Machine Translation](http://www.aclweb.org/anthology/P18-2050). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=16717798879574507487&as_sdt=2005&sciodt=0,5&hl=en): 6)         
 * Eva Vanmassenhove, Christian Hardmeier, and Andy Way. 2018. [Getting Gender Right in Neural Machine Translation](http://www.aclweb.org/anthology/D18-1334). In *Proceedings of EMNLP 2018*.     
+* Won Ik Cho, Ji Won Kim, Seok Min Kim, and Nam Soo Kim. 2019. [On Measuring Gender Bias in Translation of Gender-neutral Pronouns](https://arxiv.org/pdf/1905.11684). In *Proceedings of ACL 2019*.
+* Gabriel Stanovsky, Noah A. Smith, and Luke Zettlemoyer. 2019. [Evaluating Gender Bias in Machine Translation](https://arxiv.org/pdf/1906.00591). In *Proceedings of ACL 2019*.
 
 <h3 id="efficiency">Efficiency</h3>
 
@@ -599,6 +620,9 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Mingbo Ma, Liang Huang, Hao Xiong, Kaibo Liu, Chuanqiang Zhang, Zhongjun He, Hairong Liu, Xing Li, and Haifeng Wang. 2018. [STACL: Simultaneous Translation with Integrated Anticipation and Controllable Latency](https://arxiv.org/pdf/1810.08398). *arXiv:1810.08398*. ([Citation](https://scholar.google.com.hk/scholar?cites=17304306992752986743&as_sdt=2005&sciodt=0,5&hl=en): 1)
 * Sameer Bansal, Herman Kamper, Karen Livescu, Adam Lopez, and Sharon Goldwater. 2019. [Pre-training on high-resource speech recognition improves low-resource speech-to-text translation](https://arxiv.org/pdf/1809.01431.pdf). In *Proceedings of NAACL 2019*.
 * Nikolai Vogler, Craig Stewart, and Graham Neubig. 2019. [Lost in Interpretation: Predicting Untranslated Terminology in Simultaneous Interpretation](https://arxiv.org/pdf/1904.00930.pdf). In *Proceedings of NAACL 2019*.
+* Elizabeth Salesky, Matthias Sperber, and Alex Waibel. 2019. [Fluent Translations from Disfluent Speech in End-to-End Speech Translation](https://arxiv.org/pdf/1906.00556). In *Proceedings of NAACL 2019*.
+* Naveen Arivazhagan, Colin Cherry, Wolfgang Macherey, Chung-Cheng Chiu, Semih Yavuz, Ruoming Pang, Wei Li, and Colin Raffel. 2019. [Monotonic Infinite Lookback Attention for Simultaneous Machine Translation](https://arxiv.org/pdf/1906.05218). In *Proceedings of ACL 2019*.
+* Matthias Sperber, Graham Neubig, Ngoc-Quan Pham, and Alex Waibel. 2019. [Self-Attentional Models for Lattice Inputs](https://arxiv.org/pdf/1906.01617). In *Proceedings of ACL 2019*.
 
 <h3 id="multi_modality">Multi-modality</h3>
 
@@ -643,6 +667,8 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Graham Neubig and Junjie Hu. 2018. [Rapid Adaptation of Neural Machine Translation to New Languages](http://aclweb.org/anthology/D18-1103). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=18133973017615911986&as_sdt=2005&sciodt=0,5&hl=en): 4)  
 * Shuhao Gu, Yang Feng, and Qun Liu. 2019. [Improving Domain Adaptation Translation with Domain Invariant and Specific Information](https://arxiv.org/pdf/1904.03879.pdf). In *Proceedings of NAACL 2019*.
 * Ankur Bapna and Orhan Firat. 2019. [Non-Parametric Adaptation for Neural Machine Translation](https://arxiv.org/pdf/1903.00058.pdf). In *Proceedings of NAACL 2019*. 
+* Junjie Hu, Mengzhou Xia, Graham Neubig, and Jaime Carbonell. 2019. [Domain Adaptation of Neural Machine Translation by Lexicon Induction](https://arxiv.org/pdf/1906.00376). In *Proceedings of ACL 2019*.
+* Danielle Saunders, Felix Stahlberg, Adria de Gispert, and Bill Byrne. 2019. [Domain Adaptive Inference for Neural Machine Translation](https://arxiv.org/pdf/1906.00408). In *Proceedings of ACL 2019*. 
 
 <h3 id="quality_estimation">Quality Estimation</h3>
 
@@ -738,6 +764,8 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Noa Yehezkel Lubin, Jacob Goldberger, and Yoav Goldberg. 2019. [Aligning Vector-spaces with Noisy Supervised Lexicons](https://arxiv.org/pdf/1903.10238.pdf). In *Proceedings of NAACL 2019*. 
 * Tal Schuster, Ori Ram, Regina Barzilay, and Amir Globerson. 2019. [Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing](https://arxiv.org/pdf/1902.09492.pdf). In *Proceedings of NAACL 2019*.  
 * Hanan Aldarmaki and Mona Diab. 2019. [Context-Aware Cross-Lingual Mapping](https://arxiv.org/pdf/1903.03243.pdf). In *Proceedings of NAACL 2019*.  
+* Yoshinari Fujinuma, Jordan Boyd-Graber, and Michael J. Paul. 2019. [A Resource-Free Evaluation Metric for Cross-Lingual Word Embeddings Based on Graph Modularity](https://arxiv.org/pdf/1906.01926). In *Proceedings of ACL 2019*.
+* Mozhi Zhang, Keyulu Xu, Ken-ichi Kawarabayashi, Stefanie Jegelka, and Jordan Boyd-Graber. 2019. [Are Girls Neko or Shōjo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization](https://arxiv.org/pdf/1906.01622). In *Proceedings of ACL 2019*.
 
 <h2 id="wmt_winners">WMT Winners</h2>
 
