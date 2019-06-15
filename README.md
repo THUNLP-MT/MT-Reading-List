@@ -201,6 +201,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Tianyu He, Xu Tan, Yingce Xia, Di He, Tao Qin, Zhibo Chen, and Tie-Yan Liu. 2018. [Layer-Wise Coordination between Encoder and Decoder for Neural Machine Translation](http://papers.nips.cc/paper/8019-layer-wise-coordination-between-encoder-and-decoder-for-neural-machine-translation.pdf). In *Proceedings of NeurIPS 2018*. ([Citation](https://scholar.google.com/scholar?cites=14258883426797488339&as_sdt=2005&sciodt=0,5&hl=en): 2)
 * Harshil Shah and David Barber. 2018. [Generative Neural Machine Translation](http://papers.nips.cc/paper/7409-generative-neural-machine-translation.pdf). In *Proceedings of NeurIPS 2018*. 
 * Hany Hassan, Anthony Aue, Chang Chen, Vishal Chowdhary, Jonathan Clark, Christian Federmann, Xuedong Huang, Marcin Junczys-Dowmunt, William Lewis, Mu Li, Shujie Liu, Tie-Yan Liu, Renqian Luo, Arul Menezes, Tao Qin, Frank Seide, Xu Tan, Fei Tian, Lijun Wu, Shuangzhi Wu, Yingce Xia, Dongdong Zhang, Zhirui Zhang, and Ming Zhou. 2018. [Achieving Human Parity on Automatic Chinese to English News Translation](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/final-achieving-human.pdf). Technical report. Microsoft AI & Research. ([Citation](https://scholar.google.com/scholar?cites=3670312788898741170&as_sdt=2005&sciodt=0,5&hl=en): 41)
+* Yikang Shen, Shawn Tan, Alessandro Sordoni, and Aaron Courville. 2019. [Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://openreview.net/pdf?id=B1l6qiR5F7). In *Proceedings of ICLR 2019*.
 * Felix Wu, Angela Fan, Alexei Baevski, Yann Dauphin, and Michael Auli. 2019. [Pay Less Attention with Lightweight and Dynamic Convolutions](https://openreview.net/pdf?id=SkVhlh09tX). In *Proceedings of ICLR 2019*. ([Citation](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=3358231780148394025): 1)
 * Mostafa Dehghani, Stephan Gouws, Oriol Vinyals, Jakob Uszkoreit, Lukasz Kaiser. 2019. [Universal Transformers](https://openreview.net/pdf?id=HyzdRiR9Y7). In *Proceedings of ICLR 2019*. ([Citation](https://scholar.google.com/scholar?cites=8443376534582904234&as_sdt=2005&sciodt=0,5&hl=en): 12)
 * Zi-Yi Dou, Zhaopeng Tu, Xing Wang, Longyue Wang, Shuming Shi, and Tong Zhang. 2019. [Dynamic Layer Aggregation for Neural Machine Translation with Routing-by-Agreement](https://arxiv.org/pdf/1902.05770.pdf). In *Proceedings of AAAI 2019*.
@@ -256,6 +257,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Sarthak Jain and Byron C. Wallace. 2019. [Attention is not Explanation](https://arxiv.org/pdf/1902.10186.pdf). In *Proceedings of NAACL 2019*.
 * Sainbayar Sukhbaatar, Edouard Grave, Piotr Bojanowski, and Armand Joulin. 2019. [Adaptive Attention Span in Transformers](https://arxiv.org/pdf/1905.07799). In *Proceedings of ACL 2019*.
 * Kris Korrel, Dieuwke Hupkes, Verna Dankers, and Elia Bruni. 2019. [Transcoding compositionally: using attention to find more generalizable solutions](https://arxiv.org/pdf/1906.01234). In *Proceedings of ACL 2019*.
+* Jesse Vig. 2019. [A Multiscale Visualization of Attention in the Transformer Model](https://arxiv.org/pdf/1906.05714). In *Proceedings of ACL 2019*.
 
 <h3 id="open_vocabulary">Open Vocabulary</h3>
 
@@ -361,6 +363,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Guillaume Lample, Myle Ott, Alexis Conneau, Ludovic Denoyer, and Marc'Aurelio Ranzato. 2018. [Phrase-Based & Neural Unsupervised Machine Translation](http://aclweb.org/anthology/D18-1549). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=17725098892021008539&as_sdt=2005&sciodt=0,5&hl=en): 24)
 * Iftekhar Naim, Parker Riley, and Daniel Gildea. 2018. [Feature-Based Decipherment for Machine Translation](http://aclweb.org/anthology/J18-3006). *Computational Linguistics*. ([Citation](https://scholar.google.com.hk/scholar?cites=17725098892021008539&as_sdt=2005&sciodt=0,5&hl=en): 24)
 * Jiawei Wu, Xin Wang, and William Yang Wang. 2019. [Extract and Edit: An Alternative to Back-Translation for Unsupervised Neural Machine Translation](https://arxiv.org/pdf/1904.02331.pdf). In *Proceedings of NAACL 2019*.
+* Nima Pourdamghani, Nada Aldarrab, Marjan Ghazvininejad, Kevin Knight, and Jonathan May. 2019. [Translating Translationese: A Two-Step Approach to Unsupervised Machine Translation](https://arxiv.org/pdf/1906.05683). In *Proceedings of ACL 2019*.
 
 <h4 id="pivot_based">Pivot-based Methods</h4>
 
@@ -623,6 +626,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Elizabeth Salesky, Matthias Sperber, and Alex Waibel. 2019. [Fluent Translations from Disfluent Speech in End-to-End Speech Translation](https://arxiv.org/pdf/1906.00556). In *Proceedings of NAACL 2019*.
 * Naveen Arivazhagan, Colin Cherry, Wolfgang Macherey, Chung-Cheng Chiu, Semih Yavuz, Ruoming Pang, Wei Li, and Colin Raffel. 2019. [Monotonic Infinite Lookback Attention for Simultaneous Machine Translation](https://arxiv.org/pdf/1906.05218). In *Proceedings of ACL 2019*.
 * Matthias Sperber, Graham Neubig, Ngoc-Quan Pham, and Alex Waibel. 2019. [Self-Attentional Models for Lattice Inputs](https://arxiv.org/pdf/1906.01617). In *Proceedings of ACL 2019*.
+* Pei Zhang, Boxing Chen, Niyu Ge, and Kai Fan. 2019. [Lattice Transformer for Speech Translation](https://arxiv.org/pdf/1906.05551). In *Proceedings of ACL 2019*. 
 
 <h3 id="multi_modality">Multi-modality</h3>
 
@@ -766,6 +770,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Hanan Aldarmaki and Mona Diab. 2019. [Context-Aware Cross-Lingual Mapping](https://arxiv.org/pdf/1903.03243.pdf). In *Proceedings of NAACL 2019*.  
 * Yoshinari Fujinuma, Jordan Boyd-Graber, and Michael J. Paul. 2019. [A Resource-Free Evaluation Metric for Cross-Lingual Word Embeddings Based on Graph Modularity](https://arxiv.org/pdf/1906.01926). In *Proceedings of ACL 2019*.
 * Mozhi Zhang, Keyulu Xu, Ken-ichi Kawarabayashi, Stefanie Jegelka, and Jordan Boyd-Graber. 2019. [Are Girls Neko or Shōjo? Cross-Lingual Alignment of Non-Isomorphic Embeddings with Iterative Normalization](https://arxiv.org/pdf/1906.01622). In *Proceedings of ACL 2019*.
+* Aitor Ormazabal, Mikel Artetxe, Gorka Labaka, Aitor Soroa, and Eneko Agirre. 2019. [Analyzing the Limitations of Cross-lingual Word Embedding Mappings](https://arxiv.org/pdf/1906.05407). In *Proceedings of ACL 2019*.
 
 <h2 id="wmt_winners">WMT Winners</h2>
 
