@@ -364,6 +364,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Iftekhar Naim, Parker Riley, and Daniel Gildea. 2018. [Feature-Based Decipherment for Machine Translation](http://aclweb.org/anthology/J18-3006). *Computational Linguistics*. ([Citation](https://scholar.google.com.hk/scholar?cites=17725098892021008539&as_sdt=2005&sciodt=0,5&hl=en): 24)
 * Jiawei Wu, Xin Wang, and William Yang Wang. 2019. [Extract and Edit: An Alternative to Back-Translation for Unsupervised Neural Machine Translation](https://arxiv.org/pdf/1904.02331.pdf). In *Proceedings of NAACL 2019*.
 * Nima Pourdamghani, Nada Aldarrab, Marjan Ghazvininejad, Kevin Knight, and Jonathan May. 2019. [Translating Translationese: A Two-Step Approach to Unsupervised Machine Translation](https://arxiv.org/pdf/1906.05683). In *Proceedings of ACL 2019*.
+* Jiaming Luo, Yuan Cao, and Regina Barzilay. 2019. [Neural Decipherment via Minimum-Cost Flow: from Ugaritic to Linear B](https://arxiv.org/pdf/1906.06718). In *Proceedings of ACL 2019*.
 
 <h4 id="pivot_based">Pivot-based Methods</h4>
 
