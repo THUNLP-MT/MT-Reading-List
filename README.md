@@ -564,6 +564,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Eva Vanmassenhove, Christian Hardmeier, and Andy Way. 2018. [Getting Gender Right in Neural Machine Translation](http://www.aclweb.org/anthology/D18-1334). In *Proceedings of EMNLP 2018*.     
 * Won Ik Cho, Ji Won Kim, Seok Min Kim, and Nam Soo Kim. 2019. [On Measuring Gender Bias in Translation of Gender-neutral Pronouns](https://arxiv.org/pdf/1905.11684). In *Proceedings of ACL 2019*.
 * Gabriel Stanovsky, Noah A. Smith, and Luke Zettlemoyer. 2019. [Evaluating Gender Bias in Machine Translation](https://arxiv.org/pdf/1906.00591). In *Proceedings of ACL 2019*.
+* Keita Kurita, Nidhi Vyas, Ayush Pareek, Alan W Black, and Yulia Tsvetkov. 2019. [Measuring Bias in Contextualized Word Representations](https://arxiv.org/pdf/1906.07337). In *Proceedings of ACL 2019*.
 
 <h3 id="efficiency">Efficiency</h3>
 
@@ -602,6 +603,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya Sutskever. 2019. [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf). Technical Report. ([Citation](https://scholar.google.com/scholar?cites=7713405291981945630&as_sdt=2005&sciodt=0,5&hl=en): 9)
 * Sergey Edunov, Alexei Baevski, and Michael Auli. 2019. [Pre-trained Language Model Representations for Language Generation](https://arxiv.org/pdf/1903.09722.pdf). In *Proceedings of NAACL 2019*. ([Citation](https://scholar.google.com/scholar?cites=46961033050134131&as_sdt=2005&sciodt=0,5&hl=en): 1)
 * Kaitao Song, Xu Tan, Tao Qin, Jianfeng Lu, and Tie-Yan Liu. 2019. [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/pdf/1905.02450). In *Proceedings of ICML 2019*.
+* Zhilin Yang, Zihang Dai, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, and Quoc V. Le. 2019. [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/pdf/1906.08237). *arXiv:1906.08237*.
 
 <h3 id="speech_translation_and_simultaneous_translation">Speech Translation</h3>
 
@@ -647,6 +649,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Desmond Elliott. 2018. [Adversarial Evaluation of Multimodal Machine Translation](http://aclweb.org/anthology/D18-1329). In *Proceedings of EMNLP 2018*.
 * Ozan Caglayan, Pranava Madhyastha, Lucia Specia, and Loïc Barrault. 2019. [Probing the Need for Visual Context in Multimodal Machine Translation](https://arxiv.org/pdf/1903.08678.pdf). In *Proceedings of NAACL 2019*. 
 * Iacer Calixto, Miguel Rios, and Wilker Aziz. 2019. [Latent Variable Model for Multi-modal Translation](https://arxiv.org/pdf/1811.00357). In *Proceedings of ACL 2019*.
+* Julia Ive, Pranava Madhyastha, and Lucia Specia. 2019. [Distilling Translations with Visual Awareness](https://arxiv.org/pdf/1906.07701). In *Proceedings of ACL 2019*.
 
 <h3 id="ensemble_reranking">Ensemble and Reranking</h3>
 
@@ -716,6 +719,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Marcin Junczys-Dowmunt, Roman Grundkiewicz. 2017. [An Exploration of Neural Sequence-to-Sequence Architectures for Automatic Post-Editing](http://aclweb.org/anthology/I17-1013). In *Proceedings of IJCNLP 2017*.
 * David Grangier and Michael Auli. 2018. [QuickEdit: Editing Text & Translations by Crossing Words Out](http://aclweb.org/anthology/N18-1025). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=9500777791162222168&as_sdt=2005&sciodt=0,5&hl=en): 1) 
 * Thuy-Trang Vu and Gholamreza Haffari. 2018. [Automatic Post-Editing of Machine Translation: A Neural Programmer-Interpreter Approach](http://aclweb.org/anthology/D18-1341). In *Proceedings of EMNLP 2018*.
+* Gonçalo M. Correia and André F. T. Martins. 2019. [A Simple and Effective Approach to Automatic Post-Editing with Transfer Learning](https://arxiv.org/pdf/1906.06253). In *Proceedings of ACL 2019*.
 
 <h3 id="poetry_translation">Poetry Translation</h3>
 
