@@ -394,6 +394,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 
 * Marlies van der Wees, Arianna Bisazza and Christof Monz. 2017. [Dynamic Data Selection for Neural Machine Translation](http://aclweb.org/anthology/D17-1147). In *Proceedings of EMNLP 2017*. ([Citation](https://scholar.google.com.com/scholar?cites=2308754825624963103&as_sdt=2005&sciodt=0,5&hl=en): 16) 
 * Wei Wang, Taro Watanabe, Macduff Hughes, Tetsuji Nakagawa, and Ciprian Chelba. 2018. [Denoising Neural Machine Translation Training with Trusted Data and Online Data Selection](http://aclweb.org/anthology/W18-6314). In *Proceedings of the Third Conference on Machine Translation*.
+* Minh Quang Pham, Josep Crego, Jean Senellart, and François Yvon. 2018. [Fixing Translation Divergences in Parallel Corpora for Neural MT](http://aclweb.org/anthology/D18-1328). In *Proceedings of EMNLP 2018*.
 * Xinyi Wang and Graham Neubig. 2019. [Target Conditioned Sampling: Optimizing Data Selection for Multilingual Neural Machine Translation](https://arxiv.org/pdf/1905.08212). In *Proceedings of ACL 2019*.
 
 <h4 id="transfer_learning">Transfer Learning</h4>
@@ -703,7 +704,6 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Craig Stewart, Nikolai Vogler, Junjie Hu, Jordan Boyd-Graber, and Graham Neubig. 2018. [Automatic Estimation of Simultaneous Interpreter Performance](http://aclweb.org/anthology/P18-2105). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?hl=en&as_sdt=2005&sciodt=0,5&cites=5687670489913511293&scipsc=): 1) 
 * Holger Schwenk. 2018. [Filtering and Mining Parallel Data in a Joint Multilingual Space](http://aclweb.org/anthology/P18-2037). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=7363119514762721542&as_sdt=2005&sciodt=0,5&hl=en): 4) 
 * Julia Ive, Frédéric Blain, and Lucia Specia. 2018. [deepQuest: A Framework for Neural-based Quality Estimation](http://aclweb.org/anthology/C18-1266). In *Proceedings of COLING 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=4501237247493636014&as_sdt=2005&sciodt=0,5&hl=en): 1)  
-* Minh Quang Pham, Josep Crego, Jean Senellart, and François Yvon. 2018. [Fixing Translation Divergences in Parallel Corpora for Neural MT](http://aclweb.org/anthology/D18-1328). In *Proceedings of EMNLP 2018*.
 * Kai Fan, Jiayi Wang, Bo Li, Fengming Zhou, Boxing Chen, and Luo Si. 2019. ["Bilingual Expert" Can Find Translation Errors](https://arxiv.org/pdf/1807.09433). In *Proceedings of AAAI 2019*.
 
 <h3 id="human_centered">Human-centered NMT</h3>
