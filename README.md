@@ -280,7 +280,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Colin Cherry, George Foster, Ankur Bapna, Orhan Firat, and Wolfgang Macherey. 2018. [Revisiting Character-Based Neural Machine Translation with Capacity and Compression](http://aclweb.org/anthology/D18-1461). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=1263295983934592415&as_sdt=2005&sciodt=0,5&hl=en): 1)
 * Rebecca Knowles and Philipp Koehn. 2018. [Context and Copying in Neural Machine Translation](http://aclweb.org/anthology/D18-1339). In *Proceedings of EMNLP 2018*.
 
-<h3 id="training">Training Framework</h3>
+<h3 id="training">Training Objectives and Frameworks</h3>
 
 * Marc'Aurelio Ranzato, Sumit Chopra, Michael Auli, and Wojciech Zaremba. 2016. [Sequence Level Training with Recurrent Neural Networks](https://arxiv.org/pdf/1511.06732). In *Proceedings of ICLR 2016*. ([Citation](https://scholar.google.com.hk/scholar?cites=4877899442083611721&as_sdt=2005&sciodt=0,5&hl=en): 373)  
 * Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, and Lukasz Kaiser. 2016. [Multi-task Sequence to Sequence Learning](https://arxiv.org/pdf/1511.06114). In *Proceedings of ICLR 2016*. ([Citation](https://scholar.google.com.hk/scholar?cites=6045967109711129604&as_sdt=2005&sciodt=0,5&hl=en): 282) 
@@ -310,8 +310,9 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Emmanouil Antonios Platanios, Otilia Stretcu, Graham Neubig, Barnabas Poczos, and Tom M. Mitchell. 2019. [Competence-based Curriculum Learning for Neural Machine Translation](https://arxiv.org/pdf/1903.09848.pdf). In *Proceedings of NAACL 2019*.
 * Gaurav Kumar, George Foster, Colin Cherry, and Maxim Krikun. 2019. [Reinforcement Learning based Curriculum Optimization for Neural Machine Translation](https://arxiv.org/pdf/1903.00041.pdf). In *Proceedings of NAACL 2019*.
 * Sean Welleck, Kianté Brantley, Hal Daumé III, and Kyunghyun Cho. 2019. [Non-Monotonic Sequential Text Generation](https://arxiv.org/pdf/1902.02192). In *Proceedings of ICML 2019*.
-* Mitchell Stern, William Chan, Jamie Kiros, Jakob Uszkoreit. 2019. [Insertion Transformer: Flexible Sequence Generation via Insertion Operations](http://proceedings.mlr.press/v97/stern19a/stern19a.pdf). In Proceedings of ICML 2019.
+* Mitchell Stern, William Chan, Jamie Kiros, Jakob Uszkoreit. 2019. [Insertion Transformer: Flexible Sequence Generation via Insertion Operations](http://proceedings.mlr.press/v97/stern19a/stern19a.pdf). In *Proceedings of ICML 2019*.
 * Chenze Shao, Yang Feng, Jinchao Zhang, Fandong Meng, Xilin Chen, and Jie Zhou. 2019. [Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1906.09444). In *Proceedings of ACL 2019*.
+* Laura Jehl, Carolin Lawrence, and Stefan Riezler. 2019. [Learning Neural Sequence-to-Sequence Models from Weak Feedback with Bipolar Ramp Loss](https://arxiv.org/pdf/1907.03748). In *Proceedings of ACL 2019*.
 
 <h3 id="decoding">Decoding</h3>
 
@@ -427,6 +428,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Maruan Al-Shedivat and Ankur P. Parikh. 2019. [Consistency by Agreement in Zero-shot Neural Machine Translation](https://arxiv.org/pdf/1904.02338.pdf). In *Proceedings of NAACL 2019*.
 * Roee Aharoni, Melvin Johnson, and Orhan Firat. 2019. [Massively Multilingual Neural Machine Translation](https://arxiv.org/pdf/1903.00089.pdf). In *Proceedings of NAACL 2019*. 
 * Yunsu Kim, Yingbo Gao, and Hermann Ney. 2019. [Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies](https://arxiv.org/pdf/1905.05475). In *Proceedings of ACL 2019*.
+* Carlos Escolano, Marta R. Costa-Jussà, and José A. R. Fonollosa. 2019. [From Bilingual to Multilingual Neural Machine Translation by Incremental Training](https://arxiv.org/pdf/1907.00735). In *Proceedings of ACL 2019*.
 
 <h3 id="prior_knowledge_integration">Prior Knowledge Integration</h3>
 
@@ -647,7 +649,8 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Lucia Specia, Stella Frank, Khalil Sima'an, and Desmond Elliott. 2016. [A Shared Task on Multimodal Machine Translation and Crosslingual Image Description](http://aclweb.org/anthology/W16-2346). In *Proceedings of the First Conference on Machine Translation: Volume 2, Shared Task Papers*. ([Citation](https://scholar.google.com.hk/scholar?hl=en&as_sdt=2005&sciodt=0,5&cites=10227072007263391757&scipsc=): 47)
 * Sergio Rodríguez Guasch, Marta R. Costa-jussà. 2016. [WMT 2016 Multimodal Translation System Description based on Bidirectional Recurrent Neural Networks with Double-Embeddings](http://aclweb.org/anthology/W16-2362). In *Proceedings of the First Conference on Machine Translation: Volume 2, Shared Task Papers*. ([Citation](https://scholar.google.com.hk/scholar?cites=4203794059992068345&as_sdt=2005&sciodt=0,5&hl=en): 2)
 * Po-Yao Huang, Frederick Liu, Sz-Rung Shiang, Jean Oh, and Chris Dyer. 2016. [Attention-based Multimodal Neural Machine Translation](https://www.aclweb.org/anthology/W16-2360). In *Proceedings of the First Conference on Machine Translation: Volume 2, Shared Task Papers*. ([Citation](https://scholar.google.com.hk/scholar?cites=3098391471855879500&as_sdt=2005&sciodt=0,5&hl=en): 34)
-* Iacer Calixto, Desmond Elliott, and Stella Frank. 2016. [DCU-UvA Multimodal MT **System report**](http://aclweb.org/anthology/W16-2359). In *Proceedings of the First Conference on Machine Translation: Volume 2, Shared Task Papers*. ([Citation](https://scholar.google.com.hk/scholar?cites=13635685318707561524&as_sdt=2005&sciodt=0,5&hl=en): 11)
+* Iacer Calixto, Desmond Elliott, and Stella Frank. 2016. [DCU-UvA Multimodal MT **System report**](http://aclweb.org/anthology/W16-2359). In *Proceedings of the First Conference on Machine Translation: Volume 2, Shared Task Papers*. ([Citation](https://scholar.google.com.hk/scholar?cites=13635685318707561524&as_sdt=2005&sciodt=0,5&hl=en): 12)
+* Kashif Shah, Josiah Wang, and Lucia Specia. 2016. [SHEF-Multimodal: Grounding Machine Translation on Images](https://aclweb.org/anthology/W16-2363). In *Proceedings of the First Conference on Machine Translation: Volume 2, Shared Task Papers*. ([Citation](https://scholar.google.com/scholar?cites=11223367231679829742&as_sdt=5,39&sciodt=0,39&hl=en): 17)
 * Desmond Elliott, Stella Frank, Loïc Barrault, Fethi Bougares, and Lucia Specia. 2017. [Findings of the Second Shared Task on Multimodal Machine Translation and Multilingual Image Description](http://aclweb.org/anthology/W17-4718). In *Proceedings of the Second Conference on Machine Translation*. ([Citation](https://scholar.google.com.hk/scholar?cites=268734032292286129&as_sdt=2005&sciodt=0,5&hl=en): 24)
 * Iacer Calixto, Qun Liu, and Nick Campbell. 2017. [Doubly-Attentive Decoder for Multi-modal Neural Machine Translation](http://aclweb.org/anthology/P17-1175). In *Proceedings of ACL 2017*. ([Citation](https://scholar.google.com.hk/scholar?cites=9882133753270023054&as_sdt=2005&sciodt=0,5&hl=en): 31)
 * Jean-Benoit Delbrouck and Stéphane Dupont. 2017. [An empirical study on the effectiveness of images in Multimodal Neural Machine Translation](http://aclweb.org/anthology/D17-1095). In *Proceedings of EMNLP 2017*. ([Citation](https://scholar.google.com.hk/scholar?cites=4462543203996753904&as_sdt=2005&sciodt=0,5&hl=en): 2)
@@ -721,6 +724,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Julia Kreutzer, Joshua Uyheng, and Stefan Riezler. 2018. [Reliability and Learnability of Human Bandit Feedback for Sequence-to-Sequence Reinforcement Learning](http://aclweb.org/anthology/P18-1165). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=13544384067638756323&as_sdt=2005&sciodt=0,5&hl=en): 2) 
 * Álvaro Peris and Francisco Casacuberta. 2019. [A Neural, Interactive-predictive System for Multimodal Sequence to Sequence Tasks](https://arxiv.org/pdf/1905.08181). In *Proceedings of ACL 2019*.
 * Miguel Domingo, Mercedes García-Martínez, Amando Estela, Laurent Bié, Alexandre Helle, Álvaro Peris, Francisco Casacuberta, and Manuerl Herranz. 2019. [Demonstration of a Neural Machine Translation System with Online Learning for Translators](https://arxiv.org/pdf/1906.09000). In *Proceedings of ACL 2019*.
+* Julia Kreutzer and Stefan Riezler. 2019. [Self-Regulated Interactive Sequence-to-Sequence Learning](https://arxiv.org/pdf/1907.05190.pdf). In *Proceedings of ACL 2019*.
 
 <h4 id="ape">Automatic Post-Editing</h4>
 
