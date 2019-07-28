@@ -805,7 +805,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
         * Yiren Wang, Yingce Xia, Tianyu He, Fei Tian, Tao Qin, ChengXiang Zhai, and Tie-Yan Liu. 2019. [Multi-Agent Dual Learning](https://openreview.net/pdf?id=HyGhN2A5tm). In *Proceedings of ICLR 2019*.
         * Kaitao Song, Xu Tan, Tao Qin, Jianfeng Lu, and Tie-Yan Liu. 2019. [MASS: Masked Sequence to Sequence Pre-training for Language Generation](https://arxiv.org/pdf/1905.02450). In *Proceedings of ICML 2019*.
         * Renqian Luo, Fei Tian, Tao Qin, Enhong Chen, and Tie-Yan Liu. 2018. [Neural Architecture Optimization](https://papers.nips.cc/paper/8007-neural-architecture-optimization.pdf). In *Proceedings of NeurIPS 2018*.
-        * Soft contextual data augmentation   
+        * Jinhua Zhu, Fei Gao, Lijun Wu, Yingce Xia, Tao Qin, Wengang Zhou, Xueqi Cheng, Tie-Yan Liu. 2019. [Soft Contextual Data Augmentation for Neural Machine Translation](https://arxiv.org/pdf/1905.10523.pdf). In *Proceedings of ACL 2019*.
 
 * The winner of [EN-ZH](http://matrix.statmt.org/matrix/systems_list/1908): **PATECH**
     * **System report**: Coming soon...
