@@ -253,6 +253,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Hareesh Bahuleyan, Lili Mou, Olga Vechtomova, and Pascal Poupart. 2018. [Variational Attention for Sequence-to-Sequence Models](http://aclweb.org/anthology/C18-1142). In *Proceedings of COLING 2018*. ([Citation](https://scholar.google.com/scholar?um=1&ie=UTF-8&lr&cites=1653411252630135531): 14)
 * Maha Elbayad, Laurent Besacier, and Jakob Verbeek. 2018. [Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction](http://aclweb.org/anthology/K18-1010). In *Proceedings of CoNLL 2018*. ([Citation](https://scholar.google.com/scholar?cites=14016975442337015010&as_sdt=2005&sciodt=0,5&hl=en): 4)
 * Yuntian Deng, Yoon Kim, Justin Chiu, Demi Guo, and Alexander M. Rush. 2018 [Latent Alignment and Variational Attention](https://papers.nips.cc/paper/8179-latent-alignment-and-variational-attention.pdf). In *Proceedings of NeurIPS 2018*. ([Citation](https://scholar.google.com/scholar?client=safari&rls=en&oe=UTF-8&um=1&ie=UTF-8&lr&cites=6335407498429393003))
+* Wenpeng Yin and Hinrich Schütze. 2019. [Attentive Convolution: Equipping CNNs with RNN-style Attention Mechanisms](https://arxiv.org/pdf/1710.00519). *Transactions of the Association for Computational Linguistics*.
 * Shiv Shankar and Sunita Sarawagi. 2019. [Posterior Attention Models for Sequence to Sequence Learning](https://openreview.net/pdf?id=BkltNhC9FX). In *Proceedings of ICLR 2019*.
 * Baosong Yang, Jian Li, Derek Wong, Lidia S. Chao, Xing Wang, and Zhaopeng Tu. 2019. [Context-Aware Self-Attention Networks](https://arxiv.org/pdf/1902.05766.pdf). In *Proceedings of AAAI 2019*.
 * Reza Ghaeini, Xiaoli Z. Fern, Hamed Shahbazi, and Prasad Tadepalli. 2019. [Saliency Learning: Teaching the Model Where to Pay Attention](https://arxiv.org/pdf/1902.08649.pdf). In *Proceedings of NAACL 2019*.
@@ -317,7 +318,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Sean Welleck, Kianté Brantley, Hal Daumé III, and Kyunghyun Cho. 2019. [Non-Monotonic Sequential Text Generation](https://arxiv.org/pdf/1902.02192). In *Proceedings of ICML 2019*.
 * Mitchell Stern, William Chan, Jamie Kiros, Jakob Uszkoreit. 2019. [Insertion Transformer: Flexible Sequence Generation via Insertion Operations](http://proceedings.mlr.press/v97/stern19a/stern19a.pdf). In *Proceedings of ICML 2019*.
 * Chenze Shao, Yang Feng, Jinchao Zhang, Fandong Meng, Xilin Chen, and Jie Zhou. 2019. [Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1906.09444). In *Proceedings of ACL 2019*.
-* Laura Jehl, Carolin Lawrence, and Stefan Riezler. 2019. [Learning Neural Sequence-to-Sequence Models from Weak Feedback with Bipolar Ramp Loss](https://arxiv.org/pdf/1907.03748). In *Proceedings of ACL 2019*.
+* Laura Jehl, Carolin Lawrence, and Stefan Riezler. 2019. [Learning Neural Sequence-to-Sequence Models from Weak Feedback with Bipolar Ramp Loss](https://arxiv.org/pdf/1907.03748). *Transactions of the Association for Computational Linguistics*.
 * Motoki Sato, Jun Suzuki, and Shun Kiyono. 2019. [Effective Adversarial Regularization for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1020). In *Proceedings of ACL 2019*.
 * Kehai Chen, Rui Wang, Masao Utiyama, and Eiichiro Sumita. 2019. [Neural Machine Translation with Reordering Embeddings](https://www.aclweb.org/anthology/P19-1174). In *Proceedings of ACL 2019*.
 * Bram Bulte and Arda Tezcan. 2019. [Neural Fuzzy Repair: Integrating Fuzzy Matches into Neural Machine Translation](https://www.aclweb.org/anthology/P19-1175). In *Proceedings of ACL 2019*.
@@ -363,6 +364,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Mingbo Ma, Renjie Zheng, and Liang Huang. 2019. [Learning to Stop in Structured Prediction for Neural Machine Translation](https://arxiv.org/pdf/1904.01032.pdf). In *Proceedings of NAACL 2019*.
 * Bingzhen Wei, Mingxuan Wang, Hao Zhou, Junyang Lin, and Xu Sun. 2019. [Imitation Learning for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/P19-1125). In *Proceedings of ACL 2019*.
 * Han Fu, Chenghao Liu, and Jianling Sun. 2019. [Reference Network for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1287). In *Proceedings of ACL 2019*.
+* Long Zhou, Jiajun Zhang, and Chengqing Zong. 2019. [Synchronous Bidirectional Neural Machine Translation](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00256). *Transactions of the Association for Computational Linguistics*.
 
 <h3 id="low_resource_language_translation">Low-resource Language Translation</h3>
 
@@ -520,10 +522,12 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Anna Currey and Kenneth Heafield. 2018. [Multi-Source Syntactic Neural Machine Translation](http://aclweb.org/anthology/D18-1327). In *Proceedings of EMNLP 2018*.
 * Xinyi Wang, Hieu Pham, Pengcheng Yin, and Graham Neubig. 2018. [A Tree-based Decoder for Neural Machine Translation](http://aclweb.org/anthology/D18-1509). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=9083843868999368969&as_sdt=2005&sciodt=0,5&hl=en): 1)
 * Eliyahu Kiperwasser and Miguel Ballesteros. 2018. [Scheduled Multi-Task Learning: From Syntax to Translation](http://aclweb.org/anthology/Q18-1017). *Transactions of the Association for Computational Linguistics*. ([Citation](https://scholar.google.com.hk/scholar?cites=7224616032403591303&as_sdt=2005&sciodt=0,5&hl=en): 4)
+* Xiao Pu, Nikolaos Pappas, James Henderson, and Andrei Popescu-Belis. 2018. [Integrating Weakly Supervised Word Sense Disambiguation into Neural Machine Translation](https://www.aclweb.org/anthology/Q18-1044). *Transactions of the Association for Computational Linguistics*.
 * Rudra Murthy V, Anoop Kunchukuttan, and Pushpak Bhattacharyya. 2019. [Addressing word-order Divergence in Multilingual Neural Machine Translation for extremely Low Resource Languages](https://arxiv.org/pdf/1811.00383.pdf). In *Proceedings of NAACL 2019*.
 * Meishan Zhang, Zhenghua Li, Guohong Fu, and Min Zhang. 2019. [Syntax-Enhanced Neural Machine Translation with Syntax-Aware Word Representations](https://arxiv.org/pdf/1905.02878). In *Proceedings of NAACL 2019*.
 * Linfeng Song, Daniel Gildea, Yue Zhang, Zhiguo Wang, and Jinsong Su. 2019. [Semantic Neural Machine Translation Using AMR](https://www.aclweb.org/anthology/Q19-1002). *Transactions of the Association for Computational Linguistics*.
 * Nader Akoury, Kalpesh Krishna, and Mohit Iyyer. 2019. [Syntactically Supervised Transformers for Faster Neural Machine Translation](https://arxiv.org/pdf/1906.02780). In *Proceedings of ACL 2019*.
+* Zhijiang Guo, Yan Zhang, Zhiyang Teng, and Wei Lu. 2019. [Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00269). *Transactions of the Association for Computational Linguistics*.
 
 <h4 id="coverage_constraints">Coverage Constraints</h4>
 
@@ -675,6 +679,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Elizabeth Salesky, Matthias Sperber, and Alan W Black. 2019. [Exploring Phoneme-Level Speech Representations for End-to-End Speech Translation](https://www.aclweb.org/anthology/P19-1179). In *Proceedings of ACL 2019*.
 * Mingbo Ma, Liang Huang, Hao Xiong, Renjie Zheng, Kaibo Liu, Baigong Zheng, Chuanqiang Zhang, Zhongjun He, Hairong Liu, Xing Li, Hua Wu, and Haifeng Wang.  2019. [STACL: Simultaneous Translation with Implicit Anticipation and Controllable Latency using Prefix-to-Prefix Framework](https://www.aclweb.org/anthology/P19-1289). In *Proceedings of ACL 2019*.
 * Baigong Zheng, Renjie Zheng, Mingbo Ma, and Liang Huang. 2019. [Simultaneous Translation with Flexible Policy via Restricted Imitation Learning](https://www.aclweb.org/anthology/P19-1582). In *Proceedings of ACL 2019*.
+* Matthias Sperber, Graham Neubig, Jan Niehues, Alex Waibel. 2019. [Attention-Passing Models for Robust and Data-Efficient End-to-End Speech Translation](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00270). *Transactions of the Association for Computational Linguistics*.
 
 <h3 id="multi_modality">Multi-modality</h3>
 
