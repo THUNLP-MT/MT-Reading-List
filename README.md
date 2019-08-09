@@ -845,7 +845,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 <h3 id="wmt19">WMT 2019</h3>
 
 * The winner of [ZH-EN](http://matrix.statmt.org/matrix/systems_list/1901), [DE-EN](http://matrix.statmt.org/matrix/systems_list/1902) and [EN-DE](http://matrix.statmt.org/matrix/systems_list/1909): **Microsoft**
-    * **System report**: Coming soon...
+    * **System report**: Yingce Xia, Xu Tan, Fei Tian, Fei Gao, Di He, Weicong Chen, Yang Fan, Linyuan Gong, Yichong Leng, Renqian Luo, Yiren Wang, Lijun Wu, Jinhua Zhu, Tao Qin and Tie-Yan Liu. 2019. [Microsoft Research Asia’s Systems for WMT19](http://www.statmt.org/wmt19/pdf/WMT0048.pdf). In *Proceedings of the Fourth Conference on Machine Translation: Shared Task Papers*.
     * **News**: [Microsoft Research Asia (MSRA) leads in 2019 WMT international machine translation competition](https://news.microsoft.com/apac/2019/05/22/microsoft-research-asia-msra-leads-in-2019-wmt-international-machine-translation-competition/)
     * **Techniques**:
         * Yiren Wang, Yingce Xia, Tianyu He, Fei Tian, Tao Qin, ChengXiang Zhai, and Tie-Yan Liu. 2019. [Multi-Agent Dual Learning](https://openreview.net/pdf?id=HyGhN2A5tm). In *Proceedings of ICLR 2019*.
