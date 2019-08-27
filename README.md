@@ -259,12 +259,13 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Baosong Yang, Jian Li, Derek Wong, Lidia S. Chao, Xing Wang, and Zhaopeng Tu. 2019. [Context-Aware Self-Attention Networks](https://arxiv.org/pdf/1902.05766.pdf). In *Proceedings of AAAI 2019*.
 * Reza Ghaeini, Xiaoli Z. Fern, Hamed Shahbazi, and Prasad Tadepalli. 2019. [Saliency Learning: Teaching the Model Where to Pay Attention](https://arxiv.org/pdf/1902.08649.pdf). In *Proceedings of NAACL 2019*.
 * Sameen Maruf, André F. T. Martins, and Gholamreza Haffari. 2019. [Selective Attention for Context-aware Neural Machine Translation](https://arxiv.org/pdf/1903.08788.pdf). In *Proceedings of NAACL 2019*.
-* Sarthak Jain and Byron C. Wallace. 2019. [Attention is not Explanation](https://arxiv.org/pdf/1902.10186.pdf). In *Proceedings of NAACL 2019*.
 * Sainbayar Sukhbaatar, Edouard Grave, Piotr Bojanowski, and Armand Joulin. 2019. [Adaptive Attention Span in Transformers](https://arxiv.org/pdf/1905.07799). In *Proceedings of ACL 2019*.
 * Kris Korrel, Dieuwke Hupkes, Verna Dankers, and Elia Bruni. 2019. [Transcoding compositionally: using attention to find more generalizable solutions](https://arxiv.org/pdf/1906.01234). In *Proceedings of ACL 2019*.
 * Jesse Vig. 2019. [A Multiscale Visualization of Attention in the Transformer Model](https://arxiv.org/pdf/1906.05714). In *Proceedings of ACL 2019*.
 * Sathish Reddy Indurthi, Insoo Chung, and Sangha Kim. 2019. [Look Harder: A Neural Machine Translation Model with Hard Attention](https://www.aclweb.org/anthology/P19-1290). In *Proceedings of ACL 2019*.
 * Mingzhou Xu, Derek F. Wong, Baosong Yang, Yue Zhang, and Lidia S. Chao. 2019. [Leveraging Local and Global Patterns for Self-Attention Networks](https://www.aclweb.org/anthology/P19-1295). In *Proceedings of ACL 2019*.
+* Sarthak Jain and Byron C. Wallace. 2019. [Attention is not Explanation](https://arxiv.org/pdf/1902.10186.pdf). In *Proceedings of NAACL 2019*.
+* Sarah Wiegreffe and Yuval Pinter. 2019. [Attention is not not Explanation](https://arxiv.org/pdf/1908.04626). In *Proceedings of EMNLP 2019*.
 
 <h3 id="open_vocabulary">Open Vocabulary</h3>
 
@@ -327,6 +328,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Wen Zhang, Yang Feng, Fandong Meng, Di You, and Qun Liu. 2019. [Bridging the Gap between Training and Inference for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1426). In *Proceedings of ACL 2019*.
 * John Wieting, Taylor Berg-Kirkpatrick, Kevin Gimpel, and Graham Neubig. 2019. [Beyond BLEU:Training Neural Machine Translation with Semantic Similarity](https://www.aclweb.org/anthology/P19-1427). In *Proceedings of ACL 2019*.
 * Zonghan Yang, Yong Cheng, Yang Liu, Maosong Sun. 2019. [Reducing Word Omission Errors in Neural Machine Translation: A Contrastive Learning Approach](https://www.aclweb.org/anthology/P19-1623). In *Proceedings of ACL 2019*.
+* Kyra Yee, Nathan Ng, Yann N. Dauphin, and Michael Auli. 2019. [Simple and Effective Noisy Channel Modeling for Neural Machine Translation](https://arxiv.org/pdf/1908.05731). In *Proceedings of EMNLP 2019*.
 
 <h3 id="decoding">Decoding</h3>
 
@@ -457,6 +459,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Carlos Escolano, Marta R. Costa-Jussà, and José A. R. Fonollosa. 2019. [From Bilingual to Multilingual Neural Machine Translation by Incremental Training](https://arxiv.org/pdf/1907.00735). In *Proceedings of ACL 2019*.
 * Yining Wang, Long Zhou, Jiajun Zhang, Feifei Zhai, Jingfang Xu, and Chengqing Zong. 2019. [A Compact and Language-Sensitive Multilingual Translation Method](https://www.aclweb.org/anthology/P19-1117). In *Proceedings of ACL 2019*.
 * Sukanta Sen, Kamal Kumar Gupta, Asif Ekbal, and Pushpak Bhattacharyya. 2019. [Multilingual Unsupervised NMT using Shared Encoder and Language-Specific Decoders](https://www.aclweb.org/anthology/P19-1297). In *Proceedings of ACL 2019*.
+* Xu Tan, Jiale Chen, Di He, Yingce Xia, Tao Qin, and Tie-Yan Liu. 2019. [Multilingual Neural Machine Translation with Language Clustering](https://arxiv.org/pdf/1908.09324). In *Proceedings of EMNLP 2019*.
 
 <h3 id="prior_knowledge_integration">Prior Knowledge Integration</h3>
 
