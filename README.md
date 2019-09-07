@@ -439,6 +439,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Barret Zoph, Deniz Yuret, Jonathan May, and Kevin Knight. 2016. [Transfer Learning for Low-Resource Neural Machine Translation](https://www.isi.edu/natural-language/mt/emnlp16-transfer.pdf). In *Proceedings of EMNLP 2016*. ([Citation](https://scholar.google.com/scholar?cites=10126416754494258051&as_sdt=2005&sciodt=0,5&hl=en): 104)
 * Jiatao Gu, Hany Hassan, Jacob Devlin, and Victor O.K. Li. 2018. [Universal Neural Machine Translation for Extremely Low Resource Languages](http://aclweb.org/anthology/N18-1032). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=17858246967554922903&as_sdt=2005&sciodt=0,5&hl=en): 17)
 * Tom Kocmi and Ondřej Bojar. 2018. [Trivial Transfer Learning for Low-Resource Neural Machine Translation](http://aclweb.org/anthology/W18-6325). In *Proceedings of the Third Conference on Machine Translation: Research Papers*.
+* Boyuan Pan, Yazheng Yang, Hao Li, Zhou Zhao, Yueting Zhuang, Deng Cai, and Xiaofei He. 2018. [MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models](https://papers.nips.cc/paper/7848-macnet-transferring-knowledge-from-machine-comprehension-to-sequence-to-sequence-models.pdf). In *Proceedings of NeurIPS 2018*.
 * Yunsu Kim, Yingbo Gao, and Hermann Ney. 2019. [Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies](https://www.aclweb.org/anthology/P19-1120). In *Proceedings of ACL 2019*.
 
 <h4 id="meta_learning">Meta Learning</h4>
@@ -620,7 +621,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 
 <h3 id="fairness_and_diversity">Fairness and Diversity</h3>
 
-* Hayahide Yamagishi, Shin Kanouchi, Takayuki Sato, and Mamoru Komachi. 2016. [Controlling the Voice of a Sentence in Japanese-to-English Neural Machine Translation](http://www.aclweb.org/anthology/W16-4620). In *Proceedings of the 3rd Workshop on Asian Translation*. ([Citation](https://scholar.google.com/scholar?cites=3457358295141990828&as_sdt=2005&sciodt=0,5&hl=en): 11)          
+* Hayahide Yamagishi, Shin Kanouchi, Takayuki Sato, and Mamoru Komachi. 2016. [Controlling the Voice of a Sentence in Japanese-to-English Neural Machine Translation](http://www.aclweb.org/anthology/W16-4620). In *Proceedings of the 3rd Workshop on Asian Translation*. ([Citation](https://scholar.google.com/scholar?cites=3457358295141990828&as_sdt=2005&sciodt=0,5&hl=en): 11)  
 * Rico Sennrich, Barry Haddow and Alexandra Birch. 2016. [Controlling Politeness in Neural Machine Translation via Side Constraints](http://aclweb.org/anthology/N16-1005). In *Proceedings of NAACL 2016*. ([Citation](https://scholar.google.com/scholar?cites=13603295392629577946&as_sdt=2005&sciodt=0,5&hl=en): 49)           
 * Xing Niu, Marianna Martindale, and Marine Carpuat. 2017. [A Study of Style in Machine Translation: Controlling the Formality of Machine Translation Output](http://aclweb.org/anthology/D17-1299). In *Proceedings of EMNLP 2016*. ([Citation](https://scholar.google.com/scholar?cites=1203074987073423616&as_sdt=2005&sciodt=0,5&hl=en): 8)   
 * Ella Rabinovich, Raj Nath Patel, Shachar Mirkin, Lucia Specia, and Shuly Wintner. 2017. [Personalized Machine Translation: Preserving Original Author Traits](http://aclweb.org/anthology/E17-1101). In *Proceedings of EACL 2017*. ([Citation](https://scholar.google.com/scholar?cites=6856955572531425903&as_sdt=2005&sciodt=0,5&hl=en): 10)    
@@ -628,10 +629,13 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Paul Michel and Graham Neubig. 2018. [Extreme Adaptation for Personalized Neural Machine Translation](http://www.aclweb.org/anthology/P18-2050). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=16717798879574507487&as_sdt=2005&sciodt=0,5&hl=en): 6)         
 * Eva Vanmassenhove, Christian Hardmeier, and Andy Way. 2018. [Getting Gender Right in Neural Machine Translation](http://www.aclweb.org/anthology/D18-1334). In *Proceedings of EMNLP 2018*.  
 * Ashwin Kalyan, Peter Anderson, Stefan Lee, and Dhruv Batra. 2019. [Trainable Decoding of Sets of Sequences for Neural Sequence Models](http://proceedings.mlr.press/v97/kalyan19a/kalyan19a.pdf). In *Proceedings of ICML 2019*.  
+* Tianxiao Shen, Myle Ott, Michael Auli, and Marc’Aurelio Ranzato. 2019. [Mixture Models for Diverse Machine Translation: Tricks of the Trade](http://proceedings.mlr.press/v97/shen19c/shen19c.pdf). In *Proceedings of ICML 2019*.
+* Wouter Kool, Herke van Hoof, and Max Welling. 2019. [Stochastic Beams and Where to Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement](http://proceedings.mlr.press/v97/kool19a/kool19a.pdf). In *Proceedings of ICML 2019*.
 * Won Ik Cho, Ji Won Kim, Seok Min Kim, and Nam Soo Kim. 2019. [On Measuring Gender Bias in Translation of Gender-neutral Pronouns](https://arxiv.org/pdf/1905.11684). In *Proceedings of ACL 2019*.
 * Gabriel Stanovsky, Noah A. Smith, and Luke Zettlemoyer. 2019. [Evaluating Gender Bias in Machine Translation](https://arxiv.org/pdf/1906.00591). In *Proceedings of ACL 2019*.
 * Keita Kurita, Nidhi Vyas, Ayush Pareek, Alan W Black, and Yulia Tsvetkov. 2019. [Measuring Bias in Contextualized Word Representations](https://arxiv.org/pdf/1906.07337). In *Proceedings of ACL 2019*.
 * Raphael Shu, Hideki Nakayama, and Kyunghyun Cho. 2019. [Generating Diverse Translations with Sentence Codes](https://www.aclweb.org/anthology/P19-1177). In *Proceedings of ACL 2019*.
+* Daphne Ippolito, Reno Kriz, Joao Sedoc, Maria Kustikova, and Chris Callison-Burch. 2019. [Comparison of Diverse Decoding Methods from Conditional Language Models](https://www.aclweb.org/anthology/P19-1365). In *Proceedings of ACL 2019*.
 
 <h3 id="efficiency">Efficiency</h3>
 
