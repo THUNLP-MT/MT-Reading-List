@@ -229,6 +229,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Lijun Wu, Yiren Wang, Yingce Xia, Fei Tian, Fei Gao, Tao Qin, Jianhuang Lai, and Tie-Yan Liu. 2019. [Depth Growing for Neural Machine Translation](https://arxiv.org/pdf/1907.01968). In *Proceedings of ACL 2019*.
 * Gonçalo M. Correia, Vlad Niculae, and André F.T. Martins. 2019. [Adaptively Sparse Transformers](https://arxiv.org/pdf/1909.00015). In *Proceedings of EMNLP 2019*.
 * Xuezhe Ma, Chunting Zhou, Xian Li, Graham Neubig, and Eduard Hovy. 2019. [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://arxiv.org/pdf/1909.02480). In *Proceedings of EMNLP 2019*.
+* Shaojie Bai, J. Zico Kolter, and Vladlen Koltun. 2019. [Deep Equilibrium Models](https://arxiv.org/pdf/1909.01377.pdf). In *Proceedings of NeurIPS 2019*.
 
 <h3 id="attention_mechanism">Attention Mechanism</h3>
 
