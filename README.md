@@ -227,9 +227,10 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Xing Wang, Zhaopeng Tu, Longyue Wang, and Shuming Shi. 2019. [Exploiting Sentential Context for Neural Machine Translation](https://arxiv.org/pdf/1906.01268). In *Proceedings of ACL 2019*.
 * Kris Korrel, Dieuwke Hupkes, Verna Dankers, and Elia Bruni. 2019. [Transcoding compositionally: using attention to find more generalizable solutions](https://arxiv.org/pdf/1906.01234). In *Proceedings of ACL 2019*.
 * Lijun Wu, Yiren Wang, Yingce Xia, Fei Tian, Fei Gao, Tao Qin, Jianhuang Lai, and Tie-Yan Liu. 2019. [Depth Growing for Neural Machine Translation](https://arxiv.org/pdf/1907.01968). In *Proceedings of ACL 2019*.
+* Shaojie Bai, J. Zico Kolter, and Vladlen Koltun. 2019. [Deep Equilibrium Models](https://arxiv.org/pdf/1909.01377.pdf). In *Proceedings of NeurIPS 2019*.
 * Gonçalo M. Correia, Vlad Niculae, and André F.T. Martins. 2019. [Adaptively Sparse Transformers](https://arxiv.org/pdf/1909.00015). In *Proceedings of EMNLP 2019*.
 * Xuezhe Ma, Chunting Zhou, Xian Li, Graham Neubig, and Eduard Hovy. 2019. [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://arxiv.org/pdf/1909.02480). In *Proceedings of EMNLP 2019*.
-* Shaojie Bai, J. Zico Kolter, and Vladlen Koltun. 2019. [Deep Equilibrium Models](https://arxiv.org/pdf/1909.01377.pdf). In *Proceedings of NeurIPS 2019*.
+* Yau-Shian Wang, Hung-Yi Lee, and Yun-Nung Chen. 2019. [Tree Transformer: Integrating Tree Structures into Self-Attention](https://arxiv.org/pdf/1909.06639). In *Proceedings of EMNLP 2019*.
 
 <h3 id="attention_mechanism">Attention Mechanism</h3>
 
@@ -472,6 +473,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Sukanta Sen, Kamal Kumar Gupta, Asif Ekbal, and Pushpak Bhattacharyya. 2019. [Multilingual Unsupervised NMT using Shared Encoder and Language-Specific Decoders](https://www.aclweb.org/anthology/P19-1297). In *Proceedings of ACL 2019*.
 * Xu Tan, Jiale Chen, Di He, Yingce Xia, Tao Qin, and Tie-Yan Liu. 2019. [Multilingual Neural Machine Translation with Language Clustering](https://arxiv.org/pdf/1908.09324). In *Proceedings of EMNLP 2019*.
 * Sneha Reddy Kudugunta, Ankur Bapna, Isaac Caswell, Naveen Arivazhagan, and Orhan Firat. 2019. [Investigating Multilingual NMT Representations at Scale](https://arxiv.org/pdf/1909.02197). In *Proceedings of EMNLP 2019*.
+* Ankur Bapna, Naveen Arivazhagan, and Orhan Firat. 2019. [Simple, Scalable Adaptation for Neural Machine Translation](https://arxiv.org/pdf/1909.08478). In *Proceedings of EMNLP 2019*. 
 
 <h3 id="prior_knowledge_integration">Prior Knowledge Integration</h3>
 
@@ -627,7 +629,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Xing Niu, Marianna Martindale, and Marine Carpuat. 2017. [A Study of Style in Machine Translation: Controlling the Formality of Machine Translation Output](http://aclweb.org/anthology/D17-1299). In *Proceedings of EMNLP 2016*. ([Citation](https://scholar.google.com/scholar?cites=1203074987073423616&as_sdt=2005&sciodt=0,5&hl=en): 8)   
 * Ella Rabinovich, Raj Nath Patel, Shachar Mirkin, Lucia Specia, and Shuly Wintner. 2017. [Personalized Machine Translation: Preserving Original Author Traits](http://aclweb.org/anthology/E17-1101). In *Proceedings of EACL 2017*. ([Citation](https://scholar.google.com/scholar?cites=6856955572531425903&as_sdt=2005&sciodt=0,5&hl=en): 10)    
 * Myle Ott, Michael Auli, David Grangier, and Marc'Aurelio Ranzato. 2018. [Analyzing Uncertainty in Neural Machine Translation](https://arxiv.org/pdf/1803.00047). In *Proceedings of ICML 2018*. ([Citation](https://scholar.google.com/scholar?cites=1522001537063991105&as_sdt=2005&sciodt=0,5&hl=en): 11)    
-* Paul Michel and Graham Neubig. 2018. [Extreme Adaptation for Personalized Neural Machine Translation](http://www.aclweb.org/anthology/P18-2050). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=16717798879574507487&as_sdt=2005&sciodt=0,5&hl=en): 6)         
+* Paul Michel and Graham Neubig. 2018. [Extreme Adaptation for Personalized Neural Machine Translation](http://www.aclweb.org/anthology/P18-2050). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=16717798879574507487&as_sdt=2005&sciodt=0,5&hl=en): 6)
 * Eva Vanmassenhove, Christian Hardmeier, and Andy Way. 2018. [Getting Gender Right in Neural Machine Translation](http://www.aclweb.org/anthology/D18-1334). In *Proceedings of EMNLP 2018*.  
 * Ashwin Kalyan, Peter Anderson, Stefan Lee, and Dhruv Batra. 2019. [Trainable Decoding of Sets of Sequences for Neural Sequence Models](http://proceedings.mlr.press/v97/kalyan19a/kalyan19a.pdf). In *Proceedings of ICML 2019*.  
 * Tianxiao Shen, Myle Ott, Michael Auli, and Marc’Aurelio Ranzato. 2019. [Mixture Models for Diverse Machine Translation: Tricks of the Trade](http://proceedings.mlr.press/v97/shen19c/shen19c.pdf). In *Proceedings of ICML 2019*.
@@ -709,6 +711,8 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Baigong Zheng, Renjie Zheng, Mingbo Ma, and Liang Huang. 2019. [Simultaneous Translation with Flexible Policy via Restricted Imitation Learning](https://www.aclweb.org/anthology/P19-1582). In *Proceedings of ACL 2019*.
 * Matthias Sperber, Graham Neubig, Jan Niehues, Alex Waibel. 2019. [Attention-Passing Models for Robust and Data-Efficient End-to-End Speech Translation](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00270). *Transactions of the Association for Computational Linguistics*.
 * Baigong Zheng, Renjie Zheng, Mingbo Ma, and Liang Huang. 2019. [Simpler and Faster Learning of Adaptive Policies for Simultaneous Translation](https://arxiv.org/pdf/1909.01559). In *Proceedings of EMNLP 2019*.
+* Zhuohan Li, Zi Lin, Di He, Fei Tian, Tao Qin, Liwei Wang, and Tie-Yan Liu. 2019. [Hint-Based Training for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/1909.06708). In *Proceedings of EMNLP 2019*.
+* Renjie Zheng, Mingbo Ma, Baigong Zheng, and Liang Huang. 2019. [Speculative Beam Search for Simultaneous Translation](https://arxiv.org/pdf/1909.05421). In *Proceedings of EMNLP 2019*.
 
 <h3 id="multi_modality">Multi-modality</h3>
 
@@ -759,6 +763,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Junjie Hu, Mengzhou Xia, Graham Neubig, and Jaime Carbonell. 2019. [Domain Adaptation of Neural Machine Translation by Lexicon Induction](https://arxiv.org/pdf/1906.00376). In *Proceedings of ACL 2019*.
 * Danielle Saunders, Felix Stahlberg, Adria de Gispert, and Bill Byrne. 2019. [Domain Adaptive Inference for Neural Machine Translation](https://arxiv.org/pdf/1906.00408). In *Proceedings of ACL 2019*. 
 * Zi-Yi Dou, Junjie Hu, Antonios Anastasopoulos, and Graham Neubig. 2019. [Unsupervised Domain Adaptation for Neural Machine Translation with Domain-Aware Feature Embeddings](https://arxiv.org/pdf/1908.10430.pdf). In *Proceedings of EMNLP 2019*. 
+* Ankur Bapna, Naveen Arivazhagan, and Orhan Firat. 2019. [Simple, Scalable Adaptation for Neural Machine Translation](https://arxiv.org/pdf/1909.08478). In *Proceedings of EMNLP 2019*. 
 
 <h3 id="quality_estimation">Quality Estimation</h3>
 
@@ -869,6 +874,8 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Mikel Artetxe, Gorka Labaka, and Eneko Agirre. 2019. [Bilingual Lexicon Induction through Unsupervised Machine Translation](https://www.aclweb.org/anthology/P19-1494). In *Proceedings of ACL 2019*.
 * Elias Stengel-Eskin, Tzu-Ray Su, Matt Post, and Benjamin Van Durme. 2019. [A Discriminative Neural Model for Cross-Lingual Word Alignment](https://arxiv.org/pdf/1909.00444). In *Proceedings of EMNLP 2019*.
 * Ivan Vulić, Goran Glavaš, Roi Reichart, and Anna Korhonen. 2019. [Do We Really Need Fully Unsupervised Cross-Lingual Embeddings?](https://arxiv.org/pdf/1909.01638). In *Proceedings of EMNLP 2019*.
+* Paula Czarnowska, Sebastian Ruder, Edouard Grave, Ryan Cotterell, and Ann Copestake. 2019. [Don't Forget the Long Tail! A Comprehensive Analysis of Morphological Generalization in Bilingual Lexicon Induction](https://arxiv.org/pdf/1909.02855). In *Proceedings of EMNLP 2019*.
+* Yova Kementchedjhieva, Mareike Hartmann, and Anders Søgaard. 2019. [Lost in Evaluation: Misleading Benchmarks for Bilingual Dictionary Induction](https://arxiv.org/pdf/1909.05708). In *Proceedings of EMNLP 2019*.
 
 <h2 id="wmt_winners">WMT Winners</h2>
 
