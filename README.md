@@ -425,7 +425,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Xinyi Wang, Hieu Pham, Zihang Dai, and Graham Neubig. 2018. [SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation](http://aclweb.org/anthology/D18-1100). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=3839046500027819595&as_sdt=2005&sciodt=0,5&hl=en): 4)
 * Mengzhou Xia, Xiang Kong, Antonios Anastasopoulos, and Graham Neubig. 2019. [Generalized Data Augmentation for Low-Resource Translation](https://arxiv.org/pdf/1906.03785). In *Proceedings of ACL 2019*.
 * Jinhua Zhu, Fei Gao, Lijun Wu, Yingce Xia, Tao Qin, Wengang Zhou, Xueqi Cheng, and Tie-Yan Liu. 2019. [Soft Contextual Data Augmentation for Neural Machine Translation](https://arxiv.org/pdf/1905.10523). In *Proceedings of ACL 2019*.
-* Chunting Zhou, Xuezhe Ma, Junjie Hu, and Graham Neubig. 2019. [Handling Syntactic Divergence in Low-resource Machine Translation](https://arxiv.org/pdf/1909.00040). In *Proceedings of EMNLP 2019*.
+* Chunting Zhou, Xuezhe Ma, Junjie Hu, and Graham Neubig. 2019. [Handling Syntactic Divergence in Low-resource Machine Translation](https://arxiv.org/pdf/1909.00040). In *Proceedings of EMNLP 2019*.  
 
 <h4 id="data_selection">Data Selection Methods</h4>
 
