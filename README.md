@@ -337,7 +337,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * John Wieting, Taylor Berg-Kirkpatrick, Kevin Gimpel, and Graham Neubig. 2019. [Beyond BLEU:Training Neural Machine Translation with Semantic Similarity](https://www.aclweb.org/anthology/P19-1427). In *Proceedings of ACL 2019*.
 * Zonghan Yang, Yong Cheng, Yang Liu, Maosong Sun. 2019. [Reducing Word Omission Errors in Neural Machine Translation: A Contrastive Learning Approach](https://www.aclweb.org/anthology/P19-1623). In *Proceedings of ACL 2019*.
 * Kyra Yee, Nathan Ng, Yann N. Dauphin, and Michael Auli. 2019. [Simple and Effective Noisy Channel Modeling for Neural Machine Translation](https://arxiv.org/pdf/1908.05731). In *Proceedings of EMNLP 2019*.
-* Sarthak Garg, Stephan Peitz, Udhyakumar Nallasamy, Matthias Paulik. 2019. [Jointly Learning to Align and Translate with Transformer Models](https://arxiv.org/pdf/1909.02074). In *Proceedings of EMNLP 2019*.
+* Sarthak Garg, Stephan Peitz, Udhyakumar Nallasamy, and Matthias Paulik. 2019. [Jointly Learning to Align and Translate with Transformer Models](https://arxiv.org/pdf/1909.02074). In *Proceedings of EMNLP 2019*.
 
 <h3 id="decoding">Decoding</h3>
 
@@ -416,6 +416,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Yun Chen, Yang Liu, Yong Cheng and Victor O.K. Li. 2017. [A Teacher-Student Framework for Zero-resource Neural Machine Translation](http://aclweb.org/anthology/P17-1176). In *Proceedings of ACL 2017*. ([Citation](https://scholar.google.com/scholar?cites=13349008860652038472&as_sdt=2005&sciodt=0,5&hl=en): 15)
 * Yun Chen, Yang Liu, and Victor O. K. Li. 2018. [Zero-Resource Neural Machine Translation with Multi-Agent Communication Game](https://arxiv.org/pdf/1802.03116). In *Proceedings of AAAI 2018*. ([Citation](https://scholar.google.com/scholar?cites=13902575159717479954&as_sdt=2005&sciodt=0,5&hl=en): 6)
 * Shuo Ren, Wenhu Chen, Shujie Liu, Mu Li, Ming Zhou, and Shuai Ma. 2018. [Triangular Architecture for Rare Language Translation](http://aclweb.org/anthology/P18-1006). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=10337098101101097173&as_sdt=2005&sciodt=0,5&hl=en): 1)
+* Yunsu Kim, Petre Petrov, Pavel Petrushkov, Shahram Khadivi, and Hermann Ney. 2019. [Pivot-based Transfer Learning for Neural Machine Translation between Non-English Languages](https://arxiv.org/pdf/1909.09524). In *Proceedings of EMNLP 2019*.
 
 <h4 id="data_augmentation">Data Augmentation Methods</h4>
 
