@@ -444,6 +444,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Tom Kocmi and Ondřej Bojar. 2018. [Trivial Transfer Learning for Low-Resource Neural Machine Translation](http://aclweb.org/anthology/W18-6325). In *Proceedings of the Third Conference on Machine Translation: Research Papers*.
 * Boyuan Pan, Yazheng Yang, Hao Li, Zhou Zhao, Yueting Zhuang, Deng Cai, and Xiaofei He. 2018. [MacNet: Transferring Knowledge from Machine Comprehension to Sequence-to-Sequence Models](https://papers.nips.cc/paper/7848-macnet-transferring-knowledge-from-machine-comprehension-to-sequence-to-sequence-models.pdf). In *Proceedings of NeurIPS 2018*.
 * Yunsu Kim, Yingbo Gao, and Hermann Ney. 2019. [Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies](https://www.aclweb.org/anthology/P19-1120). In *Proceedings of ACL 2019*.
+* Mieradilijiang Maimaiti, Yang Liu, Huanbo Luan, and Maosong Sun. 2019. [Multi-Round Transfer Learning for Low-Resource NMT Using Multiple High-Resource Languages](https://dl.acm.org/citation.cfm?id=3314945). In *ACM Transactions on Asian and Low-Resource Language Information Processing, Volume 18, Issue 4*.
 
 <h4 id="meta_learning">Meta Learning</h4>
 
