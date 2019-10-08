@@ -1,4 +1,4 @@
-﻿# Machine Translation Reading List
+# Machine Translation Reading List
 This is a machine translation reading list maintained by the Tsinghua Natural Language Processing Group. 
 
 The past three decades have witnessed the rapid development of machine translation, especially for data-driven approaches such as statistical machine translation (SMT) and neural machine translation (NMT). Due to the dominance of NMT at the present time, priority is given to collecting important, up-to-date NMT papers; the [Edinburgh/JHU MT research survey wiki](http://www.statmt.org/survey/) has good coverage of older papers and a brief description for each sub-topic of MT. Our list is still incomplete and the categorization might be inappropriate. We will keep adding papers and improving the list. Any suggestions are welcome!
@@ -427,6 +427,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Mengzhou Xia, Xiang Kong, Antonios Anastasopoulos, and Graham Neubig. 2019. [Generalized Data Augmentation for Low-Resource Translation](https://arxiv.org/pdf/1906.03785). In *Proceedings of ACL 2019*.
 * Jinhua Zhu, Fei Gao, Lijun Wu, Yingce Xia, Tao Qin, Wengang Zhou, Xueqi Cheng, and Tie-Yan Liu. 2019. [Soft Contextual Data Augmentation for Neural Machine Translation](https://arxiv.org/pdf/1905.10523). In *Proceedings of ACL 2019*.
 * Chunting Zhou, Xuezhe Ma, Junjie Hu, and Graham Neubig. 2019. [Handling Syntactic Divergence in Low-resource Machine Translation](https://arxiv.org/pdf/1909.00040). In *Proceedings of EMNLP 2019*.  
+* Yuanpeng Li, Liang Zhao, Jianyu Wang, and Joel Hestness. 2019. [Compositional Generalization for Primitive Substitutions](https://arxiv.org/pdf/1910.02612). In *Proceedings of EMNLP 2019*.  
 
 <h4 id="data_selection">Data Selection Methods</h4>
 
