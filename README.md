@@ -377,6 +377,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Bingzhen Wei, Mingxuan Wang, Hao Zhou, Junyang Lin, and Xu Sun. 2019. [Imitation Learning for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/P19-1125). In *Proceedings of ACL 2019*.
 * Han Fu, Chenghao Liu, and Jianling Sun. 2019. [Reference Network for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1287). In *Proceedings of ACL 2019*.
 * Long Zhou, Jiajun Zhang, and Chengqing Zong. 2019. [Synchronous Bidirectional Neural Machine Translation](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00256). *Transactions of the Association for Computational Linguistics*.
+* Zhiqing Sun, Zhuohan Li, Haoqing Wang, Zi Lin, Di He, and Zhi-Hong Deng. 2019. [Fast Structured Decoding for Sequence Models](https://arxiv.org/pdf/1910.11555). In *Proceedings of NeurIPS 2019*.
 
 <h3 id="low_resource_language_translation">Low-resource Language Translation</h3>
 
