@@ -231,6 +231,8 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Gonçalo M. Correia, Vlad Niculae, and André F.T. Martins. 2019. [Adaptively Sparse Transformers](https://arxiv.org/pdf/1909.00015). In *Proceedings of EMNLP 2019*.
 * Xuezhe Ma, Chunting Zhou, Xian Li, Graham Neubig, and Eduard Hovy. 2019. [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://arxiv.org/pdf/1909.02480). In *Proceedings of EMNLP 2019*.
 * Yau-Shian Wang, Hung-Yi Lee, and Yun-Nung Chen. 2019. [Tree Transformer: Integrating Tree Structures into Self-Attention](https://arxiv.org/pdf/1909.06639). In *Proceedings of EMNLP 2019*.
+* Mingxuan Wang, Jun xie, Zhixing Tan, Jinsong Su, Deyi Xiong and Lei Li. 2019. [Towards Linear Time Neural Machine Translation with Capsule Networks](https://www.aclweb.org/anthology/D19-1074.pdf). In *Proceedings of EMNLP 2019*.
+* Biao Zhang, Ivan Titov and Rico Sennrich. 2019. [Improving Deep Transformer with Depth-Scaled Initialization and Merged Attention](https://www.aclweb.org/anthology/D19-1083.pdf). In *Proceedings of EMNLP 2019*.
 
 <h3 id="attention_mechanism">Attention Mechanism</h3>
 
@@ -338,6 +340,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Zonghan Yang, Yong Cheng, Yang Liu, Maosong Sun. 2019. [Reducing Word Omission Errors in Neural Machine Translation: A Contrastive Learning Approach](https://www.aclweb.org/anthology/P19-1623). In *Proceedings of ACL 2019*.
 * Kyra Yee, Nathan Ng, Yann N. Dauphin, and Michael Auli. 2019. [Simple and Effective Noisy Channel Modeling for Neural Machine Translation](https://arxiv.org/pdf/1908.05731). In *Proceedings of EMNLP 2019*.
 * Sarthak Garg, Stephan Peitz, Udhyakumar Nallasamy, and Matthias Paulik. 2019. [Jointly Learning to Align and Translate with Transformer Models](https://arxiv.org/pdf/1909.02074). In *Proceedings of EMNLP 2019*.
+* tianchi bi, hao xiong, Zhongjun He, Hua Wu and Haifeng Wang. 2019. [Multi-agent Learning for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1079.pdf). In *Proceedings of EMNLP 2019*.
 
 <h3 id="decoding">Decoding</h3>
 
@@ -408,6 +411,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Haipeng Sun, Rui Wang, Kehai Chen, Masao Utiyama, Eiichiro Sumita, and Tiejun Zhao. 2019. [Unsupervised Bilingual Word Embedding Agreement for Unsupervised Neural Machine Translation](https://www.aclweb.org/anthology/P19-1119). In *Proceedings of ACL 2019*.
 * Jiatao Gu, Yong Wang, Kyunghyun Cho, and Victor O.K. Li. 2019. [Improved Zero-shot Neural Machine Translation via Ignoring Spurious Correlations](https://www.aclweb.org/anthology/P19-1121). In *Proceedings of ACL 2019*.
 * Sukanta Sen, Kamal Kumar Gupta, Asif Ekbal, and Pushpak Bhattacharyya. 2019. [Multilingual Unsupervised NMT using Shared Encoder and Language-Specific Decoders](https://www.aclweb.org/anthology/P19-1297). In *Proceedings of ACL 2019*.
+* Shuo Ren, Yu Wu, Shujie Liu, Ming Zhou and Shuai Ma. 2019. [Explicit Cross-lingual Pre-training for Unsupervised Machine Translation](https://www.aclweb.org/anthology/D19-1071.pdf). In *Proceedings of EMNLP 2019*.
 
 <h4 id="pivot_based">Pivot-based Methods</h4>
 
@@ -513,6 +517,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Kai Song, Yue Zhang, Heng Yu, Weihua Luo, Kun Wang, and Min Zhang. 2019. [Code-Switching for Enhancing NMT with Pre-Specified Translation](https://www.aclweb.org/anthology/N19-1044). In *Proceedings of NAACL 2019*.
 * Xuebo Liu, Derek F. Wong, Yang Liu, Lidia S. Chao, Tong Xiao, and Jingbo Zhu. 2019. [Shared-Private Bilingual Word Embeddings for Neural Machine Translation](https://arxiv.org/pdf/1906.03100). In *Proceedings of ACL 2019*.
 * Georgiana Dinu, Prashant Mathur, Marcello Federico, and Yaser Al-Onaizan. 2019. [Training Neural Machine Translation to Apply Terminology Constraints](https://www.aclweb.org/anthology/P19-1294). In *Proceedings of ACL 2019*.
+* Longyue Wang, Zhaopeng Tu, Xing Wang and Shuming Shi. 2019. [One Model to Learn Both: Zero Pronoun Prediction and Translation](https://www.aclweb.org/anthology/D19-1085.pdf). In *Proceedings of EMNLP 2019*
 
 <h4 id="syntactic_semantic_constraints"> Syntactic/Semantic Constraints </h4>
 
@@ -767,6 +772,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Danielle Saunders, Felix Stahlberg, Adria de Gispert, and Bill Byrne. 2019. [Domain Adaptive Inference for Neural Machine Translation](https://arxiv.org/pdf/1906.00408). In *Proceedings of ACL 2019*. 
 * Zi-Yi Dou, Junjie Hu, Antonios Anastasopoulos, and Graham Neubig. 2019. [Unsupervised Domain Adaptation for Neural Machine Translation with Domain-Aware Feature Embeddings](https://arxiv.org/pdf/1908.10430.pdf). In *Proceedings of EMNLP 2019*. 
 * Ankur Bapna, Naveen Arivazhagan, and Orhan Firat. 2019. [Simple, Scalable Adaptation for Neural Machine Translation](https://arxiv.org/pdf/1909.08478). In *Proceedings of EMNLP 2019*. 
+* Jiali Zeng, Yang Liu, jinsong su, yubing Ge, Yaojie Lu, Yongjing Yin and jiebo luo. 2019. [Iterative Dual Domain Adaptation for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1078.pdf). In *Proceedings of EMNLP 2019*. 
 
 <h3 id="quality_estimation">Quality Estimation</h3>
 
