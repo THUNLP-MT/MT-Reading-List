@@ -817,7 +817,9 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Marcin Junczys-Dowmunt, Roman Grundkiewicz. 2017. [An Exploration of Neural Sequence-to-Sequence Architectures for Automatic Post-Editing](http://aclweb.org/anthology/I17-1013). In *Proceedings of IJCNLP 2017*.
 * David Grangier and Michael Auli. 2018. [QuickEdit: Editing Text & Translations by Crossing Words Out](http://aclweb.org/anthology/N18-1025). In *Proceedings of NAACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=9500777791162222168&as_sdt=2005&sciodt=0,5&hl=en): 1) 
 * Thuy-Trang Vu and Gholamreza Haffari. 2018. [Automatic Post-Editing of Machine Translation: A Neural Programmer-Interpreter Approach](http://aclweb.org/anthology/D18-1341). In *Proceedings of EMNLP 2018*.
+* Marcin Junczys-Dowmunt, Roman Grundkiewicz. 2018. [MS-UEdin Submission to the WMT2018 APE Shared Task: Dual-Source Transformer for Automatic Post-Editing](https://arxiv.org/pdf/1809.00188.pdf). In *Proceedings of WMT 2018*.
 * Gonçalo M. Correia and André F. T. Martins. 2019. [A Simple and Effective Approach to Automatic Post-Editing with Transfer Learning](https://arxiv.org/pdf/1906.06253). In *Proceedings of ACL 2019*.
+* Xuancheng Huang, Yang Liu, Huanbo Luan, Jingfang Xu, Maosong Sun. 2019. [Learning to Copy for Automatic Post-Editing](https://www.aclweb.org/anthology/D19-1634.pdf). In *Proceedings of EMNLP 2019*.
 
 <h3 id="poetry_translation">Poetry Translation</h3>
 
