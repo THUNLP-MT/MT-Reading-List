@@ -276,6 +276,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Xing Wang, Zhaopeng Tu, Longyue Wang, and Shuming Shi. 2019. [Self-Attention with Structural Position Representations](https://arxiv.org/pdf/1909.00383). In *Proceedings of EMNLP 2019*.
 * Yao-Hung Hubert Tsai, Shaojie Bai, Makoto Yamada, Louis-Philippe Morency, and Ruslan Salakhutdinov
 . 2019. [Transformer Dissection: An Unified Understanding for Transformer's Attention via the Lens of Kernel](https://arxiv.org/pdf/1908.11775). In *Proceedings of EMNLP 2019*.
+* Kehai Chen, Rui Wang, Masao Utiyama and Eiichiro Sumita. 2019. [Recurrent Position Embedding for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1139/). In *Proceedings of EMNLP 2019*.
 
 <h3 id="open_vocabulary">Open Vocabulary</h3>
 
@@ -433,6 +434,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Jinhua Zhu, Fei Gao, Lijun Wu, Yingce Xia, Tao Qin, Wengang Zhou, Xueqi Cheng, and Tie-Yan Liu. 2019. [Soft Contextual Data Augmentation for Neural Machine Translation](https://arxiv.org/pdf/1905.10523). In *Proceedings of ACL 2019*.
 * Chunting Zhou, Xuezhe Ma, Junjie Hu, and Graham Neubig. 2019. [Handling Syntactic Divergence in Low-resource Machine Translation](https://arxiv.org/pdf/1909.00040). In *Proceedings of EMNLP 2019*.  
 * Yuanpeng Li, Liang Zhao, Jianyu Wang, and Joel Hestness. 2019. [Compositional Generalization for Primitive Substitutions](https://arxiv.org/pdf/1910.02612). In *Proceedings of EMNLP 2019*.  
+* Guanlin Li, Lemao Liu, Guoping Huang, Conghui Zhu and Tiejun Zhao. 2019. [Understanding Data Augmentation in Neural Machine Translation: Two Perspectives towards Generalization](https://www.aclweb.org/anthology/D19-1570/). In *Proceedings of EMNLP 2019*.  
 
 <h4 id="data_selection">Data Selection Methods</h4>
 
@@ -481,6 +483,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Xu Tan, Jiale Chen, Di He, Yingce Xia, Tao Qin, and Tie-Yan Liu. 2019. [Multilingual Neural Machine Translation with Language Clustering](https://arxiv.org/pdf/1908.09324). In *Proceedings of EMNLP 2019*.
 * Sneha Reddy Kudugunta, Ankur Bapna, Isaac Caswell, Naveen Arivazhagan, and Orhan Firat. 2019. [Investigating Multilingual NMT Representations at Scale](https://arxiv.org/pdf/1909.02197). In *Proceedings of EMNLP 2019*.
 * Ankur Bapna, Naveen Arivazhagan, and Orhan Firat. 2019. [Simple, Scalable Adaptation for Neural Machine Translation](https://arxiv.org/pdf/1909.08478). In *Proceedings of EMNLP 2019*. 
+* Raj Dabre, Atsushi Fujita and Chenhui Chu. 2019. [Low-Resource Neural Machine Translation by Exploiting Multilingualism through Multi-Step Fine-Tuning Using N-way Parallel Corpora](https://www.aclweb.org/anthology/D19-1146/). In *Proceedings of EMNLP 2019*. 
 
 <h3 id="prior_knowledge_integration">Prior Knowledge Integration</h3>
 
