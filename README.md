@@ -233,6 +233,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Yau-Shian Wang, Hung-Yi Lee, and Yun-Nung Chen. 2019. [Tree Transformer: Integrating Tree Structures into Self-Attention](https://arxiv.org/pdf/1909.06639). In *Proceedings of EMNLP 2019*.
 * Mingxuan Wang, Jun xie, Zhixing Tan, Jinsong Su, Deyi Xiong and Lei Li. 2019. [Towards Linear Time Neural Machine Translation with Capsule Networks](https://www.aclweb.org/anthology/D19-1074.pdf). In *Proceedings of EMNLP 2019*.
 * Biao Zhang, Ivan Titov and Rico Sennrich. 2019. [Improving Deep Transformer with Depth-Scaled Initialization and Merged Attention](https://www.aclweb.org/anthology/D19-1083.pdf). In *Proceedings of EMNLP 2019*.
+* Benyou Wang, Donghao Zhao, Christina Lioma, Qiuchi Li, Peng Zhang, Jakob Grue Simonsen. 2020. [Encoding word order in complex embeddings](https://openreview.net/forum?id=Hke-WTVtwr). In *Proceedings of ICLR 2020*.
 
 <h3 id="attention_mechanism">Attention Mechanism</h3>
 
