@@ -233,12 +233,12 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Yau-Shian Wang, Hung-Yi Lee, and Yun-Nung Chen. 2019. [Tree Transformer: Integrating Tree Structures into Self-Attention](https://arxiv.org/pdf/1909.06639). In *Proceedings of EMNLP 2019*.
 * Mingxuan Wang, Jun xie, Zhixing Tan, Jinsong Su, Deyi Xiong and Lei Li. 2019. [Towards Linear Time Neural Machine Translation with Capsule Networks](https://www.aclweb.org/anthology/D19-1074.pdf). In *Proceedings of EMNLP 2019*.
 * Biao Zhang, Ivan Titov and Rico Sennrich. 2019. [Improving Deep Transformer with Depth-Scaled Initialization and Merged Attention](https://www.aclweb.org/anthology/D19-1083.pdf). In *Proceedings of EMNLP 2019*.
-* Benyou Wang, Donghao Zhao, Christina Lioma, Qiuchi Li, Peng Zhang, Jakob Grue Simonsen. 2020. [Encoding word order in complex embeddings](https://openreview.net/forum?id=Hke-WTVtwr). In *Proceedings of ICLR 2020*.
+* Jiatao Gu, Changhan Wang, Junbo Zhao. 2019. [Levenshtein Transformer](https://papers.nips.cc/paper/9297-levenshtein-transformer). In *Proceedings of NeurIPS 2019*.
 * Xin Sheng, Linli Xu, Junliang Guo, Jingchang Liu, Ruoyu Zhao and Yinlong Xu. 2020. [IntroVNMT: An Introspective Model for Variational Neural Machine Translation](https://leoguojl.me/publication/aaai20intro/). In *Proceedings of AAAI 2020*.
 * Jian Li, Xing Wang, Baosong Yang, Shuming Shi, Michael R. Lyu and Zhaopeng Tu. 2020. [Neuron Interaction Based Representation Composition for Neural Machine Translation](https://arxiv.org/abs/1911.09877). In *Proceedings of AAAI 2020*.
+* Benyou Wang, Donghao Zhao, Christina Lioma, Qiuchi Li, Peng Zhang, Jakob Grue Simonsen. 2020. [Encoding word order in complex embeddings](https://openreview.net/forum?id=Hke-WTVtwr). In *Proceedings of ICLR 2020*.
 * Nikita Kitaev, Lukasz Kaiser, Anselm Levskaya. 2020. [Reformer: The Efficient Transformer](https://openreview.net/forum?id=rkgNKkHtvB). In *Proceedings of ICLR 2020*.
 * Maha Elbayad, Jiatao Gu, Edouard Grave, Michael Auli. 2020. [Depth-Adaptive Transformer](https://openreview.net/forum?id=SJg7KhVKPH). In *Proceedings of ICLR 2020*.
-* Jiatao Gu, Changhan Wang, Junbo Zhao. 2019. [Levenshtein Transformer](https://papers.nips.cc/paper/9297-levenshtein-transformer). In *Proceedings of NeurIPS 2019*.
 
 
 <h3 id="attention_mechanism">Attention Mechanism</h3>
