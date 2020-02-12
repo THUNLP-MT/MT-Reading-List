@@ -645,8 +645,8 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Shilin He, Zhaopeng Tu, Xing Wang, Longyue Wang, Michael R. Lyu, and Shuming Shi. 2019. [Towards Understanding Neural Machine Translation with Word Importance](https://arxiv.org/pdf/1909.00326). In *Proceedings of EMNLP 2019*.
 * Felix Stahlberg and Bill Byrne. 2019. [On NMT Search Errors and Model Errors: Cat Got Your Tongue?](https://arxiv.org/pdf/1908.10090). In *Proceedings of EMNLP 2019*.
 * Gino Brunner, Yang Liu, Damian Pascual, Oliver Richter, Massimiliano Ciaramita, Roger Wattenhofer. 2020. [On Identifiability in Transformers](https://openreview.net/forum?id=BJg1f6EFDB). In *Proceedings of ICLR 2020*.
-* * Chulhee Yun, Srinadh Bhojanapalli, Ankit Singh Rawat, Sashank Reddi, Sanjiv Kumar. 2020. [Are Transformers universal approximators of sequence-to-sequence functions?](https://openreview.net/forum?id=ByxRM0Ntvr). In *Proceedings of ICLR 2020*. 
-wprd
+* Chulhee Yun, Srinadh Bhojanapalli, Ankit Singh Rawat, Sashank Reddi, Sanjiv Kumar. 2020. [Are Transformers universal approximators of sequence-to-sequence functions?](https://openreview.net/forum?id=ByxRM0Ntvr). In *Proceedings of ICLR 2020*.
+
 <h3 id="linguistic_interpretation">Linguistic Interpretation</h3>
 
 * Felix Hill, Kyunghyun Cho, Sebastien Jean, Coline Devin, and Yoshua Bengio. 2015. [Embedding Word Similarity with Neural Machine Translation](https://arxiv.org/pdf/1412.6448.pdf). In *Proceedings of ICLR 2015*. ([Citation](https://scholar.google.com/scholar?cites=3941248209566557946&as_sdt=2005&sciodt=0,5&hl=en): 24)
