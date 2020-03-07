@@ -351,6 +351,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Kyra Yee, Nathan Ng, Yann N. Dauphin, and Michael Auli. 2019. [Simple and Effective Noisy Channel Modeling for Neural Machine Translation](https://arxiv.org/pdf/1908.05731). In *Proceedings of EMNLP 2019*.
 * Sarthak Garg, Stephan Peitz, Udhyakumar Nallasamy, and Matthias Paulik. 2019. [Jointly Learning to Align and Translate with Transformer Models](https://arxiv.org/pdf/1909.02074). In *Proceedings of EMNLP 2019*.
 * tianchi bi, hao xiong, Zhongjun He, Hua Wu and Haifeng Wang. 2019. [Multi-agent Learning for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1079.pdf). In *Proceedings of EMNLP 2019*.
+* Zaixiang Zheng, Shujian Huang, Zhaopeng Tu, Xin-Yu Dai, and Jiajun Chen. 2019. [Dynamic Past and Future for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1086/). In *Proceedings of EMNLP 2019*.
 * Yiren Wang, Yingce Xia, Fei Tian, Fei Gao, Tao Qin, Cheng Xiang Zhai, Tie-Yan Liu. 2019. [Neural Machine Translation with Soft Prototype](https://papers.nips.cc/paper/8861-neural-machine-translation-with-soft-prototype). In *Proceedings of NeurIPS 2019*.
 * Chenze Shao, Jinchao Zhang, Yang Feng, Fandong Meng and Jie Zhou. 2020. [Minimizing the Bag-of-Ngrams Difference for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1911.09320.pdf). In *Proceedings of AAAI 2020*
 * Junliang Guo, Xu Tan, Linli Xu, Tao Qin, Enhong Chen, Tie-Yan Liu. 2020. [Fine-Tuning by Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://arxiv.org/abs/1911.08717). In *Proceedings of AAAI 2020*
@@ -677,6 +678,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Raphael Shu, Hideki Nakayama, and Kyunghyun Cho. 2019. [Generating Diverse Translations with Sentence Codes](https://www.aclweb.org/anthology/P19-1177). In *Proceedings of ACL 2019*.
 * Daphne Ippolito, Reno Kriz, Joao Sedoc, Maria Kustikova, and Chris Callison-Burch. 2019. [Comparison of Diverse Decoding Methods from Conditional Language Models](https://www.aclweb.org/anthology/P19-1365). In *Proceedings of ACL 2019*.
 * Xing Niu and Marine Carpuat. 2020. [Controlling Neural Machine Translation Formality with Synthetic Supervision](https://arxiv.org/abs/1911.08706). In *Proceedings of AAAI 2020*.
+* Zewei Sun, Shujian Huang, Hao-Ran Wei, Xin-yu Dai, and Jiajun Chen. 2020. [Generating Diverse Translation by Manipulating Multi-Head Attention](https://arxiv.org/pdf/1911.09333). In *Proceedings of AAAI 2020*.
 
 <h3 id="efficiency">Efficiency</h3>
 
