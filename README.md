@@ -594,6 +594,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Yanyang Li, Tong Xiao, Yinqiao Li, Qiang Wang, Changming Xu, and Jingbo Zhu. 2018. [A Simple and Effective Approach to Coverage-Aware Neural Machine Translation](http://aclweb.org/anthology/P18-2047). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=9588245142858602659&as_sdt=2005&sciodt=0,5&hl=en): 1)
 * Zaixiang Zheng, Hao Zhou, Shujian Huang, Lili Mou, Xinyu Dai, Jiajun Chen, and Zhaopeng Tu. 2018. [Modeling Past and Future for Neural Machine Translation](https://aclanthology.coli.uni-saarland.de/events/tacl-2018). *Transactions of the Association for Computational Linguistics*. ([Citation](https://scholar.google.com.hk/scholar?cites=3361428233702531610&as_sdt=2005&sciodt=0,5&hl=en): 10)
 * Xiang Kong, Zhaopeng Tu, Shuming Shi, Eduard Hovy, and Tong Zhang. [Neural Machine Translation with Adequacy-Oriented Learning](https://arxiv.org/pdf/1811.08541.pdf). In *Proceedings of AAAI 2019*.
+* Zaixiang Zheng, Shujian Huang, Zhaopeng Tu, Xin-Yu Dai, and Jiajun Chen. 2019. [Dynamic Past and Future for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1086/). In *Proceedings of EMNLP 2019*.
 
 <h3 id="document_level_translation">Document-level Translation</h3>
 
