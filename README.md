@@ -715,7 +715,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 
 <h3 id="NAT">Non-Autoregressive Translation</h3>
 
-* Jiatao Gu, James Bradbury, Caiming Xiong, Victor O.K. Li, and Richard Socher. 2018. [Non-Autoregressive Neural Machine Translation](https://arxiv.org/abs/1711.02281). In *Proceedings of ICLR 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=3482831974828539059&as_sdt=2005&sciodt=0,5&hl=en): 23)
+* Jiatao Gu, James Bradbury, Caiming Xiong, Victor O.K. Li, and Richard Socher. 2018. [Non-Autoregressive Neural Machine Translation](https://arxiv.org/abs/1711.02281). In *Proceedings of ICLR 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=3482831974828539059&as_sdt=2005&sciodt=0,5&hl=en): 93)
 * Chunqi Wang, Ji Zhang, and Haiqing Chen. 2018. [Semi-Autoregressive Neural Machine Translation](http://aclweb.org/anthology/D18-1044). In *Proceedings of EMNLP 2018*.  
 * Jason Lee, Elman Mansimov, and Kyunghyun Cho. 2018. [Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement](http://aclweb.org/anthology/D18-1149). In *Proceedings of EMNLP 2018*. 
 * Jindřich Libovický and Jindřich Helcl. 2018. [End-to-End Non-Autoregressive Neural Machine Translation with Connectionist Temporal Classification](http://aclweb.org/anthology/D18-1336). In *Proceedings of EMNLP 2018*. 
@@ -726,7 +726,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Chenze Shao, Yang Feng, Jinchao Zhang, Fandong Meng, Xilin Chen, and Jie Zhou. 2019. [Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1906.09444). In *Proceedings of ACL 2019*.
 * Bingzhen Wei, Mingxuan Wang, Hao Zhou, Junyang Lin, and Xu Sun. 2019. [Imitation Learning for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/P19-1125). In *Proceedings of ACL 2019*.
 * Jiatao Gu, Changhan Wang, Junbo Zhao. 2019. [Levenshtein Transformer](https://papers.nips.cc/paper/9297-levenshtein-transformer). In *Proceedings of NeurIPS 2019*.
-* Junliang Guo, Xu Tan, Di He, Tao Qin, Linli Xu, and Tie-Yan Liu. 2019. [Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input](https://arxiv.org/pdf/1812.09664.pdf). In *Proceedings of AAAI 2019*. ([Citation](https://scholar.google.com/scholar?cites=14984310531770070805&as_sdt=2005&sciodt=0,5&hl=en): 2)
+* Junliang Guo, Xu Tan, Di He, Tao Qin, Linli Xu, and Tie-Yan Liu. 2019. [Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input](https://arxiv.org/pdf/1812.09664.pdf). In *Proceedings of AAAI 2019*.
 * Yiren Wang, Fei Tian, Di He, Tao Qin, ChengXiang Zhai, and Tie-Yan Liu. 2019. [Non-Autoregressive Machine Translation with Auxiliary Regularization](https://arxiv.org/pdf/1902.10245.pdf). In *Proceedings of AAAI 2019*.
 * Junliang Guo, Xu Tan, Linli Xu, Tao Qin, Enhong Chen, Tie-Yan Liu. 2020. [Fine-Tuning by Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://arxiv.org/abs/1911.08717). In *Proceedings of AAAI 2020*.
 * Chenze Shao, Jinchao Zhang, Yang Feng, Fandong Meng and Jie Zhou. 2020. [Minimizing the Bag-of-Ngrams Difference for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1911.09320.pdf). In *Proceedings of AAAI 2020*
