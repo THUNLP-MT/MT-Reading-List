@@ -1035,6 +1035,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Gábor Berend. 2020. [Massively Multilingual Sparse Word Representations](https://openreview.net/forum?id=HyeYTgrFPB). In *Proceedings of ICLR 2020*.
 * Xu Zhao, Zihao Wang, Yong Zhang and Hao Wu. 2020. [A Relaxed Matching Procedure for Unsupervised BLI](https://www.aclweb.org/anthology/2020.acl-main.274/). In *Proceedings of ACL 2020*.
 * Mladen Karan, Ivan Vulić, Anna Korhonen and Goran Glavaš. 2020. [Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction](https://www.aclweb.org/anthology/2020.acl-main.618/). In *Proceedings of ACL 2020*.
+* Shuo Ren, Shujie Liu, Ming Zhou and Shuai Ma. 2020. [A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction](https://www.aclweb.org/anthology/2020.acl-main.318/). In *Proceedings of ACL 2020*.
 
 <h2 id="wmt_winners">WMT Winners</h2>
 
