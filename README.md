@@ -936,7 +936,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Kai Fan, Jiayi Wang, Bo Li, Fengming Zhou, Boxing Chen, and Luo Si. 2019. ["Bilingual Expert" Can Find Translation Errors](https://arxiv.org/pdf/1807.09433). In *Proceedings of AAAI 2019*.
 * Aditya Siddhant, Melvin Johnson, Henry Tsai, Naveen Arivazhagan, Jason Riesa, Ankur Bapna, Orhan Firat and Karthik Raman. 2020. [Evaluating the Cross-Lingual Effectiveness of Massively Multilingual Neural Machine Translation](https://arxiv.org/abs/1909.00437). In *Proceedings of AAAI 2020*.
 * Shu Okabe, Frédéric Blain, and Lucia Specia. 2020. [Multimodal Quality Estimation for Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.114/). In *Proceedings of ACL 2020*.
-
+* Marina Fomicheva, Shuo Sun, Lisa Yankovskaya, Frédéric Blain, Francisco Guzmán, Mark Fishel, Nikolaos Aletras, Vishrav Chaudhary, and Lucia Specia. 2020. [Unsupervised Quality Estimation for Neural Machine Translation](https://arxiv.org/abs/2005.10608). *Transactions of the Association for Computational Linguistics*.
 
 <h3 id="human_centered">Human-centered NMT</h3>
 
