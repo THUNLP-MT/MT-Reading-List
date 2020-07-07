@@ -301,6 +301,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Weiqiu You, Simeng Sun and Mohit Iyyer. 2020. [Hard-Coded Gaussian Attention for Neural Machine Translation](https://arxiv.org/abs/2005.00742). In *Proceedings of ACL 2020*.
 * Emanuele Bugliarello and Naoaki Okazaki. 2020. [Enhancing Machine Translation with Dependency-Aware Self-Attention](http://arxiv.org/abs/1909.03149). In *Proceedings of ACL 2020*.
 * Yann Dubois, Gautier Dagan, Dieuwke Hupkes, Elia Bruni. 2020. [Location Attention for Extrapolation to Longer Sequences](https://www.aclweb.org/anthology/2020.acl-main.39/). In *Proceedings of ACL 2020*.
+* Michael Hahn. 2020. [Theoretical Limitations of Self-Attention in Neural Sequence Models](https://transacl.org/ojs/index.php/tacl/article/view/1815). *Transactions of the Association for Computational Linguistics*.
 
 <h3 id="open_vocabulary">Open Vocabulary</h3>
 
@@ -629,6 +630,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Emanuele Bugliarello and Naoaki Okazaki. 2020. [Enhancing Machine Translation with Dependency-Aware Self-Attention](http://arxiv.org/abs/1909.03149). In *Proceedings of ACL 2020*.
 * Kehai Chen, Rui Wang, Masao Utiyama, and Eiichiro Sumita. 2020. [Content Word Aware Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.34/). In *Proceedings of ACL 2020*.
 * Jian Yang, Shuming Ma, Dongdong Zhang, Zhoujun Li and Ming Zhou. 2020. [Improving Neural Machine Translation with Soft Template Prediction](https://www.aclweb.org/anthology/2020.acl-main.531/). In *Proceedings of ACL 2020*.
+* R. Thomas McCoy, Robert Frank and Tal Linzen. 2020. [Does Syntax Need to Grow on Trees? Sources of Hierarchical Inductive Bias in Sequence-to-Sequence Networks](https://transacl.org/ojs/index.php/tacl/article/view/1892). *Transactions of the Association for Computational Linguistics*.
 
 <h4 id="coverage_constraints">Coverage Constraints</h4>
 
@@ -744,6 +746,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Danielle Saunders and Bill Byrne. 2020. [Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem](http://arxiv.org/abs/2004.04498). In *Proceedings of ACL 2020*.
 * Dirk Hovy, Federico Bianchi and Tommaso Fornaciari. 2020. [“You Sound Just Like Your Father” Commercial Machine Translation Systems Include Stylistic Biases](https://www.aclweb.org/anthology/2020.acl-main.154/). In *Proceedings of ACL 2020*.
 * Luisa Bentivogli, Beatrice Savoldi, Matteo Negri, Mattia A. Di Gangi, Roldano Cattoni and Marco Turchi. 2020. [Gender in Danger? Evaluating Speech Translation Technology on the MuST-SHE Corpus](https://www.aclweb.org/anthology/2020.acl-main.619/). In *Proceedings of ACL 2020*.
+* Sorami Hisamoto, Matt Post and Kevin Duh. 2020. [Membership Inference Attacks on Sequence-to-Sequence Models: Is My Data In Your Machine Translation System?](https://transacl.org/ojs/index.php/tacl/article/view/1779). *Transactions of the Association for Computational Linguistics*.
 
 <h3 id="efficiency">Efficiency</h3>
 
@@ -791,6 +794,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Jinhua Zhu, Yingce Xia, Lijun Wu, Di He, Tao Qin, Wengang Zhou, Houqiang Li, Tieyan Liu. 2020. [Incorporating BERT into Neural Machine Translation](https://openreview.net/forum?id=Hyl7ygStwB). In *Proceedings of ICLR 2020*.
 * Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov and Luke Zettlemoyer. 2020. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461). In *Proceedings of ACL 2020*.
 * Thibault Sellam, Dipanjan Das and Ankur Parikh. 2020. [BLEURT: Learning Robust Metrics for Text Generation](https://www.aclweb.org/anthology/2020.acl-main.704/). In *Proceedings of ACL 2020*.
+* Sascha Rothe, Shashi Narayan and Aliaksei Severyn. 2020. [Leveraging Pre-trained Checkpoints for Sequence Generation Tasks](https://transacl.org/ojs/index.php/tacl/article/view/1849). *Transactions of the Association for Computational Linguistics*.
 
 <h3 id="NAT">Non-Autoregressive Translation</h3>
 
