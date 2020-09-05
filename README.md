@@ -705,7 +705,6 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Felix Stahlberg and Bill Byrne. 2019. [On NMT Search Errors and Model Errors: Cat Got Your Tongue?](https://arxiv.org/pdf/1908.10090). In *Proceedings of EMNLP 2019*.
 * Gino Brunner, Yang Liu, Damian Pascual, Oliver Richter, Massimiliano Ciaramita, Roger Wattenhofer. 2020. [On Identifiability in Transformers](https://openreview.net/forum?id=BJg1f6EFDB). In *Proceedings of ICLR 2020*.
 * Chulhee Yun, Srinadh Bhojanapalli, Ankit Singh Rawat, Sashank Reddi, Sanjiv Kumar. 2020. [Are Transformers universal approximators of sequence-to-sequence functions?](https://openreview.net/forum?id=ByxRM0Ntvr). In *Proceedings of ICLR 2020*.
-* Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. 2020. [Evaluating Explanation Methods for Neural Machine Translation](https://arxiv.org/abs/2005.01672). In *Proceedings of ACL 2020*.
 * Akash Kumar Mohankumar, Preksha Nema, Sharan Narasimhan, Mitesh M. Khapra, Balaji Vasan Srinivasan and Balaraman Ravindran. 2020. [Towards Transparent and Explainable Attention Models](https://arxiv.org/abs/2004.14243). In *Proceedings of ACL 2020*.
 * Samira Abnar and Willem Zuidema. 2020. [Quantifying Attention Flow in Transformers](https://arxiv.org/abs/2005.00928). In *Proceedings of ACL 2020*.
 * Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. 2020. [Evaluating Explanation Methods for Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.35/). In *Proceedings of ACL 2020*.
