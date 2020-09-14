@@ -659,11 +659,13 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Elena Voita, Rico Sennrich, and Ivan Titov. 2019. [Context-Aware Monolingual Repair for Neural Machine Translation](https://arxiv.org/pdf/1909.01383). In *Proceedings of EMNLP 2019*.
 * Zhengxin Yang, Jinchao Zhang, Fandong Meng, Shuhao Gu, Yang Feng, and Jie Zhou. 2019. [Enhancing Context Modeling with a Query-Guided Capsule Network for Document-level Translation](https://arxiv.org/abs/1909.00564). In *Proceedings of EMNLP 2019*.
 * Xin Tan, Longyin Zhang, Deyi Xiong, Guodong Zhou. 2019. [Hierarchical Modeling of Global Context for Document-Level Neural Machine Translation](https://www.aclweb.org/anthology/D19-1168/). In *Proceedings of EMNLP 2019*.
+* Yunsu Kim, Duc Thanh Tran, Hermann Ney. 2019. [When and Why is Document-level Context Useful in Neural Machine Translation?](https://arxiv.org/abs/1910.00294) In *Proceedings of DiscoMT@EMNLP 2019*.
 * Zuchao Li, Rui Wang, Kehai Chen, Masao Utiyama, Eiichiro Sumita, Zhuosheng Zhang and Hai Zhao. 2020. [Explicit Sentence Compression for Neural Machine Translation](https://arxiv.org/abs/1912.11980). In *Proceedings of AAAI 2020*.
 * Bei Li, Hui Liu, Ziyang Wang, Yufan Jiang, Tong Xiao, Jingbo Zhu, Tongran Liu and Changliang Li. 2020. [Does Multi-Encoder Help? A Case Study on Context-Aware Neural Machine Translation](http://arxiv.org/abs/2005.03393). In *Proceedings of ACL 2020*.
 * Xintong Li, Lemao Liu, Rui Wang, Guoping Huang and Max Meng. 2020. [Regularized Context Gates on Transformer for Machine Translation](https://arxiv.org/abs/1908.11020). In *Proceedings of ACL 2020*.
 * Danielle Saunders, Felix Stahlberg and Bill Byrne. 2020. [Using Context in Neural Machine Translation Training Objectives](https://arxiv.org/abs/2005.01483). In *Proceedings of ACL 2020*.
 * Shuming Ma, Dongdong Zhang and Ming Zhou. 2020. [A Simple and Effective Unified Encoder for Document-Level Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.321/). In *Proceedings of ACL 2020*.
+* Zaixiang Zheng, Xiang Yue, Shujian Huang, Jiajun Chen, Alexandra Birch. 2020. [Towards Making the Most of Context in Neural Machine Translation](https://arxiv.org/abs/2002.07982). In *Proceedings of IJCAI 2020*.
 * Lei Yu, Laurent Sartran, Wojciech Stokowiec, Wang Ling, Lingpeng Kong, Phil Blunsom and Chris Dyer. 2020. [Better Document-Level Machine Translation with Bayes' Rule](https://arxiv.org/abs/1910.00553). *Transactions of the Association for Computational Linguistics*.
 
 <h3 id="robustness">Robustness</h3>
