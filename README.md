@@ -252,7 +252,6 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Ruibin Xiong, Yunchang Yang, Di He, Kai Zheng, Shuxin Zheng, Chen Xing, Huishuai Zhang, Yanyan Lan, Liwei Wang, and Tie-Yan Liu. 2020. [On Layer Normalization in the Transformer Architecture](https://arxiv.org/abs/2002.04745). In *Proceedings of ICML 2020*. 
 * Thomas Bachlechner, Bodhisattwa Prasad Majumder, Huanru Henry Mao, Garrison W. Cottrell, and Julian McAuley. 2020. [ReZero is All You Need: Fast Convergence at Large Depth](https://arxiv.org/abs/2003.04887). *arXiv:2003.04887*.
 * Yongjing Yin, Fandong Meng, Jinsong Su, Chulun Zhou, Zhengyuan Yang, Jie Zhou and Jiebo Luo. 2020. [A Novel Graph-based Multi-modal Fusion Encoder for Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.273/). In *Proceedings of ACL 2020*.
-* Yekun Chai, Shuo Jin and Xinwen Hou. 2020. [Highway Transformer: Self-Gating Enhanced Self-Attentive Networks](https://www.aclweb.org/anthology/2020.acl-main.616/). In *Proceedings of ACL 2020*.
 * Arya D. McCarthy, Xian Li, Jiatao Gu and Ning Dong. 2020. [Addressing Posterior Collapse with Mutual Information for Improved Variational Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.753/). In *Proceedings of ACL 2020*.
 
 <h3 id="attention_mechanism">Attention Mechanism</h3>
