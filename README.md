@@ -326,7 +326,6 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Duygu Ataman, Wilker Aziz, Alexandra Birch. 2020. [A Latent Morphology Model for Open-Vocabulary Neural Machine Translation](https://openreview.net/forum?id=BJxSI1SKDH). In *Proceedings of ICLR 2020*.
 * Xuanli He, Gholamreza Haffari and Mohammad Norouzi. 2020. [Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation](https://arxiv.org/abs/2005.06606). In *Proceedings of ACL 2020*.
 * Yingqiang Gao, Nikola I. Nikolov, Yuhuang Hu and Richard H.R. Hahnloser. 2020. [Character-Level Translation with Self-attention](https://arxiv.org/abs/2004.14788). In *Proceedings of ACL 2020*.
-* Pratik Jawanpuria, Mayank Meghwanshi and Bamdev Mishra. 2020. [Geometry-aware domain adaptation for unsupervised alignment of word embeddings](https://www.aclweb.org/anthology/2020.acl-main.276/). In *Proceedings of ACL 2020*.
 
 <h3 id="training">Training Objectives and Frameworks</h3>
 
@@ -1042,6 +1041,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Xu Zhao, Zihao Wang, Yong Zhang and Hao Wu. 2020. [A Relaxed Matching Procedure for Unsupervised BLI](https://www.aclweb.org/anthology/2020.acl-main.274/). In *Proceedings of ACL 2020*.
 * Mladen Karan, Ivan Vulić, Anna Korhonen and Goran Glavaš. 2020. [Classification-Based Self-Learning for Weakly Supervised Bilingual Lexicon Induction](https://www.aclweb.org/anthology/2020.acl-main.618/). In *Proceedings of ACL 2020*.
 * Shuo Ren, Shujie Liu, Ming Zhou and Shuai Ma. 2020. [A Graph-based Coarse-to-fine Method for Unsupervised Bilingual Lexicon Induction](https://www.aclweb.org/anthology/2020.acl-main.318/). In *Proceedings of ACL 2020*.
+* Pratik Jawanpuria, Mayank Meghwanshi and Bamdev Mishra. 2020. [Geometry-aware domain adaptation for unsupervised alignment of word embeddings](https://www.aclweb.org/anthology/2020.acl-main.276/). In *Proceedings of ACL 2020*.
 
 <h2 id="wmt_winners">WMT Winners</h2>
 
