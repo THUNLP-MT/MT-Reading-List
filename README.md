@@ -339,6 +339,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Duygu Ataman, Wilker Aziz, Alexandra Birch. 2020. [A Latent Morphology Model for Open-Vocabulary Neural Machine Translation](https://openreview.net/forum?id=BJxSI1SKDH). In *Proceedings of ICLR 2020*.
 * Xuanli He, Gholamreza Haffari and Mohammad Norouzi. 2020. [Dynamic Programming Encoding for Subword Segmentation in Neural Machine Translation](https://arxiv.org/abs/2005.06606). In *Proceedings of ACL 2020*.
 * Yingqiang Gao, Nikola I. Nikolov, Yuhuang Hu and Richard H.R. Hahnloser. 2020. [Character-Level Translation with Self-attention](https://arxiv.org/abs/2004.14788). In *Proceedings of ACL 2020*.
+* Ivan Provilkov, Dmitrii Emelianenko, Elena Voita. 2020. [BPE-Dropout: Simple and Effective Subword Regularization](https://arxiv.org/abs/1910.13267). In *Proceedings of ACL 2020*.
 * Jindřich Libovický, Alexander Fraser. 2020. [Towards Reasonably-Sized Character-Level Transformer NMT by Finetuning Subword Systems](https://www.aclweb.org/anthology/2020.emnlp-main.203/). In *Proceedings of EMNLP 2020*.
 
 <h3 id="training">Training Objectives and Frameworks</h3>
