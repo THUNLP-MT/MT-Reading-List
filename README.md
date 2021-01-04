@@ -5,6 +5,7 @@ The past three decades have witnessed the rapid development of machine translati
 
 
 * [10 Must Reads](#10_must_reads)
+* [Tutorials and Surveys](#surveys)
 * [Statistical Machine Translation](#statistical_machine_translation)
     * [Tutorials](#smt_tutorials)
     * [Word-based Models](#word_based_models)
@@ -76,13 +77,19 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Rico Sennrich, Barry Haddow, and Alexandra Birch. 2016. [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf). In *Proceedings of ACL 2016*. ([Citation](https://scholar.google.com/scholar?cites=1307964014330144942&as_sdt=2005&sciodt=0,5&hl=en): 1,679)
 * Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. 2017. [Attention is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf). In *Proceedings of NIPS 2017*. ([Citation](https://scholar.google.com/scholar?cites=2960712678066186980&as_sdt=2005&sciodt=0,5&hl=en): 6,112)
 
+<h2 id="surveys">Tutorials and Surveys</h2> 
+
+* Zhixing Tan, Shuo Wang, Zonghan Yang, Gang Chen, Xuancheng Huang, Maosong Sun, and Yang Liu. 2020. [Neural Machine Translation: A Review of Methods, Resources, and Tools](https://arxiv.org/abs/2012.15515). *AI Open*.
+* Felix Stahlberg. 2020. [Neural Machine Translation: A Review and Survey](https://arxiv.org/abs/1912.02047). *Journal of Artificial Intelligence Research*.
+* Philipp Koehn and Rebecca Knowles. 2017. [Six Challenges for Neural Machine Translation](http://www.aclweb.org/anthology/W17-3204). In *Proceedings of the First Workshop on Neural Machine Translation*.
+* Philipp Koehn. 2017. [Neural Machine Translation](https://arxiv.org/abs/1709.07809). *arxiv:1709.07809*. 
+* Oriol Vinyals and Navdeep Jaitly. 2017. [Seq2Seq ICML Tutorial](https://docs.google.com/presentation/d/1quIMxEEPEf5EkRHc2USQaoJRC4QNX6_KomdZTBMBWjk/present?slide=id.p). *ICML 2017 Tutorial*.
+* Graham Neubig. 2017. [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf). *arXiv:1703.01619*. ([Citation](https://scholar.google.com/scholar?cites=17621873290135947085&as_sdt=2005&sciodt=0,5&hl=en): 45)
+* Thang Luong, Kyunghyun Cho, and Christopher Manning. 2016. [Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf). *ACL 2016 Tutorial*.  
+* Adam Lopez. 2008. [Statistical Machine Translation](http://delivery.acm.org/10.1145/1390000/1380586/a8-lopez.pdf?ip=101.5.129.50&id=1380586&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1546058891_981e84a24804f2dbc0549b9892a2ea1d). *ACM Computing Surveys*.
+* Philipp Koehn. 2006. [Statistical Machine Translation: the Basic, the Novel, and the Speculative](http://homepages.inf.ed.ac.uk/pkoehn/publications/tutorial2006.pdf). *EACL 2006 Tutorial*.
+
 <h2 id="statistical_machine_translation">Statistical Machine Translation</h2>
-
-<h3 id="smt_tutorials">Tutorials</h3>
-
-* Philipp Koehn. 2006. [Statistical Machine Translation: the Basic, the Novel, and the Speculative](http://homepages.inf.ed.ac.uk/pkoehn/publications/tutorial2006.pdf). *EACL 2006 Tutorial*. ([Citation](https://scholar.google.com.hk/scholar?cites=226053141145183075&as_sdt=2005&sciodt=0,5&hl=en): 10)
-* Adam Lopez. 2008. [Statistical Machine Translation](http://delivery.acm.org/10.1145/1390000/1380586/a8-lopez.pdf?ip=101.5.129.50&id=1380586&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1546058891_981e84a24804f2dbc0549b9892a2ea1d). *ACM Computing Surveys*. ([Citation](https://scholar.google.com.hk/scholar?cites=13327711981648149476&as_sdt=2005&sciodt=0,5&hl=en): 373)
-
 
 <h3 id="word_based_models">Word-based Models</h3>
 
@@ -171,14 +178,6 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Ricardo Rei, Craig Stewart, Ana C Farinha, Alon Lavie. 2020. [COMET: A Neural Framework for MT Evaluation](https://www.aclweb.org/anthology/2020.emnlp-main.213/). In *Proceedings of EMNLP 2020*.
 
 <h2 id="neural_machine_translation">Neural Machine Translation</h2>
-
-<h3 id="nmt_tutorials">Tutorials</h3>
-
-* Thang Luong, Kyunghyun Cho, and Christopher Manning. 2016. [Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf). *ACL 2016 Tutorial*.  
-* Graham Neubig. 2017. [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf). *arXiv:1703.01619*. ([Citation](https://scholar.google.com/scholar?cites=17621873290135947085&as_sdt=2005&sciodt=0,5&hl=en): 45)
-* Oriol Vinyals and Navdeep Jaitly. 2017. [Seq2Seq ICML Tutorial](https://docs.google.com/presentation/d/1quIMxEEPEf5EkRHc2USQaoJRC4QNX6_KomdZTBMBWjk/present?slide=id.p). *ICML 2017 Tutorial*.
-* Philipp Koehn. 2017. [Neural Machine Translation](https://arxiv.org/abs/1709.07809). *arxiv:1709.07809*. 
-* Philipp Koehn and Rebecca Knowles. 2017. [Six Challenges for Neural Machine Translation](http://www.aclweb.org/anthology/W17-3204). In *Proceedings of the First Workshop on Neural Machine Translation*. ([Citation](https://scholar.google.com/scholar?cites=2797085496823228867&as_sdt=2005&sciodt=0,5&hl=en): 121)
 
 <h3 id="model_architecture">Model Architecture</h3>
 
@@ -576,6 +575,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Sungwon Lyu, Bokyung Son, Kichang Yang, Jaekyoung Bae. 2020. [Revisiting Modularized Multilingual NMT to Meet Industrial Demands](https://www.aclweb.org/anthology/2020.emnlp-main.476/). In *Proceedings of EMNLP 2020*.
 * Arturo Oncevay, Barry Haddow, Alexandra Birch. 2020. [Bridging Linguistic Typology and Multilingual Machine Translation with Multi-View Language Representations](https://www.aclweb.org/anthology/2020.emnlp-main.187/). In *Proceedings of EMNLP 2020*.
 * Yiren Wang, ChengXiang Zhai, Hany Hassan. 2020. [Multi-task Learning for Multilingual Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.75/). In *Proceedings of EMNLP 2020*.
+* Raj Dabre, Chenhui Chu, Anoop Kunchukuttan. 2020. [A Comprehensive Survey of Multilingual Neural Machine Translation](https://arxiv.org/abs/2001.01115). *arXiv:2001.01115*.
 
 <h3 id="prior_knowledge_integration">Prior Knowledge Integration</h3>
 
