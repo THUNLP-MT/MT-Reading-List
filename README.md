@@ -261,6 +261,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Xiangpeng Wei, Heng Yu, Yue Hu, Rongxiang Weng, Luxi Xing, Weihua Luo. 2020. [Uncertainty-Aware Semantic Augmentation for Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.216/). In *Proceedings of EMNLP 2020*.
 * Xian Li, Asa Cooper Stickland, Yuqing Tang, Xiang Kong. 2020. [Deep Transformers with Latent Depth](https://papers.nips.cc/paper/2020/file/1325cdae3b6f0f91a1b629307bf2d498-Paper.pdf). In *Proceedings of NeurIPS 2020*.
 * Manzil Zaheer, Guru Guruganesh, Kumar Avinava Dubey, Joshua Ainslie, Chris Alberti, Santiago Ontanon, Philip Pham, Anirudh Ravula, Qifan Wang, Li Yang, Amr Ahmed. 2020. [Big Bird: Transformers for Longer Sequences](https://papers.nips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf). In *Proceedings of NeurIPS 2020*.
+* Urvashi Khandelwal, Angela Fan, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis. 2021. [Nearest Neighbor Machine Translation](https://openreview.net/pdf?id=7wCBOfJ8hJM). In *Proceedings of ICLR 2021*.
 
 <h3 id="attention_mechanism">Attention Mechanism</h3>
 
@@ -507,6 +508,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Hao-Ran Wei, Zhirui Zhang, Boxing Chen, Weihua Luo. 2020. [Iterative Domain-Repaired Back-Translation](https://www.aclweb.org/anthology/2020.emnlp-main.474/). In *Proceedings of EMNLP 2020*.
 * Xuan-Phi Nguyen, Shafiq Joty, Kui Wu, Ai Ti Aw. 2020. [Data Diversification: A Simple Strategy For Neural Machine Translation](https://papers.nips.cc/paper/2020/file/7221e5c8ec6b08ef6d3f9ff3ce6eb1d1-Paper.pdf). In *Proceedings of NeurIPS 2020*. 
 * Christos Baziotis, Barry Haddow, Alexandra Birch. 2020. [Language Model Prior for Low-Resource Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.615/). In *Proceedings of EMNLP 2020*.
+* Hieu Pham, Xinyi Wang, Yiming Yang, Graham Neubig. 2021. [Meta Back-Translation](https://openreview.net/pdf?id=3jjmdp7Hha). In *Proceedings of ICLR 2021*.
 
 <h4 id="data_selection">Data Selection Methods</h4>
 
@@ -574,6 +576,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Arturo Oncevay, Barry Haddow, Alexandra Birch. 2020. [Bridging Linguistic Typology and Multilingual Machine Translation with Multi-View Language Representations](https://www.aclweb.org/anthology/2020.emnlp-main.187/). In *Proceedings of EMNLP 2020*.
 * Yiren Wang, ChengXiang Zhai, Hany Hassan. 2020. [Multi-task Learning for Multilingual Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.75/). In *Proceedings of EMNLP 2020*.
 * Raj Dabre, Chenhui Chu, Anoop Kunchukuttan. 2020. [A Comprehensive Survey of Multilingual Neural Machine Translation](https://arxiv.org/abs/2001.01115). *arXiv:2001.01115*.
+* Biao Zhang, Ankur Bapna, Rico Sennrich, Orhan Firat. 2021. [Share or Not? Learning to Schedule Language-Specific Capacity for Multilingual Translation](https://openreview.net/pdf?id=Wj4ODo0uyCF). In *Proceedings of ICLR 2021*.
 
 <h3 id="prior_knowledge_integration">Prior Knowledge Integration</h3>
 
@@ -874,6 +877,8 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Jason Lee, Raphael Shu, Kyunghyun Cho. 2020. [Iterative Refinement in the Continuous Space for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.73/). In *Proceedings of EMNLP 2020*.
 * Xiang Kong, Zhisong Zhang, Eduard Hovy. 2020. [Incorporating a Local Translation Mechanism into Non-autoregressive Translation](https://www.aclweb.org/anthology/2020.emnlp-main.79/). In *Proceedings of EMNLP 2020*.
 * Chitwan Saharia, William Chan, Saurabh Saxena, Mohammad Norouzi. 2020. [Non-Autoregressive Machine Translation with Latent Alignments](https://www.aclweb.org/anthology/2020.emnlp-main.83/). In *Proceedings of EMNLP 2020*.
+* Jungo Kasai, Nikolaos Pappas, Hao Peng, James Cross, Noah Smith. 2021. [Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation](https://openreview.net/pdf?id=KpfasTaLUpq). In *Proceedings of ICLR 2021*.
+* Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao, Zhaopeng Tu. 2021. [Understanding and Improving Lexical Choice in Non-Autoregressive Translation](https://openreview.net/pdf?id=ZTFeSBIX9C). In *Proceedings of ICLR 2021*.
 
 <h3 id="speech_translation_and_simultaneous_translation">Speech Translation and Simultaneous Translation</h3>
 
