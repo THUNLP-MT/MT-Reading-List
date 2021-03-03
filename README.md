@@ -753,6 +753,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Jierui Li, Lemao Liu, Huayang Li, Guanlin Li, Guoping Huang and Shuming Shi. 2020. [Evaluating Explanation Methods for Neural Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.35/). In *Proceedings of ACL 2020*.
 * Goro Kobayashi, Tatsuki Kuribayashi, Sho Yokoi, Kentaro Inui. 2020. [Attention is Not Only a Weight: Analyzing Transformers with Vector Norms](https://www.aclweb.org/anthology/2020.emnlp-main.574/). In *Proceedings of EMNLP 2020*.
 * Liyuan Liu, Xiaodong Liu, Jianfeng Gao, Weizhu Chen, Jiawei Han. 2020. [Understanding the Difficulty of Training Transformers](https://www.aclweb.org/anthology/2020.emnlp-main.463/). In *Proceedings of EMNLP 2020*.
+* Wenxuan Wang, Zhaopeng Tu. 2020. [Rethinking the Value of Transformer Components](https://www.aclweb.org/anthology/2020.coling-main.529.pdf). In *Proceedings of COLING 2020*.
 
 <h3 id="linguistic_interpretation">Linguistic Interpretation</h3>
 
@@ -877,6 +878,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Jason Lee, Raphael Shu, Kyunghyun Cho. 2020. [Iterative Refinement in the Continuous Space for Non-Autoregressive Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.73/). In *Proceedings of EMNLP 2020*.
 * Xiang Kong, Zhisong Zhang, Eduard Hovy. 2020. [Incorporating a Local Translation Mechanism into Non-autoregressive Translation](https://www.aclweb.org/anthology/2020.emnlp-main.79/). In *Proceedings of EMNLP 2020*.
 * Chitwan Saharia, William Chan, Saurabh Saxena, Mohammad Norouzi. 2020. [Non-Autoregressive Machine Translation with Latent Alignments](https://www.aclweb.org/anthology/2020.emnlp-main.83/). In *Proceedings of EMNLP 2020*.
+* Liang Ding, Longyue Wang, Di Wu, Dacheng Tao, Zhaopeng Tu. 2020. [Context-Aware Cross-Attention for Non-Autoregressive Translation](https://www.aclweb.org/anthology/2020.coling-main.389.pdf). In *Proceedings of COLING 2020*.
 * Jungo Kasai, Nikolaos Pappas, Hao Peng, James Cross, Noah Smith. 2021. [Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation](https://openreview.net/pdf?id=KpfasTaLUpq). In *Proceedings of ICLR 2021*.
 * Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao, Zhaopeng Tu. 2021. [Understanding and Improving Lexical Choice in Non-Autoregressive Translation](https://openreview.net/pdf?id=ZTFeSBIX9C). In *Proceedings of ICLR 2021*.
 
