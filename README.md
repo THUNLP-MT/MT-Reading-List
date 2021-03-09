@@ -261,7 +261,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Xiangpeng Wei, Heng Yu, Yue Hu, Rongxiang Weng, Luxi Xing, Weihua Luo. 2020. [Uncertainty-Aware Semantic Augmentation for Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.216/). In *Proceedings of EMNLP 2020*.
 * Xian Li, Asa Cooper Stickland, Yuqing Tang, Xiang Kong. 2020. [Deep Transformers with Latent Depth](https://papers.nips.cc/paper/2020/file/1325cdae3b6f0f91a1b629307bf2d498-Paper.pdf). In *Proceedings of NeurIPS 2020*.
 * Manzil Zaheer, Guru Guruganesh, Kumar Avinava Dubey, Joshua Ainslie, Chris Alberti, Santiago Ontanon, Philip Pham, Anirudh Ravula, Qifan Wang, Li Yang, Amr Ahmed. 2020. [Big Bird: Transformers for Longer Sequences](https://papers.nips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf). In *Proceedings of NeurIPS 2020*.
-* Urvashi Khandelwal, Angela Fan, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis. 2021. [Nearest Neighbor Machine Translation](https://openreview.net/pdf?id=7wCBOfJ8hJM). In *Proceedings of ICLR 2021*.
+* Shuhao Gu, Jinchao Zhang, Fandong Meng, Yang Feng, Wanying Xie, Jie Zhou, Dong Yu. 2020. [Token-level Adaptive Training for Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.76/). In *Proceedings of EMNLP 2020*.
 
 <h3 id="attention_mechanism">Attention Mechanism</h3>
 
@@ -439,6 +439,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Julia Kreutzer, George Foster, Colin Cherry. 2020. [Inference Strategies for Machine Translation with Conditional Masking](https://www.aclweb.org/anthology/2020.emnlp-main.465/). In *Proceedings of EMNLP 2020*.
 * Yuntian Deng, Alexander Rush. 2020. [Cascaded Text Generation with Markov Transformers](https://papers.nips.cc/paper/2020/file/01a0683665f38d8e5e567b3b15ca98bf-Paper.pdf). In *Proceedings of NeurIPS 2020*.
 * Clara Meister, Ryan Cotterell, Tim Vieira. 2020. [If beam search is the answer, what was the question?](https://www.aclweb.org/anthology/2020.emnlp-main.170/). In *Proceedings of EMNLP 2020*.
+* Urvashi Khandelwal, Angela Fan, Dan Jurafsky, Luke Zettlemoyer, Mike Lewis. 2021. [Nearest Neighbor Machine Translation](https://openreview.net/pdf?id=7wCBOfJ8hJM). In *Proceedings of ICLR 2021*.
 
 <h3 id="low_resource_language_translation">Low-resource Language Translation</h3>
 
