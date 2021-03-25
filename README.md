@@ -396,7 +396,6 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Rongxiang Weng, Heng Yu, Xiangpeng Wei, Weihua Luo. 2020. [Towards Enhancing Faithfulness for Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.212/). In *Proceedings of EMNLP 2020*. 
 * Yu Wan, Baosong Yang, Derek F. Wong, Yikai Zhou, Lidia S. Chao, Haibo Zhang, Boxing Chen. 2020. [Self-Paced Learning for Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.80/). In *Proceedings of EMNLP 2020*.
 * Wenxiang Jiao, Xing Wang, Shilin He, Irwin King, Michael Lyu, Zhaopeng Tu. 2020. [Data Rejuvenation: Exploiting Inactive Training Examples for Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.176/). In *Proceedings of EMNLP 2020*.
-* Yu Wan, Baosong Yang, Derek F. Wong, Yikai Zhou, Lidia S. Chao, Haibo Zhang, Boxing Chen. 2020. [Self-Paced Learning for Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.80/). In *Proceedings of EMNLP 2020*.
 * Shuhao Gu, Jinchao Zhang, Fandong Meng, Yang Feng, Wanying Xie, Jie Zhou, Dong Yu. 2020. [Token-level Adaptive Training for Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.76/). In *Proceedings of EMNLP 2020*.
 
 <h3 id="decoding">Decoding</h3>
