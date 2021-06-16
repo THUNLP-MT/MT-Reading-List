@@ -881,6 +881,12 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Liang Ding, Longyue Wang, Di Wu, Dacheng Tao, Zhaopeng Tu. 2020. [Context-Aware Cross-Attention for Non-Autoregressive Translation](https://www.aclweb.org/anthology/2020.coling-main.389.pdf). In *Proceedings of COLING 2020*.
 * Jungo Kasai, Nikolaos Pappas, Hao Peng, James Cross, Noah Smith. 2021. [Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation](https://openreview.net/pdf?id=KpfasTaLUpq). In *Proceedings of ICLR 2021*.
 * Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao, Zhaopeng Tu. 2021. [Understanding and Improving Lexical Choice in Non-Autoregressive Translation](https://openreview.net/pdf?id=ZTFeSBIX9C). In *Proceedings of ICLR 2021*.
+* Qiu Ran, Yankai Lin, Peng Li, Jie Zhou. 2021. [Guiding Non-Autoregressive Neural Machine Translation Decoding with Reordering Information](https://arxiv.org/pdf/1911.02215.pdf). In *Proceedings of AAAI 2021*.
+* Yongchang Hao, Shilin He, Wenxiang Jiao, Zhaopeng Tu, Michael R. Lyu, Xing Wang. 2021. [Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation](https://www.aclweb.org/anthology/2021.naacl-main.313.pdf). In *Proceedings of NAACL 2021*.
+* Yu Bao, Shujian Huang, Tong Xiao, Dongqi Wang, Xinyu Dai, Jiajun Chen. 2021. [Non-Autoregressive Translation by Learning Target Categorical Codes](https://www.aclweb.org/anthology/2021.naacl-main.458.pdf). In *Proceedings of NAACL 2021*.
+* Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao, Zhaopeng Tu. 2021. [Progressive Multi-Granularity Training for Non-Autoregressive Translation](https://arxiv.org/pdf/2106.05546.pdf). In *Proceedings of ACL 2021*.
+* Liang Ding, Longyue Wang, Xuebo Liu, Derek F. Wong, Dacheng Tao, Zhaopeng Tu. 2021. [Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation](https://arxiv.org/pdf/2106.00903.pdf). In *Proceedings of ACL 2021*.
+* Cunxiao Du, Zhaopeng Tu, Jing Jiang. 2021. [Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2106.05093.pdf). In *Proceedings of ICML 2021*.
 
 <h3 id="speech_translation_and_simultaneous_translation">Speech Translation and Simultaneous Translation</h3>
 
