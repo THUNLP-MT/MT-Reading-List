@@ -82,6 +82,8 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Philipp Koehn and Rebecca Knowles. 2017. [Six Challenges for Neural Machine Translation](http://www.aclweb.org/anthology/W17-3204). In *Proceedings of the First Workshop on Neural Machine Translation*.
 * Philipp Koehn. 2017. [Neural Machine Translation](https://arxiv.org/abs/1709.07809). *arxiv:1709.07809*. 
 * Oriol Vinyals and Navdeep Jaitly. 2017. [Seq2Seq ICML Tutorial](https://docs.google.com/presentation/d/1quIMxEEPEf5EkRHc2USQaoJRC4QNX6_KomdZTBMBWjk/present?slide=id.p). *ICML 2017 Tutorial*.
+* Raj Dabre, Chenhui Chu, and Anoop Kunchukuttan. 2020. [A Survey of Multilingual Neural Machine Translation](https://doi.org/10.1145/3406095). *ACM Computing Surveys. Surv. 53, 5, Article 99 (October 2020)*. 
+   * Tutorial on [Multilingual Neural Machine Translation](https://github.com/anoopkunchukuttan/multinmt_tutorial_coling2020) at COLING 2020.
 * Graham Neubig. 2017. [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/pdf/1703.01619.pdf). *arXiv:1703.01619*. ([Citation](https://scholar.google.com/scholar?cites=17621873290135947085&as_sdt=2005&sciodt=0,5&hl=en): 45)
 * Thang Luong, Kyunghyun Cho, and Christopher Manning. 2016. [Neural Machine Translation](https://nlp.stanford.edu/projects/nmt/Luong-Cho-Manning-NMT-ACL2016-v4.pdf). *ACL 2016 Tutorial*.  
 * Adam Lopez. 2008. [Statistical Machine Translation](http://delivery.acm.org/10.1145/1390000/1380586/a8-lopez.pdf?ip=101.5.129.50&id=1380586&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1546058891_981e84a24804f2dbc0549b9892a2ea1d). *ACM Computing Surveys*.
