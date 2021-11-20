@@ -449,6 +449,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Hongfei Xu, Qiuhui Liu , Josef van Genabith , Deyi Xiong , Meng Zhang . 2021. [Multi-Head Highly Parallelized LSTM Decoder for Neural Machine Translation](https://aclanthology.org/2021.acl-long.23/). In *Proceedings of ACL 2021*.
 * Yang Feng , Shuhao Gu , Dengji Guo , Zhengxin Yang , Chenze Shao .2021. [Guiding Teacher Forcing with Seer Forcing for Neural Machine Translation](https://aclanthology.org/2021.acl-long.223.pdf) .  In *Proceedings of ACL 2021*.
 * Emre Satir , Hasan Bulut . 2021. [Preventing translation quality deterioration caused by beam search decoding in neural machine translation using statistical machine translation](https://authors.elsevier.com/c/1dxDI4ZQE4FNa) .  In *Information Sciences*, Volume 581, Pages 791-807, https://doi.org/10.1016/j.ins.2021.10.006.
+* Emre Satir , Hasan Bulut . 2021. [A Novel Hybrid Approach to Improve Neural Machine Translation Decoding using Phrase-Based Statistical Machine Translation](https://ieeexplore.ieee.org/document/9548401) .  In *2021 International Conference on INnovations in Intelligent SysTems and Applications (INISTA)*.
 
 <h3 id="low_resource_language_translation">Low-resource Language Translation</h3>
 
