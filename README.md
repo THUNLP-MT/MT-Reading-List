@@ -1074,6 +1074,13 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 
 * Emma Strubell, Ananya Ganesh, and Andrew McCallum. 2019. [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355). In *Proceedings of ACL 2019*.
 
+<h3 id="compositional_generalization">Compositional Generalization<h3>
+
+* Yafu Li, Yongjing Yin, Yulong Chen, Yue Zhang. 2021. [On Compositional Generalization of Neural Machine Translation](https://aclanthology.org/2021.acl-long.368/). In *Proceedings of ACL 2021*.  
+* Verna Dankers, Elia Bruni, Dieuwke Hupkes. 2022. [The Paradox of the Compositionality of Natural Language: A Neural Machine Translation Case Study](https://aclanthology.org/2022.acl-long.286/). In *Proceedings of ACL 2022*.  
+* Hao Zheng, Mirella Lapata. 2022. [Disentangled Sequence to Sequence Learning for Compositional Generalization](https://aclanthology.org/2022.acl-long.293/). In *Proceedings of ACL 2022*. 
+* Verna Dankers, Christopher Lucas, Ivan Titov. 2022. [Can Transformer be Too Compositional? Analysing Idiom Processing in Neural Machine Translation](https://aclanthology.org/2022.acl-long.252/). In *Proceedings of ACL 2022*. 
+
 <h3 id="endangered">Endangered Language Revitalization</h3>
 
 * Shiyue Zhang, Benjamin Frey, Mohit Bansal. 2020. [ChrEn: Cherokee-English Machine Translation for Endangered Language Revitalization](https://www.aclweb.org/anthology/2020.emnlp-main.43/). In *Proceedings of EMNLP 2020*.
