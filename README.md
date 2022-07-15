@@ -53,6 +53,7 @@ The past three decades have witnessed the rapid development of machine translati
         * [Automatic Post-Editing](#ape)
     * [Poetry Translation](#poetry_translation)  
     * [Eco-friendly](#eco_friendly)    
+    * [Compositional Generalization](#compositional_generalization)
     * [Endangered Language Revitalization](#endangered)
 * [Word Translation (Bilingual Lexicon Induction)](#word_translation)
 * [WMT Winners](#wmt_winners)
@@ -1074,7 +1075,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 
 * Emma Strubell, Ananya Ganesh, and Andrew McCallum. 2019. [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355). In *Proceedings of ACL 2019*.
 
-<h3 id="compositional_generalization">Compositional Generalization<h3>
+<h3 id="compositional_generalization">Compositional Generalization</h3>
 
 * Yafu Li, Yongjing Yin, Yulong Chen, Yue Zhang. 2021. [On Compositional Generalization of Neural Machine Translation](https://aclanthology.org/2021.acl-long.368/). In *Proceedings of ACL 2021*.  
 * Verna Dankers, Elia Bruni, Dieuwke Hupkes. 2022. [The Paradox of the Compositionality of Natural Language: A Neural Machine Translation Case Study](https://aclanthology.org/2022.acl-long.286/). In *Proceedings of ACL 2022*.  
