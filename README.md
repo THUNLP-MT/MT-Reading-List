@@ -637,6 +637,7 @@ Self-attentive Sentence Embedding](https://arxiv.org/abs/1703.03130). In *Procee
 * Yun Chen, Yang Liu, Guanhua Chen, Xin Jiang, Qun Liu. 2020. [Accurate Word Alignment Induction from Neural Machine Translation](https://www.aclweb.org/anthology/2020.emnlp-main.42/). In *Proceedings of EMNLP 2020*.
 * Prathyusha Jwalapuram, Shafiq Joty, Youlin Shen. 2020. [Pronoun-Targeted Fine-tuning for NMT with Hybrid Losses](https://www.aclweb.org/anthology/2020.emnlp-main.177/). In *Proceedings of EMNLP 2020*.
 * Jingyi Zhang , Josef van Genabith . [A Bidirectional Transformer Based Alignment Model for Unsupervised Word Alignment](https://aclanthology.org/2021.acl-long.24.pdf) . In *Proceedings of ACL 2021*.
+* Pengcheng Huang, Yongyu Mu, Yuzhang Wu, Bei Li, Chunyang Xiao, Tong Xiao, and Jingbo Zhu. 2024. [Translate-and-Revise: Boosting Large Language Models for Constrained Translation](https://aclanthology.org/2024.ccl-1.82/). In *Proceedings of CCL 2024*.
 
 <h4 id="syntactic_semantic_constraints"> Syntactic/Semantic Constraints </h4>
 
